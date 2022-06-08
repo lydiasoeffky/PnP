@@ -21,10 +21,9 @@
 ```
 
 - arbeitet bei O.P.U.S.
-- habe die Mission erhalten auf Norsch aufzupassen und ihn auf seine Rolle vorzubereiten 
-  
-&ensp . Mission wird von Generation zu Generation weitergegeben
-  . begleite Norsch schon seit er 18 (oder 20) ist
+- habe die Mission erhalten auf Norsch aufzupassen und ihn auf seine Rolle vorzubereiten\
+    . Mission wird von Generation zu Generation weitergegeben\
+    . begleite Norsch schon seit er 18 (oder 20) ist
 
 - bestimmt selbst wen hen beim teleportieren mitnimmt
 
