@@ -27,11 +27,11 @@
 
 - bestimmt selbst wen hen beim teleportieren mitnimmt
 
-- liebt Katzen, Familie hält selbst Katzen 
-	. die normalen Hauskatzen haben die größe eine Raubkatze
-- hat das ein Rezept für einen Frühstücksbrei von einem ihrer früheren Verwandten bekommen 
-	. kommt auf der Erde nur schwer/ gar nicht an die dafür benötigten Zutaten ran 
-	. Rezept: Milch von Eisschafen, Steinkäfer, Wolkenkorn, Steinsalz
+- liebt Katzen, Familie hält selbst Katzen\
+    . die normalen Hauskatzen haben die größe eine Raubkatze
+- hat das ein Rezept für einen Frühstücksbrei von einem ihrer früheren Verwandten bekommen\
+    . kommt auf der Erde nur schwer/ gar nicht an die dafür benötigten Zutaten ran\
+    . Rezept: Milch von Eisschafen, Steinkäfer, Wolkenkorn, Steinsalz\
 
 
 ## Luminis (Astas Heimatplanet):
