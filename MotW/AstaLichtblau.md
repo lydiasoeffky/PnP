@@ -12,15 +12,17 @@
 - man kann hen kein Geschlecht zu ordnen
 
 - Astas Pronomen die hen eigentlich nutzt:
+```
 	Fall		Frage		Pronomen	Beispiel
 	Nominativ	Wer?		hen		Hen benutzt genderneutrale Pronomen.
 	Genitiv		Wessen?		hens		Ich hab hier hens Socken gefunden.
 	Dativ		Wem?		hem		Wir sollten hem bei den Streicharbeiten helfen.
 	Akkusativ	Wen?		hen		Nein, mein Vater hat mir verboten, hen zur Feier einzuladen. 
+```
 
 - arbeitet bei O.P.U.S.
 - habe die Mission erhalten auf Norsch aufzupassen und ihn auf seine Rolle vorzubereiten
-&nbscp . Mission wird von Generation zu Generation weitergegeben
+&nbsp . Mission wird von Generation zu Generation weitergegeben
 	. begleite Norsch schon seit er 18 (oder 20) ist
 
 - bestimmt selbst wen hen beim teleportieren mitnimmt
