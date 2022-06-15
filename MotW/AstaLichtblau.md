@@ -38,19 +38,27 @@
 - Karten haben dort mindesten 4 Dimensionen - die von ganz großen Gebäuden können auch schon mal bis zu 7 Dimensionen haben
 - Katzen haben nur einen Schwanz
 - Monogamie ist als Konzept unbekannt
-- hat eine "Flug"verbindung zur Erde
+- hat eine "Flug"verbindung zur Erde\
 	. Landeplatz ist auf der Erde nur schwer zu erreichen
 - Essen wird ganz selbstverständlich weitergeben
 - Meditieren als Schlafersatz
 - Religionen existieren nicht
-- gibt Orakel die man alles was die Zukunft betrifft fragen kann
+- gibt Orakel die man alles was die Zukunft betrifft fragen kann\
 	. mit "Eure hoch Würden" angesprochen	
 - Spezies wird Ravii genannt
 - liegen sich seit mehreren Jahrhunderten mit den Nevenna vom Planeten Tenebris in den Haaren
 
+- Farbpalette: Pastell-Töne
+- Temperaturen: eher kühler (durchschntl. 21°C)
 ## Ravii
-
+- Augen haben keine Pupillen
+- Größe: zwischen 1,70m und 2,20m
 
 ## Nevenna:
+- Augen haben ähnlich denen von Ziegen
+- Größe: zwischen 1,50m und 1,80m
 
-- 
+
+## Tenebris
+- Farbelette: dunkle gedeckte Farbtöne
+- Temperaturen: eher heiß (durchschntl. 40°C)
