@@ -31,7 +31,7 @@
     . die normalen Hauskatzen haben die größe eine Raubkatze
 - hat das ein Rezept für einen Frühstücksbrei von einem ihrer früheren Verwandten bekommen\
     . kommt auf der Erde nur schwer/ gar nicht an die dafür benötigten Zutaten ran\
-    . Rezept: Milch von Eisschafen, Steinkäfer, Wolkenkorn, Steinsalz\
+    . Rezept: Milch von Eisschafen, Steinkäfer, Wolkenkorn, Steinsalz
 
 
 ## Luminis (Astas Heimatplanet):
@@ -48,7 +48,8 @@
 - Spezies wird Ravii genannt
 - liegen sich seit mehreren Jahrhunderten mit den Nevenna vom Planeten Tenebris in den Haaren
 
-##
+## Ravii
+
 
 ## Nevenna:
 
