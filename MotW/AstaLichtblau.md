@@ -40,8 +40,10 @@
 - Monogamie ist als Konzept unbekannt
 - hat eine "Flug"verbindung zur Erde\
 	. Landeplatz ist auf der Erde nur schwer zu erreichen
-- Essen wird ganz selbstverständlich weitergeben
+- Essen wird ganz selbstverständlich weitergeben\
+	. da das land fruchtbar ist und gute Bedingungen für Landwirtschaft bestehen
 - Meditieren als Schlafersatz
+- haben eher weniger Resourcen die von unter der Erde kommen wie z.B. Erze
 - Religionen existieren nicht
 - gibt Orakel die man alles was die Zukunft betrifft fragen kann\
 	. mit "Eure hoch Würden" angesprochen	
@@ -53,12 +55,36 @@
 ## Ravii
 - Augen haben keine Pupillen
 - Größe: zwischen 1,70m und 2,20m
+- eher schlanker und zierlicher
+- Alter: bis zu 120 Jahren
+- Magie-Nutzer haben ein zusätzliches "Organ" welches sie befähigt Magie zu nutzen\
+	. das Organ sitzt in der Brust auf der anderen Seite des Herzen\
+	. bildet sich erst in der Teenager-Zeit heraus\
+	. besteht aus einer Art Kristall welches seine Wirkung verliert wenn die Person gestorben ist
+- Block-Marker: eine Kristall der die Oberfläche von Wasser berührt, mit kleinen Wellen die sich um den Berührungspunkt ausbreiten
 
 ## Nevenna:
 - Augen haben ähnlich denen von Ziegen
 - Größe: zwischen 1,50m und 1,80m
-
+- eher stämmig
+- Alter: bis zu 100 Jahren
+- Magie-Nutzer haben keine Organ oder ähnliches -> sie stellen sich stattdessen ihr magisches Potential vor wie einen See an chaotischer Energie vor\
+	. dese Energie kann man so nutzen was aber sehr schwierig ist\
+	. die meisten nutzen eine besondere Art an Tatoos um die Energie in geordnetere Bahnen zu lenken
+- Block-Marker: zwei Hörner die sich zu einander biegen mit einem Ziegenauge in der Mitte
 
 ## Tenebris
 - Farbelette: dunkle gedeckte Farbtöne
 - Temperaturen: eher heiß (durchschntl. 40°C)
+- haben nicht so gute Bedingungen für Landwirtschaft
+- haben dafür viele Erze
+
+
+## Magie blockieren:
+- gilt für beide Seiten -> beide Parteien können diese Möglichkeiten nutzen um den Gegenüber zu blockieren
+- entweder durch einen temporären Marker der den Zugriff auf die Magie-Quelle blockiert
+- durch eine Aura/magische Spähre
+
+## 
+- die zwei Spezies liegen sich wegen Resourcen-Streitigkeiten in den Haaren
+- es gab mal vor langer Zeit ein Abkommen zur Zusammenarbeit aber warum dieses nicht mehr besteht oder warum es gebrochen ist in Vergessenheit geraten
