@@ -49,7 +49,7 @@
 - liegen sich seit mehreren Jahrhunderten mit den Nevenna vom Planeten Tenebris in den Haaren
 
 - Farbpalette: Pastell-Töne
-- Temperaturen: eher kühler (durchschntl. 21°C)
+- Temperaturen: eher kühler (durchschntl. 18°C)
 ## Ravii
 - Augen haben keine Pupillen
 - Größe: zwischen 1,70m und 2,20m
