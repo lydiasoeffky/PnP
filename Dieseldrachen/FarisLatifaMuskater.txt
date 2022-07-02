@@ -2,7 +2,7 @@ Name: Faris Latifa Muskater
 Spezies: Maine-Coon Katzen-Mensch
 Größe: 1m
 Augenfarbe: Hellblau
-Alter: 4
+Alter: 35
 Geschlecht: männlich
 Gender: nicht-binär
 Beruf: Händler für Antiquitäten, Schmuck und Edelsteine
