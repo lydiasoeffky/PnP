@@ -1,3 +1,9 @@
+---
+Allergie festlegen
+welche anreden für wen?
+
+---
+
 ## wichtige personen
 
 Eltern:
@@ -6,17 +12,34 @@ Vater: Aaron
 Brüder: Jasper (-2y), Nicolai (-4y)
 Mentorin: Catina Löw
 
+## Historie
+
 - ihre Eltern haben sich in der Ausbildung kennen gelernt
 - ist die Älteste von 3
 - hat 2 kleine Brüder
 - ist von Kind auf begeistert von Fluggeräten/Flugzeugen und wusste schon früh das sie Pilotin werden wollte 
 - hat von ihrer mentorin gelernt das auch mechanik kenntnisse wichtig sind da man so (kleinere) reparaturarbeiten selbst erledigen kann
-- rebellische phase mit 14 die abrupt beendet wurde als sie in einem angriff ihren vater aaron und ihren bruder nocolai verlor; 
+- rebellische phase die mit 14 abrupt beendet wurde als sie in einem angriff ihren vater aaron und ihren bruder nicolai verlor; 
   ihre mutter wurde schwer verletzt und überlebte knapp; 
   jasper war zu diesem zeitpunkt bei einem freund und konnte sich rechtzeitig verstecken - er überlebte unbeschadet
-- 
+- danach 
 
 
+## Thopter
+- von außen sieht er aus wie jeder andere
+- Name: Matthew - kurz Mat
+- von innen:
+  auf der (mittel)konsole findet man ein kleines Bild von Lumis Familie
+  auf einer der Kiste ist das Wappen vom Haus Ayken drauf
+  von außen sind die Schränke und Kisten nicht weiter aufgehüscht worden
+  an den innenseiten der Schranktüren wiederum kann man finden: Schemazeichnung von einem Topter, Schweber und einem Heighliner
+
+
+## Charakter/Beschreibungen
+- läuft wenn möglich immer in lang ärmeliger Kleidung
+- hat auf der rechten Schulter einen Thopter und links 4 Finger breit unterm Schlüsselbein zwei Rosen tattoowiert
+- unter Freunden ist sie fröhlich und aufgeschlossen; quirlig
+- bei der Arbeit geht sie pflichtbewusst ihren Aufgaben nach
 
 
 ---
@@ -40,9 +63,7 @@ Lumi mit 6:
 „Und jetzt ab mit dir.“
 
 
-Auszug aus einem Notizbuch von Lumi - 14y; der Eintrag ist verschmiert und stellen weise wellen sich die seiten:
-Was ein beschissener Tag. Schlechter kann es echt nicht werden
-Wieso nur? 
+
 
 
 
