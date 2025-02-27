@@ -27,7 +27,7 @@ Mentorin: Catina Löw
 
 ## Thopter
 - von außen sieht er aus wie jeder andere
-- Name: Matthew - kurz Mat
+- Name: Rosi
 - von innen:
   auf der (mittel)konsole findet man ein kleines Bild von Lumis Familie
   auf einer der Kiste ist das Wappen vom Haus Ayken drauf
