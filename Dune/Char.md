@@ -24,15 +24,24 @@ Mentorin: Catina Löw
   jasper war zu diesem zeitpunkt bei einem freund und konnte sich rechtzeitig verstecken - er überlebte unbeschadet
 - danach 
 
+- sie ist Lieutnant
 
 ## Thopter
 - von außen sieht er aus wie jeder andere
 - Name: Rosi
+<<<<<<< Updated upstream
+=======
+- kein Hoheitsabzeichen außen am Thopter
+- kann relativ fix den raketenträger auf atomwaffen umstellen
+>>>>>>> Stashed changes
 - von innen:
   auf der (mittel)konsole findet man ein kleines Bild von Lumis Familie
   auf einer der Kiste ist das Wappen vom Haus Ayken drauf
   von außen sind die Schränke und Kisten nicht weiter aufgehüscht worden
-  an den innenseiten der Schranktüren wiederum kann man finden: Schemazeichnung von einem Topter, Schweber und einem Heighliner
+  an den innenseiten der Schranktüren wiederum kann man finden: Schemazeichnung von einem Topter, Schweber und Bildern von einem Heighliner, 
+
+## Ihr Zimmer
+- an einer Seite der 
 
 
 ## Charakter/Beschreibungen
