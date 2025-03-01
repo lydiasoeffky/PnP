@@ -29,11 +29,8 @@ Mentorin: Catina Löw
 ## Thopter
 - von außen sieht er aus wie jeder andere
 - Name: Rosi
-<<<<<<< Updated upstream
-=======
 - kein Hoheitsabzeichen außen am Thopter
 - kann relativ fix den raketenträger auf atomwaffen umstellen
->>>>>>> Stashed changes
 - von innen:
   auf der (mittel)konsole findet man ein kleines Bild von Lumis Familie
   auf einer der Kiste ist das Wappen vom Haus Ayken drauf
