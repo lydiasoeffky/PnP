@@ -7,10 +7,19 @@ welche anreden für wen?
 ## wichtige personen
 
 Eltern:
+
 Mutter: Elain
+
 Vater: Aaron 
+
 Brüder: Jasper (-2y), Nicolai (-4y)
+
+  hat kein gutes Verhältnis zu ihrem Bruder Jasper
+
+  Reist gerne und ist beruflich häufig an anderen Orten
+
 Mentorin: Catina Löw
+
 Mentor und „Arbeitgeber“: Teagan Stratfort
 
 ## Historie
@@ -25,7 +34,7 @@ Mentor und „Arbeitgeber“: Teagan Stratfort
   jasper war zu diesem zeitpunkt bei einem freund und nicht dabei
   => Aaron, Elain und Nicolai waren gemeinsam einkaufen; sind auf dem rückweg in einen kampf zwischen Banden geraten
 - hat danach eine Stelle im Haus Ayken angenommen (und sich nach und nach hochgearbeitet)
-- hat mit 16/18 die Ausbildung als Fliegerin angefangen
+- hat mit 18 die Ausbildung als Pilotin angefangen
 - wurde mit 22 von Teagan als persönliche Pilotin angestellt und von ihm weiter ausgebildet
 
 - sie ist Lieutnant
@@ -50,26 +59,43 @@ Mentor und „Arbeitgeber“: Teagan Stratfort
 - hat auf der rechten Schulter einen Thopter und links 4 Finger breit unterm Schlüsselbein zwei Rosen tattoowiert
 - unter Freunden ist sie fröhlich und aufgeschlossen; quirlig
 - bei der Arbeit geht sie pflichtbewusst ihren Aufgaben nach
-
+- hasst es Kleider zu tragen und macht es nur gegen Bezahlung/Bestechung
+- Hobbies: Schrauben, Fotografieren, Zeichnen
+  Stand Anfangs 2 Jahre unter höchster Beobachtung weil ich sehr präzise unteranderem die Gärtner fotografiert habe
+  Lieblings-Motive: Flugzeuge, Blumen
 
 ---
 
 # Snippets
 
 Lumi mit 6: 
+
 „Mama, Mama kann ich mit Miss Catina mit? Sie hat mir gesagt das ich mit zu den Thoptern darf!“ kommt eine fröhlich rufende Lumi in das Kinderzimmer gerannt wo ihre Mutter gerade mit ihrem kranken Bruder Nocolai auf seinem Bett saß. 
+
 „Pssst. Nicht so laut. Er ist gerade erst eingeschlafen.“ kommt es von ihrer Mutter 
+
 „Hast du denn das Wohnzimmer aufgeräumt so wie ich es dir gesagt habe?“ Sie schaut Lumi dabei mit einem strengen Blick an. 
+
 „Aber Mama…“
+
 „Kein aber!“ fällt sie Lumi ins Wort
+
 „Du darfst erst raus wenn du das Wohnzimmer aufgeräumt hast.“ Quengelnd dreht sich Lumi um und geht aus dem Zimmer. Sie hatte am Abend zuvor im Wohnzimmer mit Bauklötzen gespielt und die Klötze nicht wieder in die Kiste zurück geräumt. Nachdem sie eine halbe Stunde später fertig ist, probiert sie es noch einmal. 
+
 „Darf ich jetzt zu Miss Catina? Ich hab auch aufgeräumt.“ Sie wartet einen Moment bis ihre Mutter wieder aus dem Wohnzimmer zurück kommt. 
+
 „Ja jetzt darfst du.“ Doch noch bevor Lumi sich umdrehen kann wird sie noch mal von ihrer Mutter aufgehalten. 
+
 „Bevor du jetzt los rennst: Sag mir warum es gut ist Ordnung zu halten.“
+
 „Weil man es dann im Leben leichter hat.“ grummelt Lumi
+
 „Und?“
+
 „Weil ich dafür verantwortlich bin die Unordnung die ich gemacht habe aufzuräumen damit andere den Platz auch nutzen können.“
+
 „Gut. Du bist bitte zum Abendessen wieder zurück.“ Lumis Mutter wuschelt ihr einmal durch die Haare. 
+
 „Und jetzt ab mit dir.“
 
 
@@ -78,14 +104,19 @@ Lumi mit 6:
 
 Auszug aus einem Notizbuch von Lumi - 14y; der Eintrag ist verschmiert und stellenweise wellen sich die Seiten:
 Nein nein nein
+
 Das darf nicht wahr sein. Was? Warum? Wieso nur? 
+
 Wenn ich doch nur da gewesen wäre. (die nächsten Worte sind verschmiert und unleserlich)
+
 Mama sagt das es gut war das ich nicht da war und das sie glücklich ist das ich und Jasper unbeschadet sind. Immerhin hat Mama überlebt. Ich wüsste nicht (weitere zeilen die verschmiert sind)
+
 Ich werde mich jetzt erstmal Mama und Jasper kümmern müssen. 
 
 [der nächste Eintrag einige Tage später, er ist schon weniger chaotisch aber immer noch unsauber geschrieben und wirkt dahin geworfen]
 Ein Glück sind Tante Alexis und Onkel Jordan gerade da ohne Hilfe würde ich untergehen. Ich wusste gar nicht das Erwachsene so viele wichtige Dinge tun müssen. Ich kann das immer noch nicht richtig fassen das Papa und Nic tot sind. 
-Ich hab mich heute mal nach einem Arbeitsplatz umgesehen weil Tante Alexis meinte das es eine gute Idee sei wenn ich mithelfe Geld zu verdienen. Leider haben die Leute vom Flugplatz gesagt das ich nicht bei ihnen arbeiten darf. Sie haben irgendwas von zu klein und zu jung gefaselt. Ich habe gesehen dass das Ayken wohl gerade noch Leute sucht. Ich denke ich werde da morgen mal schauen. 
+
+Ich hab mich heute mal nach einem Arbeitsplatz umgesehen weil Tante Alexis meinte das es eine gute Idee sei wenn ich mithelfe Geld zu verdienen. Leider haben die Leute vom Flugplatz gesagt das ich nicht bei ihnen arbeiten darf. Sie haben irgendwas von zu klein und zu jung gefaselt. Ich habe gesehen dass das Haus Ayken wohl gerade noch Leute sucht. Ich denke ich werde da morgen mal schauen. 
 
 
 

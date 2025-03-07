@@ -1,17 +1,53 @@
 # Session Notes
 
-<!-- TOC -->
-
-SchiP: ||
-Kampfpool: |||
+```
+SchiP: ||(|) 
+Kampfpool: ||| 
 Kraftpunkte: ||||| ||
 Muni: 
   Pistole: ||||
   SG: ||
 Schadenspunkte Thopter: /
+```
+## 2025-03-07
+Gäste sind abgereist
+habe die hohen Gäste wieder zum Raumhafen geflogen
+soll noah und taban zu der location von der persönlichen g.b.feier von glenn fliegen
+
+habe in der täglichen Sitzung mitgeteilt das Joseph bescheid weiß und uns seine Unterstüzung zu gesichert
+  habe wegen meiner Reaktion einen auf den Deckel bekommen -> hätte unwissenheit vorspielen sollen
+
+habe von Noah Kleidung geliehen bekommen 
+Jonathan der Kämmerer kommt mit und hat mir ein Kleid mitgebracht was ich tragen soll/muss
+
+sehe auf dem Radar eine Korvette ohne Transponder dicht über den Bäumen
+  hat nicht angegriffen
+  ist ein stark modifizierter Schrotthaufen
+  gehört dem Frettchen/Merry
+
+sind in einem Dorf das nicht ans Transitnetz angeschlossen ist
+
+an der wand neben den jägern gelehnt harpunen gewehre
+  bolzenlänge: 1,20m
+
+die jäger wohnen auf Lampadas und waren mit der Gruppe Sumpfdrachen jagen
+
+Sumpfdrachentot: mischung aus starkbier, sumpfgebräu und hochprozentiges
+
+Abendessen: Pilzsuppe, Braten
+
+durch die Schuppen der Sumpfdrachen kommt man nicht mit einem Schwert durch
+  kann man nur aushebeln
+
+auf der Feier wurde der Vorschlag unterbreitet das ich ein Foto von Noah in einem Blumenfeld mache 
+
+hat einen Tanz mit Noah getanzt - es war von beiden mehr schlecht als recht
+
+
+
 ## 2025-02-28
 -> gehen Rakhea besuchen
-Sia hat meine Survival im Thopter ausgetauscht
+Sia hat meine Survival im Thopter ausgetauscht 
 bin bisher noch nicht auf dem Ende vom Jungle gewesen
 habe einen blitzstart hingelegt 
   Taban hat das Bewusstsein verloren
