@@ -11,6 +11,7 @@ Mutter: Elain
 Vater: Aaron 
 Brüder: Jasper (-2y), Nicolai (-4y)
 Mentorin: Catina Löw
+Mentor und „Arbeitgeber“: Teagan Stratfort
 
 ## Historie
 
@@ -23,8 +24,9 @@ Mentorin: Catina Löw
   ihre mutter wurde schwer verletzt und überlebte knapp; 
   jasper war zu diesem zeitpunkt bei einem freund und nicht dabei
   => Aaron, Elain und Nicolai waren gemeinsam einkaufen; sind auf dem rückweg in einen kampf zwischen Banden geraten
-
-- danach 
+- hat danach eine Stelle im Haus Ayken angenommen (und sich nach und nach hochgearbeitet)
+- hat mit 16/18 die Ausbildung als Fliegerin angefangen
+- wurde mit 22 von Teagan als persönliche Pilotin angestellt und von ihm weiter ausgebildet
 
 - sie ist Lieutnant
 
