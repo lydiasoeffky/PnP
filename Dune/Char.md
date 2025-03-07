@@ -19,9 +19,11 @@ Mentorin: Catina Löw
 - hat 2 kleine Brüder
 - ist von Kind auf begeistert von Fluggeräten/Flugzeugen und wusste schon früh das sie Pilotin werden wollte 
 - hat von ihrer mentorin gelernt das auch mechanik kenntnisse wichtig sind da man so (kleinere) reparaturarbeiten selbst erledigen kann
-- rebellische phase die mit 14 abrupt beendet wurde als sie in einem angriff ihren vater aaron und ihren bruder nicolai verlor; 
+- rebellische phase die mit 14 abrupt beendet wurde als sie ihren vater aaron und ihren bruder nicolai verlor; 
   ihre mutter wurde schwer verletzt und überlebte knapp; 
-  jasper war zu diesem zeitpunkt bei einem freund und konnte sich rechtzeitig verstecken - er überlebte unbeschadet
+  jasper war zu diesem zeitpunkt bei einem freund und nicht dabei
+  => Aaron, Elain und Nicolai waren gemeinsam einkaufen; sind auf dem rückweg in einen kampf zwischen Banden geraten
+
 - danach 
 
 - sie ist Lieutnant
@@ -72,6 +74,33 @@ Lumi mit 6:
 
 
 
+Auszug aus einem Notizbuch von Lumi - 14y; der Eintrag ist verschmiert und stellenweise wellen sich die Seiten:
+Nein nein nein
+Das darf nicht wahr sein. Was? Warum? Wieso nur? 
+Wenn ich doch nur da gewesen wäre. (die nächsten Worte sind verschmiert und unleserlich)
+Mama sagt das es gut war das ich nicht da war und das sie glücklich ist das ich und Jasper unbeschadet sind. Immerhin hat Mama überlebt. Ich wüsste nicht (weitere zeilen die verschmiert sind)
+Ich werde mich jetzt erstmal Mama und Jasper kümmern müssen. 
+
+[der nächste Eintrag einige Tage später, er ist schon weniger chaotisch aber immer noch unsauber geschrieben und wirkt dahin geworfen]
+Ein Glück sind Tante Alexis und Onkel Jordan gerade da ohne Hilfe würde ich untergehen. Ich wusste gar nicht das Erwachsene so viele wichtige Dinge tun müssen. Ich kann das immer noch nicht richtig fassen das Papa und Nic tot sind. 
+Ich hab mich heute mal nach einem Arbeitsplatz umgesehen weil Tante Alexis meinte das es eine gute Idee sei wenn ich mithelfe Geld zu verdienen. Leider haben die Leute vom Flugplatz gesagt das ich nicht bei ihnen arbeiten darf. Sie haben irgendwas von zu klein und zu jung gefaselt. Ich habe gesehen dass das Ayken wohl gerade noch Leute sucht. Ich denke ich werde da morgen mal schauen. 
+
+
+
+
+
+
+Brief an Lumis Mutter:
+
+Hallo Mama, 
+
+du glaubst nicht was passiert ist: Man hat mich heute zur Schulleitung bestellt um mir mitzuteilen das Herr Teagan Stratfort mich als seine Piloten einstellen will und das damit meine Ausbildung mit sofortiger Wirkung beendet ist. Ich kann das nicht gar nicht fassen. Ich habe im Leben nicht gedacht das ich mal die persönliche Pilotin von einem hohen Herrn werde. Meine Zeit mit Catina scheint sich gerade bezahlt zu machen. Aber ein bisschen aufgeregt und nervös bin ich schon. Ich weiß halt nicht was mich erwartet und fertig mit meiner Ausbildung bin ich ja eigentlich auch nicht. Ich hoffe das ich mich nicht total blamiere. Ich mein ich war schon als Co-Pilotin mit Catina unterwegs aber irgendwie habe ich das Gefühl dass das was jetzt kommt doch noch mal etwas anders ist. Ich meine es ist halt schon ein Unterschied ob ich bei Testflügen mit Catina dabei bin oder ich eine für das Haus wichtige Person durch die Gegend fliege. Wie dem auch sei:  Drück die Daumen für mich. 
+Ich muss bis heute Abend meine Sachen gepackt habe weil ich morgen schon umziehen werde. 
+
+Bitte richte ganz liebe Grüße an Jasper, Tante Alexis, Onkel Jordan und Oma TickTack aus. Ich hoffe ich kann euch ganz bald besuchen kommen. 
+
+Ich hab euch lieb. 
+Deine Lumi
 
 
 
