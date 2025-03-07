@@ -1,5 +1,5 @@
 # Session Notes
-[[TOC]]
+[[_TOC_]]
 SchiP: ||
 Kampfpool: |||
 Kraftpunkte: ||||| ||
