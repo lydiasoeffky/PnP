@@ -1,6 +1,6 @@
 # Session Notes
 
-[[_TOC_]]
+<!-- TOC -->
 
 SchiP: ||
 Kampfpool: |||
