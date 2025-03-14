@@ -1,14 +1,87 @@
 # Session Notes
 
 ```
-SchiP: ||(|) 
+SchiP: ||(|)
 Kampfpool: ||| 
 Kraftpunkte: ||||| ||
 Muni: 
   Pistole: ||||
   SG: ||
 Schadenspunkte Thopter: /
+
+# offene einladungen:
+habe von Hatrol eine Einladung bekommen wenn ich mal zu besuch bin einen Jäger zu fliegen
+  wenn er meinen Thopter fliegen auf dem Rückweg fliegen darf darf ich seinen Jäger fliegen
 ```
+## 2025-03-14
+Einstieg: eine woche nach der Beerdigung von Teagan; haben Nachrichten aus dem Imperium (das zweite Jahr auf Rossak) bekommen; haben eine Einladung nach Otorio zur Einweihung des Museumsplaneten bekommen
+Teagan wurde in der familien gruft der familie ayken beigesetzt 
+Direktor Adhed Adu (permanenter Direktor der MAFEA; ist der sohn von Ur-Direktorin (Udir) Amanea Adu) wird uns besuchen kommen
+
+der Imperator hat "Stabilisierungsmaßnahmen" auf Richese durchegeführt aka er hat ein Blutbad veranlasst
+die meisten Nachrichten kommen aus MAFEA Quellen
+
+die anwesenden Ratsmitglieder bekommen die Nachrichten aus dem Imperium mitgeteilt
+Kommentare dazu:
+- wir hätten von landsradt förmlich gewarnt werden müssen bevor wir da leute hinschicken
+- bedauern über die zerstörung der forschungseinrichtungen
+- sollten truppen für eine humanitären hilfsaktion entsenden
+  - kann nur positiv für uns sein
+  - kann man in den büchern bei einer überprüfung verargumentieren
+- könnte etwas mit der hortung von gewürz zusammenhängen
+- leute hinschicken die nach dem grafen/rest der gesandschaft suchen 
+
+eingetroffen: adhed adu in die kleine halle
+hat zwei rote füchse im zimmer
+adhed schafft es innerhalb von minuten das die füchse ihm aus der hand frisst
+wird nicht über nacht bleiben
+hat die ereignisse auf richese angesprochen und will wissen wie wir handelspolitisch darauf reagieren
+unsere exporte befinden sich in adhed portfolio
+sorgt sich um die auswirkungen der politischen situation auf unsere produktion der export güter
+bekommen die nötigen finanziellen mittel um unsere kindschal produktion zu verdoppeln
+er weiß relativ sicher das es krieg geben wird 
+einige leute von der mafea haben es geschafft leute von uns zu evakuieren; der graf war nicht dabei
+die geliebte vom grafen (lady sirell) ist in der obhut der mafea solange bis die politische sitation auf richese sich beruhigt hat
+fragt ob er die füchse behalten kann 
+  kann sie unter der bedingung haben das sie mit dem angemessenen respekt behandelt werden
+  wird uns mitteilen wie er die füchse nennen wird
+fliegt als nächste nach poitri
+bringe ihn zu einem gilde thopter
+
+soll mich um den highliner flug kümmern
+gehe mit abad sprechen
+nimmt mich gerade auf den arm
+hat mir eine nachricht gesiegelt von der mafea mit gegeben
+haben einen highliner morgen früh um 0900 nach kaetan wurde von a.a. bestellt
+
+gehe zu glenn in die trainings halle
+die trainingspuppen haben lichter die je nach stärke leuchten
+  haben scharfe waffen
+  2 leuchtende lichter sind normal schon herausfordernd bei glenn leuchten 3
+
+ausflug 1-2 wochen
+planet mit sehr viel status 
+bekomme von kaya eine uniform und einen mantel 
+vorräte -> kaya will mit der küche sprechen
+mir fällt ein riesiger kleider schrank auf doppel so groß wie der angrenzende raum
+  kaya sie mag mode und schmuck
+  trägt niemals ringe 
+
+kann Rosi mit nehmen aber ich muss sie entwaffnen
+bekomme entsprechend unterricht um auf kaetan vorbereitet zu sein
+
+ein lieutnant (hatrol zachery) vom haus attridis ist am raumhafen angekommen
+gehe hatrol abholen flieen
+trägt keine offenen attreidis abzeichen
+mittlerweile hauptmann vom zweiten luftverteidugung battallion
+habe von Hatrol eine Einladung bekommen wenn ich mal zu besuch da bin einen bzw seinen Jäger zu fliegen
+ist für eine zeitlang glenn unterstellt -> ist der verbindungsoffizier
+
+
+
+
+
+
 ## 2025-03-07
 Gäste sind abgereist
 habe die hohen Gäste wieder zum Raumhafen geflogen

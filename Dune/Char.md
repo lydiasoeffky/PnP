@@ -48,7 +48,7 @@ Mentor und „Arbeitgeber“: Teagan Stratfort
   auf der (mittel)konsole findet man ein kleines Bild von Lumis Familie
   auf einer der Kiste ist das Wappen vom Haus Ayken drauf
   von außen sind die Schränke und Kisten nicht weiter aufgehüscht worden
-  an den innenseiten der Schranktüren wiederum kann man finden: Schemazeichnung von einem Topter, Schweber und Bildern von einem Heighliner, 
+  an den innenseiten der Schranktüren wiederum kann man finden: Schemazeichnung von einem Topter, Schweber und Bildern von einem Heighliner und der Flora von Richese und Rossak
 
 ## Ihr Zimmer
 - an einer Seite der 
