@@ -84,8 +84,10 @@ Motivation:
 
 ### Aaron Braig 
 ![Aaron](AaronBraig.jpg)
+- hat zwei ältere Geschwister: Jordan, Theo
 - Vater von Lumi
 - Ehemann von Elain
+  - ist zwei Jahre jünger als Elaine
 - im Alter von 35 verstorben
   - ist mit Nicolai und Elaine in einen Kampf zwischen Banden geraten 
 - auf Richese geboren
@@ -96,6 +98,11 @@ Motivation:
 
 
 ### Elaine Braig
+- Mutter von Lumi
+- Ehefrau von Aaron
+  - ist zwei Jahre älter als Aaron
+- auf Richese geboren
+- ist entgegen dem Wunsch ihrer Eltern dem Militär beigetreten
 - nach dem Bandenvorfall körperlich eingeschränkt
 - Persönlichkeit: diszipliniert, charmant, aufgeweckt
 
