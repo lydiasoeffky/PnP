@@ -1,8 +1,11 @@
----
+|---
 Allergie festlegen
 welche anreden für wen?
 
 ---
+
+![Lumi](LumiBraig.png)
+
 
 ## wichtige personen
 
@@ -25,6 +28,7 @@ Mentor und „Arbeitgeber“: Teagan Stratfort
 ## Historie
 
 - ihre Eltern haben sich in der Ausbildung kennen gelernt
+- auf Richese geboren
 - ist die Älteste von 3
 - hat 2 kleine Brüder
 - ist von Kind auf begeistert von Fluggeräten/Flugzeugen und wusste schon früh das sie Pilotin werden wollte 
@@ -34,8 +38,14 @@ Mentor und „Arbeitgeber“: Teagan Stratfort
   jasper war zu diesem zeitpunkt bei einem freund und nicht dabei
   => Aaron, Elain und Nicolai waren gemeinsam einkaufen; sind auf dem rückweg in einen kampf zwischen Banden geraten
 - hat danach eine Stelle im Haus Ayken angenommen (und sich nach und nach hochgearbeitet)
+  - ist durch die Kammer des Aufstiegs gegangen
 - hat mit 18 die Ausbildung als Pilotin angefangen
 - wurde mit 22 von Teagan als persönliche Pilotin angestellt und von ihm weiter ausgebildet
+  - hat viel von ihm gelernt und ihr Flugstil ähnelt dem von Teagan sehr
+- mit 34 in die direkten Dienste von Glenn Ayken getreten weil Teagan bei einem Giftanschlag ums Leben gekommen ist
+  - auch als persönliche Pilotin und Leibwächterin
+  - hat von Teagan einen Thopter zusammen mit den Werkzeugen und Hangar 2 vermacht bekommen
+
 
 - sie ist Lieutnant
 
@@ -46,7 +56,7 @@ Mentor und „Arbeitgeber“: Teagan Stratfort
 - kann relativ fix den raketenträger auf atomwaffen umstellen
 - von innen:
   auf der (mittel)konsole findet man ein kleines Bild von Lumis Familie
-  auf einer der Kiste ist das Wappen vom Haus Ayken drauf
+  auf einer der Kisten ist das Wappen vom Haus Ayken drauf
   von außen sind die Schränke und Kisten nicht weiter aufgehüscht worden
   an den innenseiten der Schranktüren wiederum kann man finden: Schemazeichnung von einem Topter, Schweber und Bildern von einem Heighliner und der Flora von Richese und Rossak
 
@@ -56,6 +66,7 @@ Mentor und „Arbeitgeber“: Teagan Stratfort
 
 ## Charakter/Beschreibungen
 - läuft wenn möglich immer in lang ärmeliger Kleidung
+- ist ein ordentlicher mensch
 - hat auf der rechten Schulter einen Thopter und links 4 Finger breit unterm Schlüsselbein zwei Rosen tattoowiert
 - unter Freunden ist sie fröhlich und aufgeschlossen; quirlig
 - bei der Arbeit geht sie pflichtbewusst ihren Aufgaben nach
@@ -63,6 +74,19 @@ Mentor und „Arbeitgeber“: Teagan Stratfort
 - Hobbies: Schrauben, Fotografieren, Zeichnen
   Stand Anfangs 2 Jahre unter höchster Beobachtung weil ich sehr präzise unteranderem die Gärtner fotografiert habe
   Lieblings-Motive: Flugzeuge, Blumen
+Motivation: 
+- mag den Adrenalienrausch beim fliegen und das Gefühl gebraucht zu werden
+- möchte eine eigene Flotte haben mit passenden Fahrzeugen und Raumschiffen für jede Situation
+
+-> Macht - Ich bin die die im Schatten wandelt, das Leben meines Schützlings liegt in meiner Hand.
+
+## NSCs
+
+### Aaron Braig 
+- Vater von Lumi
+- 
+
+
 
 ---
 
@@ -128,12 +152,40 @@ Brief an Lumis Mutter:
 Hallo Mama, 
 
 du glaubst nicht was passiert ist: Man hat mich heute zur Schulleitung bestellt um mir mitzuteilen das Herr Teagan Stratfort mich als seine Piloten einstellen will und das damit meine Ausbildung mit sofortiger Wirkung beendet ist. Ich kann das nicht gar nicht fassen. Ich habe im Leben nicht gedacht das ich mal die persönliche Pilotin von einem hohen Herrn werde. Meine Zeit mit Catina scheint sich gerade bezahlt zu machen. Aber ein bisschen aufgeregt und nervös bin ich schon. Ich weiß halt nicht was mich erwartet und fertig mit meiner Ausbildung bin ich ja eigentlich auch nicht. Ich hoffe das ich mich nicht total blamiere. Ich mein ich war schon als Co-Pilotin mit Catina unterwegs aber irgendwie habe ich das Gefühl dass das was jetzt kommt doch noch mal etwas anders ist. Ich meine es ist halt schon ein Unterschied ob ich bei Testflügen mit Catina dabei bin oder ich eine für das Haus wichtige Person durch die Gegend fliege. Wie dem auch sei:  Drück die Daumen für mich. 
-Ich muss bis heute Abend meine Sachen gepackt habe weil ich morgen schon umziehen werde. 
+Ich muss bis heute Abend meine Sachen gepackt haben, weil ich morgen schon umziehen werde. 
 
 Bitte richte ganz liebe Grüße an Jasper, Tante Alexis, Onkel Jordan und Oma TickTack aus. Ich hoffe ich kann euch ganz bald besuchen kommen. 
 
 Ich hab euch lieb. 
 Deine Lumi
+
+
+---
+
+Teagan war für dich ein Mentor und Protege. 
+Er hat dich irgendwann mal aus der Flugausbildung geholt und gesagt das du ab sofort seine Pilotin bist. 
+Er selber hat dir auch noch Kniffe beim fliegen gezeigt auch wenn du heutzutage besser an den Kontrollen bist als er. 
+Aka er hat dich als du grade frische Flugschülerin warst angefordert und dir eine eigene Maschine gegeben bevor die anderen auch nur das erste mal in einem nicht simulierten Cockpit sitzen durften.
+
+es ist aktuell ungewöhnlich das er dich schon so lange nicht angefordert hat. Normalerweise hast du ihn 2-3 mal am tag irgendwohin geflogen oder begleitet. Du weist natürlich nicht das er tot ist.
+Als du nachschaquen warst war Teragan nicht in seinem Quartier (oder hat dir nicht aufgemacht). Sein Adjutant und Leibdiener Major a.D. Linus Hardtman ist für dich ebenfalls nciht auffindbar. 
+Eventuell ist er mit ihm allein auf einer Mission.
+
+Linus Hardtmann selbst ist auch schon um die 70. Äußerst bedacht und militärisch korrekt. 
+Er hat wenn man unter sich ist einen recht trockenen Humor, der allerdings nciht zu leugnen ist. Brillianter Nahkämpfer und Stratege
+
+Wortlaut des Dokumentes:
+"Da ich weis das sie eine eigene Flotte führen möchte vermache ich Leutnant Lumi Braig meinen Thopter, die Werkzeuge und Hangar 2. Möge dies der Grundstein für eine Flotte unter der Flagge des Hauses Ayken sein."
+
+OT: die Frau ist knapp über 30. Die Pilotenausbildung findet normalerweise so im alter zwischen 18 (frühestens) und 22 (spätestens) statt
+
+12 Jahre lang mittlerweile.
+mit 22 hat er dich aus der Ausbildung eingesammelt
+es gab auch gemeinsame Feiern nach schwierigen Missionen
+
+
+
+
 
 
 
@@ -162,18 +214,16 @@ Funktion: Pilot & Leibwächter/Kämpfer
 Persönlichkeit:
 - quirlig und aufgeschlossen im Freundeskreis außerhalb der Vorgesetztenstruktur
 - eher Pflichtbewusst wenn bei der Arbeit
-Motivation: 
-- mag den Adrenalienrausch beim fliegen und das Gefühl gebraucht zu werden
-- möchte eine eigene Flotte haben mit passenden Fahrzeugen und Raumschiffen für jede Situation
+
 
 
 wenn von Teagan:
 habe nicht viel besitz weil ich ne bürgerliche bin
 könnte den topter von teagen vermacht bekommen und konnte vorher immer dran rum schrauben 
 
-- ist ein ordentlicher mensch
 
-Macht - Ich bin die die im Schatten wandelt, das Leben meines Schützlings liegt in meiner Hand.
+
+
 Wahrheit - Am Steuer bin ich frei, da ich bestimme wohin der Wind uns weht.
 
 
@@ -189,26 +239,7 @@ habe ein paar sitze rausgeschmissen und einen kleinen wohnraum eingebaut
 habe eine uniform hergestellt von bludd bekommen
 
 
-Teagan war für dich ein Mentor und Protege. 
-Er hat dich irgendwann mal aus der Flugausbildung geholt und gesagt das du ab sofort seine Pilotin bist. 
-Er selber hat dir auch noch Kniffe beim fliegen gezeigt auch wenn du heutzutage besser an den Kontrollen bist als er. 
-Aka er hat dich als du grade frische Flugschülerin warst angefordert und dir eine eigene Maschine gegeben bevor die anderen auch nur das erste mal in einem nicht simulierten Cockpit sitzen durften.
 
-es ist aktuell ungewöhnlich das er dich schon so lange nicht angefordert hat. Normalerweise hast du ihn 2-3 mal am tag irgendwohin geflogen oder begleitet. Du weist natürlich nicht das er tot ist.
-Als du nachschaquen warst war Teragan nicht in seinem Quartier (oder hat dir nicht aufgemacht). Sein Adjutant und Leibdiener Major a.D. Linus Hardtman ist für dich ebenfalls nciht auffindbar. 
-Eventuell ist er mit ihm allein auf einer Mission.
-
-Linus Hardtmann selbst ist auch schon um die 70. Äußerst bedacht und militärisch korrekt. 
-Er hat wenn man unter sich ist einen recht trockenen Humor, der allerdings nciht zu leugnen ist. Brillianter Nahkämpfer und Stratege
-
-Wortlaut des Dokumentes:
-"Da ich weis das sie eine eigene Flotte führen möchte vermache ich Leutnant Lumi Braig meinen Thopter, die Werkzeuge und Hangar 2. Möge dies der Grundstein für eine Flotte unter der Flagge des Hauses Ayken sein."
-
-OT: die Frau ist knapp über 30. Die Pilotenausbildung findet normalerweise so im alter zwischen 18 (frühestens) und 22 (spätestens) statt
-
-12 Jahre lang mittlerweile.
-mit 22 hat er dich aus der Ausbildung eingesammelt
-es gab auch gemeinsame Feiern nach schwierigen Missionen
 
 
 
