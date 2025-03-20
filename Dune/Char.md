@@ -11,7 +11,7 @@ welche anreden für wen?
 
 Eltern:
 
-Mutter: Elain
+Mutter: Elaine
 
 Vater: Aaron 
 
@@ -83,8 +83,27 @@ Motivation:
 ## NSCs
 
 ### Aaron Braig 
+![Aaron](AaronBraig.jpg)
 - Vater von Lumi
-- 
+- Ehemann von Elain
+- im Alter von 35 verstorben
+  - ist mit Nicolai und Elaine in einen Kampf zwischen Banden geraten 
+- auf Richese geboren
+- viele Familienmitglieder sind/waren im Militär 
+- ist der Familientradition folgend auch ins Militär eingetreten
+- Hobbies: Zeichnen, Kochen
+- Persönlichkeit: freundlich, abenteuerlustig,diszipliniert
+
+
+### Elaine Braig
+- nach dem Bandenvorfall körperlich eingeschränkt
+- Persönlichkeit: diszipliniert, charmant, aufgeweckt
+
+
+### Jasper Braig
+- Persönlichkeit: arrogant, freiheitsliebend, chaotisch
+- ist mit seiner Art immer angeeckt
+- hat es nicht gut verkraftet das sein Vater und sein Bruder verstorben sind
 
 
 
