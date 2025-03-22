@@ -1,7 +1,7 @@
 # Session Notes
 
 ```
-SchiP: ||(|)
+SchiP: ||
 Kampfpool: ||| 
 Kraftpunkte: ||||| ||
 Muni: 
@@ -12,7 +12,121 @@ Schadenspunkte Thopter: /
 # offene einladungen:
 habe von Hatrol eine Einladung bekommen wenn ich mal zu besuch bin einen Jäger zu fliegen
   wenn er meinen Thopter fliegen auf dem Rückweg fliegen darf darf ich seinen Jäger fliegen
+
+# offene zusagen:
+habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich weiß
 ```
+## 2025-03-21
+habe zusätzlich zum entwaffnen ein Hoheitsabzeichen außen aufgebracht
+gehen zu Akima um sie über Alexander Orman auszufragen
+  ausgemusterter prospektor von den venports
+  hat ne verletzung
+  kennt sich im dschungel aus
+  taugt was - Akima war mal auf einer Mission mit ihm: Absicherung, Spähen, Vorwärts Aufklärung
+  war mal mit ner einheimischen verheiratet
+  hat sich angeblich von seiner abfindung etwas von den tleilax bestellt
+Glenn verspricht Sia alles dafür zu geben wieder nach Rossak zurück zukehren
+  Sia kommt nicht mit nach Kaitan weil sie mit Rakhea sprechen muss
+bekommt Iris (eine der Gärtner) als Zofe mit
+Ansprache: Prospektor Orman oder Alexander
+Kaitan ist eine der Paradieswelten
+  Wetter ist Sateliten gesteuert
+  alles ist künstlich angelegt
+  Luftverkehr ist anspruchsvoll
+  fliegen ein kleines Herrenhaus mit eigenem Landeplatz an
+werden von einer Hauswache der Akyens und Isadora empfangen
+  Gesante Aleena Felas ist in einer Sitzung des Landsrats
+- waffen von alexander
+anwesen wurde von entsprechendem personal überprüft -> keine abhörvorichtungen
+  kaminzimmer und salon wurden gesondert geprüft
+im keller gibt es trainingsmöglichkeiten
+fenster gehen nicht auf
+glenn hat ein einladung von sanya ecas eine einladung zum abendessen
+
+bin mit Kaya gemeinsam mit miral alchem auf einem spaziergang
+ miral ist alleine gekommen
+ fragt nach amina
+ miral weiß das amina als letztes auf richese gewesen ist
+ ihre herrin macht sich sorgen um amina
+ macht bestimmte handzeichen in richtung von kaya
+Richese und Ix stehen in zusammenhang 
+die aktion mit dem mond war geplant 
+eine gefährliche technologie musste vernichtet werden
+
+haben besuch von einem sadokar
+  hat den siegelring von glenns vater überbracht
+  waren in der einschlagszone des mondes -> Rafael Ayken ist dabei verstorben
+
+lehenseid ablegen: in 3 tagen um 1600 im kleinen palast
+
+trainiere mit hatrol und Alexander im Keller
+  => nahkampf skillen
+
+der vertreter von atreidis meint das er nicht direkt in verhandlungen gehen sollte
+  stattdessen sollen das entsprechende vertreter dies tun
+  für atreidis: vanna
+  für ayken: ich
+ich brauche eine verhandlungsvollmacht von glenn
+gelegenheit ist ein ball des hauses rabban in 2 tagen
+einladung ist unterschrieben von abalut harkonnen
+
+bekommt von Kaya unterricht in polik, diplomatie und auftreten
+spiele mit Kaya mühle dabei nimmt sie mir das versprechen das ich ihr meinen Thopter ausleihe
+
+#### Argumente für die Verhandlungen mit Atreidis 1:
+humanitäre hilfe ist etwas was man unterstützen sollte
+unsere Häuser wollen zusammenarbeiten 
+
+smalltalk ist dafür da heraus zu finden wer die person ist
+  hobbies: sie liest gerne und viel
+  wie mag schöne kleider und blumen
+
+was hat die person davon wenn sie mir entsprechend das gibt was ich haben möchte?
+mir fällt eine tief gehende vertrautheit zwischen den beiden auf
+
+manchmal hilft es eine eigene vermeintliche schwäche anzubieten
+-> damit sich der andere nicht über den tisch gezogen fühlt
+
+kaya ist mit 14 ins haus gekommen 
+hat in der küche angefangen und hat sich hoch gearbeitet
+wurde kammerzofe von lady sirell
+hat sich anfangs mit diesen gesprächen schwer getan oder mal zu lügen
+
+#### -> kriege von kaya einen vorteil für den Ball weil sie einen schip ausgibt
+
+liebt weiße rosen
+ist in einem armen viertel auf gewachsen außerhalb des hauses 
+sagt mir nicht wie sie zum haus gekommen ist - gibt einen grund 
+ihr vater ist tot - wirkt nicht besonders traurig über den fakt
+hat zwei weitere brüder
+ließt liebesromane; hasst romane die kein happy end haben
+-> habe den ein oder anderen erfolgsmoment
+
+wenn ich mich gut fühle - frage: will die person das ich mich gut fühle?
+
+Tschusuk (der Musikplanet) ist der nächste der von Sadokar angegriffen wegen der Hortung von Gewürz
+
+wir sind nicht mehr Vasall von Richese da sie wohl ihr Recht auf Vasallen verwirkt haben
+ 
+die Abstimmung über die Humanitäre Hilfsaktion ist in einer Woche
+  haben die Unterstüzung vom Imperator
+
+#### Argumente für die Verhandlungen mit Atreidis 2:
+Atreidis könnte nicht von dem Schwur nicht begeistert sein
+  hatten keine Wahl dabei + Schwur bindet uns nicht nur an den Imperator sondern auch an den Landsrat
+  
+die Berater waren alle überrascht zur erhebung als direkter vasall des Löwentrons
+
+
+
+(schmuck für den besuch auf dem ball
+was ist ihr lieblings schmuck?
+edelsteine?
+lieblingsfarbe?
+gibt es goldschmiede die sie am liebsten mag?)
+
+
+
 ## 2025-03-14
 Einstieg: eine woche nach der Beerdigung von Teagan; haben Nachrichten aus dem Imperium (das zweite Jahr auf Rossak) bekommen; haben eine Einladung nach Otorio zur Einweihung des Museumsplaneten bekommen
 Teagan wurde in der familien gruft der familie ayken beigesetzt 
@@ -41,7 +155,7 @@ sorgt sich um die auswirkungen der politischen situation auf unsere produktion d
 bekommen die nötigen finanziellen mittel um unsere kindschal produktion zu verdoppeln
 er weiß relativ sicher das es krieg geben wird 
 einige leute von der mafea haben es geschafft leute von uns zu evakuieren; der graf war nicht dabei
-die geliebte vom grafen (lady sirell) ist in der obhut der mafea solange bis die politische sitation auf richese sich beruhigt hat
+die geliebte vom grafen (lady sirell) ist in der obhut der mafea solange bis die politische sitation auf richese sich beruhigt hat - auf dem Tupile Planet
 fragt ob er die füchse behalten kann 
   kann sie unter der bedingung haben das sie mit dem angemessenen respekt behandelt werden
   wird uns mitteilen wie er die füchse nennen wird
@@ -73,7 +187,7 @@ bekomme entsprechend unterricht um auf kaetan vorbereitet zu sein
 ein lieutnant (hatrol zachery) vom haus attridis ist am raumhafen angekommen
 gehe hatrol abholen flieen
 trägt keine offenen attreidis abzeichen
-mittlerweile hauptmann vom zweiten luftverteidugung battallion
+mittlerweile hauptmann vom zweiten luftverteidigung battallion
 habe von Hatrol eine Einladung bekommen wenn ich mal zu besuch da bin einen bzw seinen Jäger zu fliegen
 ist für eine zeitlang glenn unterstellt -> ist der verbindungsoffizier
 

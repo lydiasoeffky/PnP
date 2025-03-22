@@ -53,6 +53,7 @@ Mentor und „Arbeitgeber“: Teagan Stratfort
 - von außen sieht er aus wie jeder andere
 - Name: Rosi
 - kein Hoheitsabzeichen außen am Thopter
+- hat nen Transponder
 - kann relativ fix den raketenträger auf atomwaffen umstellen
 - von innen:
   auf der (mittel)konsole findet man ein kleines Bild von Lumis Familie
@@ -94,25 +95,45 @@ Motivation:
 - viele Familienmitglieder sind/waren im Militär 
 - ist der Familientradition folgend auch ins Militär eingetreten
 - Hobbies: Zeichnen, Kochen
-- Persönlichkeit: freundlich, abenteuerlustig,diszipliniert
+- Persönlichkeit: freundlich, abenteuerlustig, diszipliniert
+- Beruf: Soldat
 
 
 ### Elaine Braig
+![Elaine](ElaineBraig.jpg)
 - Mutter von Lumi
 - Ehefrau von Aaron
   - ist zwei Jahre älter als Aaron
 - auf Richese geboren
 - ist entgegen dem Wunsch ihrer Eltern dem Militär beigetreten
-- nach dem Bandenvorfall körperlich eingeschränkt
-- Persönlichkeit: diszipliniert, charmant, aufgeweckt
+  - hat dort Aaron kennen gelernt
+- seit dem Bandenvorfall körperlich eingeschränkt
+- Persönlichkeit: charmant, aufgeweckt, diszipliniert
+- Hobbies: Klettern, Häkeln
+- Beruf: Soldatin
 
 
 ### Jasper Braig
-- Persönlichkeit: arrogant, freiheitsliebend, chaotisch
-- ist mit seiner Art immer angeeckt
+![Jasper](JasperBraig.jpg)
+- kleiner Bruder von Lumi
+- das zweite Kind von Aaron und Elaine
+- ist mit seiner freiheitsliebenden Art immer angeeckt
 - hat es nicht gut verkraftet das sein Vater und sein Bruder verstorben sind
+  - ist seit dem immer wieder mit seiner Mutter und Lumi aneinander geraten
+  - hat sich sobald er konnte gelöst und sich selbständig seinen eigenen Weg gesucht
+- Persönlichkeit: arrogant, freiheitsliebend, chaotisch
+- Hobbies: Tanzen gehen, Geschichten schreiben
+- Beruf: Händler
 
 
+### Nicolai Braig
+![Nicolai](NicolaiBraig.jpg)
+- kleiner Bruder von Lumi
+- das jüngste Kind von Aaron und Elaine
+- im Alter von 10 Jahren verstorben
+  - ist mit Nicolai und Elaine in einen Kampf zwischen Banden geraten 
+- Hobbies: Zeichnen, Lesen
+- Persönlichkeit: dickköpfig, frech, clever
 
 ---
 
