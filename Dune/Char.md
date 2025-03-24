@@ -101,11 +101,13 @@ Motivation:
 
 ### Elaine Braig
 ![Elaine](ElaineBraig.jpg)
+- hat drei jüngere Geschwister: Camilla, Carlos, Amalia
 - Mutter von Lumi
 - Ehefrau von Aaron
   - ist zwei Jahre älter als Aaron
 - auf Richese geboren
 - ist entgegen dem Wunsch ihrer Eltern dem Militär beigetreten
+  - hat danach den Kontakt zu ihrer Familie abgebrochen
   - hat dort Aaron kennen gelernt
 - seit dem Bandenvorfall körperlich eingeschränkt
 - Persönlichkeit: charmant, aufgeweckt, diszipliniert
@@ -117,7 +119,7 @@ Motivation:
 ![Jasper](JasperBraig.jpg)
 - kleiner Bruder von Lumi
 - das zweite Kind von Aaron und Elaine
-- ist mit seiner freiheitsliebenden Art immer angeeckt
+- ist mit seiner freiheitsliebenden Art immer wieder angeeckt
 - hat es nicht gut verkraftet das sein Vater und sein Bruder verstorben sind
   - ist seit dem immer wieder mit seiner Mutter und Lumi aneinander geraten
   - hat sich sobald er konnte gelöst und sich selbständig seinen eigenen Weg gesucht
@@ -134,6 +136,14 @@ Motivation:
   - ist mit Nicolai und Elaine in einen Kampf zwischen Banden geraten 
 - Hobbies: Zeichnen, Lesen
 - Persönlichkeit: dickköpfig, frech, clever
+
+### Catina Löw
+- Mentorin in Lumis Kindheit
+- Beruf: Pilotin
+- Hobbies: Schrauben, Karten spielen
+- Persönlichkeit: selbstbewusst, 
+
+
 
 ---
 
