@@ -11,9 +11,9 @@ welche anreden für wen?
 
 Eltern:
 
-Mutter: Elaine
+Mutter: Elaine (+23y)
 
-Vater: Aaron 
+Vater: Aaron (+21y)
 
 Brüder: Jasper (-2y), Nicolai (-4y)
 
@@ -21,7 +21,7 @@ Brüder: Jasper (-2y), Nicolai (-4y)
 
   Reist gerne und ist beruflich häufig an anderen Orten
 
-Mentorin: Catina Löw
+Mentorin: Catina Löw (+26y)
 
 Mentor und „Arbeitgeber“: Teagan Stratfort
 
@@ -126,6 +126,7 @@ Motivation:
 - Persönlichkeit: arrogant, freiheitsliebend, chaotisch
 - Hobbies: Tanzen gehen, Geschichten schreiben
 - Beruf: Händler
+- das "schwarze Schaf" der Familie
 
 
 ### Nicolai Braig
@@ -138,10 +139,16 @@ Motivation:
 - Persönlichkeit: dickköpfig, frech, clever
 
 ### Catina Löw
+![Catina](CatinaLoew.jpg)
 - Mentorin in Lumis Kindheit
 - Beruf: Pilotin
 - Hobbies: Schrauben, Karten spielen
-- Persönlichkeit: selbstbewusst, 
+- Persönlichkeit: selbstbewusst, sorgfältig, temperamentvoll
+- auf Richese geboren
+- ihre Eltern waren Piloten
+  - hat sie im Alter von 10 Jahren verloren
+  - ist danach mehr oder minder in den Hangars aufgewachsen und hat wo sie konnte mitgeholfen
+- hat Lumi schon früh unter ihre Fittiche genommen 
 
 
 
