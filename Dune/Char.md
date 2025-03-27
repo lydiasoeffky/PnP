@@ -1,5 +1,5 @@
 |---
-Allergie festlegen
+Allergie: Pferdehaare
 welche anreden für wen?
 
 ---
@@ -52,7 +52,7 @@ Mentor und „Arbeitgeber“: Teagan Stratfort
 ## Thopter
 - von außen sieht er aus wie jeder andere
 - Name: Rosi
-- kein Hoheitsabzeichen außen am Thopter
+- kein Hoheitsabzeichen außen am Thopter (habe für die reise nach kaitan welche aufgemalt)
 - hat nen Transponder
 - kann relativ fix den raketenträger auf atomwaffen umstellen
 - von innen:
@@ -60,9 +60,6 @@ Mentor und „Arbeitgeber“: Teagan Stratfort
   auf einer der Kisten ist das Wappen vom Haus Ayken drauf
   von außen sind die Schränke und Kisten nicht weiter aufgehüscht worden
   an den innenseiten der Schranktüren wiederum kann man finden: Schemazeichnung von einem Topter, Schweber und Bildern von einem Heighliner und der Flora von Richese und Rossak
-
-## Ihr Zimmer
-- an einer Seite der 
 
 
 ## Charakter/Beschreibungen
@@ -73,8 +70,8 @@ Mentor und „Arbeitgeber“: Teagan Stratfort
 - bei der Arbeit geht sie pflichtbewusst ihren Aufgaben nach
 - hasst es Kleider zu tragen und macht es nur gegen Bezahlung/Bestechung
 - Hobbies: Schrauben, Fotografieren, Zeichnen
-  Stand Anfangs 2 Jahre unter höchster Beobachtung weil ich sehr präzise unteranderem die Gärtner fotografiert habe
-  Lieblings-Motive: Flugzeuge, Blumen
+  - Stand Anfangs 2 Jahre unter höchster Beobachtung weil ich sehr präzise unteranderem die Gärtner fotografiert habe
+  - Lieblings-Motive: Flugzeuge, Blumen
 Motivation: 
 - mag den Adrenalienrausch beim fliegen und das Gefühl gebraucht zu werden
 - möchte eine eigene Flotte haben mit passenden Fahrzeugen und Raumschiffen für jede Situation
@@ -138,6 +135,7 @@ Motivation:
 - Hobbies: Zeichnen, Lesen
 - Persönlichkeit: dickköpfig, frech, clever
 
+
 ### Catina Löw
 ![Catina](CatinaLoew.jpg)
 - Mentorin in Lumis Kindheit
@@ -148,8 +146,19 @@ Motivation:
 - ihre Eltern waren Piloten
   - hat sie im Alter von 10 Jahren verloren
   - ist danach mehr oder minder in den Hangars aufgewachsen und hat wo sie konnte mitgeholfen
+- hat sich ihren Platz für die Piloten Ausbildung hart erarbeitet (Stipendium?) 
 - hat Lumi schon früh unter ihre Fittiche genommen 
+- kennt Lumis Eltern durch ihren Beruf
 
+
+offene Fragen
+wo ist ihr mitter gerade?
+sind berufswechsel möglich? 
+  was macht sie beruflich? -> schreibtisch täterin?
+
+wie realistisch ist das man als händler von welt zu welt reist?
+
+wie frei ist die berufswahl?
 
 
 ---
