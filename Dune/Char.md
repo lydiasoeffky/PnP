@@ -17,10 +17,6 @@ Vater: Aaron (+21y)
 
 Brüder: Jasper (-2y), Nicolai (-4y)
 
-  hat kein gutes Verhältnis zu ihrem Bruder Jasper
-
-  Reist gerne und ist beruflich häufig an anderen Orten
-
 Mentorin: Catina Löw (+26y)
 
 Mentor und „Arbeitgeber“: Teagan Stratfort
@@ -29,7 +25,7 @@ Mentor und „Arbeitgeber“: Teagan Stratfort
 
 - ihre Eltern haben sich in der Ausbildung kennen gelernt
 - auf Richese geboren
-- ist die Älteste von 3
+- ist die Älteste von 
 - hat 2 kleine Brüder
 - ist von Kind auf begeistert von Fluggeräten/Flugzeugen und wusste schon früh das sie Pilotin werden wollte 
 - hat von ihrer mentorin gelernt das auch mechanik kenntnisse wichtig sind da man so (kleinere) reparaturarbeiten selbst erledigen kann
@@ -124,6 +120,9 @@ Motivation:
 - Hobbies: Tanzen gehen, Geschichten schreiben
 - Beruf: Händler
 - das "schwarze Schaf" der Familie
+- Luni hat kein gutes Verhältnis zu ihrem Bruder Jasper
+- Reist gerne und ist beruflich häufig an anderen Orten
+
 
 
 ### Nicolai Braig
@@ -151,14 +150,17 @@ Motivation:
 - kennt Lumis Eltern durch ihren Beruf
 
 
-offene Fragen
-wo ist ihr mitter gerade?
+## offene Fragen
+wo sind ihre mutter und ihr bruder gerade?
+
 sind berufswechsel möglich? 
-  was macht sie beruflich? -> schreibtisch täterin?
+  was macht ihre mutter beruflich? -> schreibtisch täterin?
 
 wie realistisch ist das man als händler von welt zu welt reist?
 
 wie frei ist die berufswahl?
+
+muss ich den vorteil toxinresistenz via char hintergrund belegen können? 
 
 
 ---
