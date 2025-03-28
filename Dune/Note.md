@@ -15,6 +15,8 @@ habe von Hatrol eine Einladung bekommen wenn ich mal zu besuch bin einen Jäger 
 
 # offene zusagen:
 habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich weiß
+
+was kann habe ich als angebot für die verhandlungen
 ```
 ## 2025-03-21
 habe zusätzlich zum entwaffnen ein Hoheitsabzeichen außen aufgebracht
