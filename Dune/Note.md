@@ -13,11 +13,119 @@ Schadenspunkte Thopter: /
 habe von Hatrol eine Einladung bekommen wenn ich mal zu besuch bin einen Jäger zu fliegen
   wenn er meinen Thopter fliegen auf dem Rückweg fliegen darf darf ich seinen Jäger fliegen
 
+baron abulur rabban auf Lankival:
+besuch; der koch soll ein ganz hervorragendes borretsch
+
 # offene zusagen:
 habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich weiß
 
 was kann habe ich als angebot für die verhandlungen
 ```
+### 2025-04-04
+gab einen ekla vor dem landsrat
+abulurd harkonnen hat seinen namen abgelegt und heißt jetzt abulut rabban
+  abulurd hat keine ambitionen gegen seinen halbbruder vladimir harkonnen vorzugehen 
+  ist eine beleidigung gegen seinen halbbruder 
+  keine gründe dazu bekannt
+das wetter ist immer perfekt
+habe 2,5h stunden die vole aufmerksamkeit von kaya und kira gehabt
+  sie haben mich in ein kleid gesteckt, mir die haare hüsch gemacht und mich geschminkt
+  kira wird mich auf den ball beleiten
+abulurd hat noch einen sohn glossu
+(urururur)abulurd harkonnen (der zweite) war der grund der fehde zwischen haus karkonnen und haus atredis
+die einladung kam vom haus harkonnen ausgesprochen von abulurd 
+  -> wer richtet den ball heute abend aus? harkonnen oder rabban?
+  => das haus harkonnen will sich nicht in die privaten angelegenheiten von abulurd einmischen -> der ball ist eine veranstaltung von haus rabban
+
+.... 
+haus wechsel: direkte aufforderung des imperators
+start: weil es das richtige ist, 
+attreidis: schätz ehre und das eigene wort -> der alte graf getreu 
+unsere häuser waren gut darin infos auszutauschen, zahlen das auf richesse dann zurück
+  -> offiziellen infos 
+wer bin ich: eine bedienstete; haus nennung -> umschreiben 
+  haus farbe: sattes grün
+
+infos über abulurd und hais rabban
+einstieg: habe gerüchte gehört -> neugier nutzen
+  gehört das der veranstalter ein neuer lebensabschnitt beginnt was hat er sich wohl vorgenommen?
+....
+
+findet auf dem harkonnen anwesen statt
+habe das gefühl ständig gemustert zu werden
+
+banner von haus rabban hängen 
+werden von baron rabban begrüßt - begrüßt jeden gast selbst 
+  denke das er in echt echt freundlich ist 
+und hatrol stellt uns beide 
+hausdienerschaft scheint nicht die normale zu sein
+  - botschafter von x ist da
+  - botschafter von richese -> den sollte ich aus dem weg gehen die könnten mich erkennen
+  - namika egava und ... sanya ecas 
+  - assasinen meister des hauses moritani
+kleiner ekla an der tür:
+  glossu (in hell blauer harkonnen kampfuniform) beschimpft lautstark seinen vater + wünscht ihm den tod 
+  abalurd stapft wütend davon 
+  rappelt sich blutend an der wand hoch und wirkt ernsthaft verstört und enttäuscht von seinem sohn
+hatrol zieht mich auf die tanzfläche 
+
+gehe mit wanna in die gärten
+soll ausrichten: er soll eingehender über letos angebot nachdenken
+hauptmann zachory weiß über die truppen bescheid 
+  kriegen die unterstützung
+habe einen datenträger den ich an glenn geben soll
+
+der baron trägt nicht die mega prunkvollen klamotten
+auf Lankival geboren; hat viele schöne Fjorde und gehen dort auf walpelz 
+soll sein beileid ausrichten
+in der sturmsaison als sie um obdach bat weil sie überrascht wurde 
+
+komme gut angetrunken wieder zurück nach hause
+habe von abulurd eine ausgeh flieger uniform geschenkt bekommen
+
+haben ein geschenk von haus rabban bekommen
+  scheint eine größere auswahl an walpelz kleidung zu sein
+
+durch die unterstützung des imperators wird in der landsrat vollversammlung über unser vorhaben abgestimmt
+  harkonnen, moritani, und andere kleinere enthalten sich
+  haus rabban stimmt für uns
+  keine gegenstimmen
+bekommen von weiteren häusern unterstützung zu gesichert
+
+abulurd teilt die ansicht leute danach zu beurteilen wie leute ihre untergebenen behandeln 
+  sagt selbst das wir seinen bruder nicht kennen lernen wollen 
+  verlangt nicht von allen seinen leuten (Ivan - Walpelzjäger und guter Freund der Familie) das sie sich verbeugen
+  macht uns nach der Entscheidung die Aufwartung und stellt uns einige Mittel zu Verfügung stellen 
+    bekommen walpelze zum austeilen -> vermutet das kleidung ein problem sein wird
+  bekommen von ihm auch eine unfreiwillige hilfe von haus harkonnen: ein koffer mit melange 
+    die menge ist noch unter der schwelle
+    problem: wir können nicht nachweisen wo wir es her haben
+    für die begleichung der kosten bei der raumgilde
+  hat weil es das richtige ist den namen harkonnen abgelegt 
+  hat manchmal ein bisschen angst vor seinem koch weil er als kind so oft mit dem kochlöffel auf die finger bekommen hat
+  möchte mit uns mit medikamenten für alltäglichere krankheiten wie schmerzende gelenke, gicht, ... handeln 
+    kann die gilde bezahlen und ansonsten in melange 
+    braucht die medis dringend 
+  fragt glenn expliziet das ich mit nach lankival mitkomme 
+
+werden nachdem wir auf richese gewesen sind nach X gehen
+wir sollen uns mit hatrol und den truppen auseinandersetzen
+  sollen uns in die arbeitsweisen der attreidis einarbeiten (lassen) -> so ziemlich alles was wir können 
+
+bekommen von abbad adhed den grundbedarf der ketzten 20 Jahre und eine Schätzung 
+  hat die füche apollo und artemis genannt
+  sollen uns bei einer abstimmung im landsrat bezüglich haus ecas und hölzern enthalten bekommen dafür die benötigten Infos
+
+glenn scheint ein gewisses interesse an mode zu besitzen
+
+kaya ist auch auf richese augewachsen
+
+
+
+
+
+
+
 ## 2025-03-21
 habe zusätzlich zum entwaffnen ein Hoheitsabzeichen außen aufgebracht
 gehen zu Akima um sie über Alexander Orman auszufragen
@@ -70,12 +178,12 @@ der vertreter von atreidis meint das er nicht direkt in verhandlungen gehen soll
   für ayken: ich
 ich brauche eine verhandlungsvollmacht von glenn
 gelegenheit ist ein ball des hauses rabban in 2 tagen
-einladung ist unterschrieben von abalut harkonnen
+einladung ist unterschrieben von abalurd harkonnen
 
 bekommt von Kaya unterricht in polik, diplomatie und auftreten
 spiele mit Kaya mühle dabei nimmt sie mir das versprechen das ich ihr meinen Thopter ausleihe
 
-#### Argumente für die Verhandlungen mit Atreidis 1:
+Argumente für die Verhandlungen mit Atreidis 1:
 humanitäre hilfe ist etwas was man unterstützen sollte
 unsere Häuser wollen zusammenarbeiten 
 
@@ -94,7 +202,7 @@ hat in der küche angefangen und hat sich hoch gearbeitet
 wurde kammerzofe von lady sirell
 hat sich anfangs mit diesen gesprächen schwer getan oder mal zu lügen
 
-#### -> kriege von kaya einen vorteil für den Ball weil sie einen schip ausgibt
+-> kriege von kaya einen vorteil für den Ball weil sie einen schip ausgibt
 
 liebt weiße rosen
 ist in einem armen viertel auf gewachsen außerhalb des hauses 
@@ -113,7 +221,7 @@ wir sind nicht mehr Vasall von Richese da sie wohl ihr Recht auf Vasallen verwir
 die Abstimmung über die Humanitäre Hilfsaktion ist in einer Woche
   haben die Unterstüzung vom Imperator
 
-#### Argumente für die Verhandlungen mit Atreidis 2:
+Argumente für die Verhandlungen mit Atreidis 2:
 Atreidis könnte nicht von dem Schwur nicht begeistert sein
   hatten keine Wahl dabei + Schwur bindet uns nicht nur an den Imperator sondern auch an den Landsrat
   
