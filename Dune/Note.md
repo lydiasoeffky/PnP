@@ -1,7 +1,7 @@
 # Session Notes
 
 ```
-SchiP: ||
+SchiP: ||(|)
 Kampfpool: ||| 
 Kraftpunkte: ||||| ||
 Muni: 
@@ -13,7 +13,7 @@ Schadenspunkte Thopter: /
 habe von Hatrol eine Einladung bekommen wenn ich mal zu besuch bin einen Jäger zu fliegen
   wenn er meinen Thopter fliegen auf dem Rückweg fliegen darf darf ich seinen Jäger fliegen
 
-baron abulur rabban auf Lankival:
+baron abulurd rabban auf Lankival:
 besuch; der koch soll ein ganz hervorragendes borretsch
 
 # offene zusagen:
@@ -21,6 +21,54 @@ habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich wei�
 
 was kann habe ich als angebot für die verhandlungen
 ```
+### 2025-04-13
+die Nachricht von Tod des alten Grafen ist bereits auf Rossakt eingetroffen
+der Rat hat das aber noch nicht der breiten Bevölkerung mitgeteilt
+
+Taban hatte familie auf X und weiß nicht was mit ihnen passiert ist
+  hat dort eine person gegen die er einen groll hegt
+Leto vom Haus Atreidis möchte das wir "uns dort mal umsehen"
+diskussion darum ob und warum wir nach X gehen sollten
+  werden mit den atreidis gemeinsam nach X gehen so bald die hilfsaktion auf richese durchgeführt wurde
+
+bestattungsritus auf rossak:
+  die person wird mit allen gegenständen an denen negative erinnerungen hängen verbrannt
+  gegenstände an denen überwiegend positive erinnerungen hängen werden an verwandte und nahe stehende personen verschenkt
+werden feierlichkeiten zu ehren des alten grafen und teagan ausrichten
+
+wollen dem Haus Venport ein Angebot/Vertrag anbieten um weitere Konflikte mit ihnen auf Rossak zu unterbinden:
+  - der aktuelle Herrscher tritt sofort ab und übergibt Joseph den Titel
+  - eine Person aus dem Haus wird in den Rat aufgenommen
+  - kriegen die Besitztümer zu gesichert (?)
+
+was würde ich gerne zu teagans gedenkfeier beitragen?
+  Lumi würde eine Kollage an Bildern mit Teagan zusammenstellen
+  möchte ein "Gästebuch" auslegen in das die Soldaten schreiben können
+  "Gästebuch" soll mit in die Gruft zu Teagan -> als "entschädidung" dafür das sie bei der bestattung nicht teilnehmen zu können; ist eine art der persönlichen abschied
+
+
+jonathan hört jazz und klassik
+
+mache Transport-Flüge 
+Adam Tam hat viel mit der Versorgung zu tun und sitzt viel mit bei den Soldaten
+Finnley: erinnert mich an Kaya
+  beide arbeiten mit Jasper zusammen
+haben Thopterteile aus ixianische Produktion
+Kontanktperson: Lyra Sandar; Bergbausprengmeisterin
+habe die Frequenz von Adam
+der Inhalt der Kisten schadet dem Haus nicht
+nehme die Kisten mit
+lande im hangar am weitesten außerhalb an der feuerspitze
+in den kisten sind zündmechanismen von hagal und früchte von anderen planeten
+  z.B. ananas
+von den normalen zündmechanismen 5x so viele wie die gerade gelieferten
+haben dafür ungenutze Räume als zwischenlager für lebensmittel und alkohol genutzt
+  ist mittlerweile leer
+
+
+
+
+
 ### 2025-04-04
 gab einen ekla vor dem landsrat
 abulurd harkonnen hat seinen namen abgelegt und heißt jetzt abulut rabban
@@ -32,7 +80,7 @@ habe 2,5h stunden die vole aufmerksamkeit von kaya und kira gehabt
   sie haben mich in ein kleid gesteckt, mir die haare hüsch gemacht und mich geschminkt
   kira wird mich auf den ball beleiten
 abulurd hat noch einen sohn glossu
-(urururur)abulurd harkonnen (der zweite) war der grund der fehde zwischen haus karkonnen und haus atredis
+(urururur)abulurd harkonnen (der zweite) war der grund der fehde zwischen haus harkonnen und haus atreidis
 die einladung kam vom haus harkonnen ausgesprochen von abulurd 
   -> wer richtet den ball heute abend aus? harkonnen oder rabban?
   => das haus harkonnen will sich nicht in die privaten angelegenheiten von abulurd einmischen -> der ball ist eine veranstaltung von haus rabban

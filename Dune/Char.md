@@ -106,6 +106,8 @@ Motivation:
 - Persönlichkeit: charmant, aufgeweckt, diszipliniert
 - Hobbies: Klettern, Häkeln
 - Beruf: Soldatin
+- wohnte in Raschan; ist mit nach Rossak umgezogen
+- arbeitet in der Waffenfertigung in der Feuerspitze
 
 
 ### Jasper Braig
@@ -122,7 +124,7 @@ Motivation:
 - das "schwarze Schaf" der Familie
 - Luni hat kein gutes Verhältnis zu ihrem Bruder Jasper
 - Reist gerne und ist beruflich häufig an anderen Orten
-
+- wo Jasper ist, ist unklar
 
 
 ### Nicolai Braig
@@ -266,6 +268,14 @@ es gab auch gemeinsame Feiern nach schwierigen Missionen
 
 
 ---
+Turbolader
+Panzerbrechende Munition
+
+
+
+
+
+
 
 nicht wirklich abgedeckt:
 Raumfahrt, Steuern, Sicherheit, Schießen
