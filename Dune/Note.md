@@ -1,7 +1,7 @@
 # Session Notes
 
 ```
-SchiP: ||(|)
+SchiP: ||
 Kampfpool: ||| 
 Kraftpunkte: ||||| ||
 Muni: 
@@ -10,7 +10,7 @@ Muni:
 Schadenspunkte Thopter: /
 
 # offene einladungen:
-habe von Hatrol eine Einladung bekommen wenn ich mal zu besuch bin einen Jäger zu fliegen
+habe von Hatrol Zachory eine Einladung bekommen wenn ich mal zu besuch bin einen Jäger zu fliegen
   wenn er meinen Thopter fliegen auf dem Rückweg fliegen darf darf ich seinen Jäger fliegen
 
 baron abulurd rabban auf Lankival:
@@ -21,8 +21,61 @@ habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich wei�
 
 was kann habe ich als angebot für die verhandlungen
 ```
+### 2025-05-23
+....
+haben nen vertrag mit der gilde für transporte
+habe vieletransport flüge als vorbereitung geflogen -> weil ich halt oft nicht da war
+....
+
+ein unregistrierter thopter ist auf dem weg zum felsendom
+laut aussage vom haus bludd
+  es reisen 5 schwertmeister und 15 schwertmeisterschüler an -> zahlen stimmen
+  ist ein spähthopter: hat nur das abzeichen der schwertmeister außen drauf
+eine einzelne Person steigt aus: Schwertmeister Nadon
+  ist die vertretung von Lord Bludd
+  hat das eigentliche Kommando
+ist eine art vorprüfung vor der abschluss prüfung
+  auf ginaz glaub man das schwertmeister auch ausbilden kann
+  die schwertmeister sind unteranderem dazu da um die schüler und glenn zu beobachten
+es werden 5 schüler auf die feuerklaue angesetzt 
+sein cosin weiß nicht das er noch am Leben ist (Schwertmeister Nadon)
+  gehört zu haus korino
+bin mit Hatrol zum Mittag essen verabredet
+  soll grüße von grafen ausrichten
+der aktuelle schwertmeisterjahrgang hat eine durchschnittliche verteilung von gut bis schlecht
+"prügeln" uns mit Jasper und Finley weil mindesten einer Versuch abzuhauen
+Kayas richtiger Name: Katharina Petrova
+  einer ihrer brüder war beim milität 
+  beide haben sich gefragt was mit ihrer schwester passiert ist
+  ihr vater hat sich angeblich tot gesoffen
+  ihr vater hat seine kinder häufig verprügelt
+  finley hat die erstbeste gelegenheit genutzt um den planeten zu verlassen
+Aufträge kommen von Adam weil er weiß was gebraucht wird
+Finley mag keine Hunde
+  hat für seine schwester für jedes jahr ein buch zum geburtag "geschenkt" -> hat 15 eingepackte bücher
+habe nach dem abend hart verschlafen nachdem ich eine badewanne und ein weiches bett in hatrols gemächern hatte
+wollen eine klärung mit hause venport erzielen 
+  möglichst ohne verhandlungen und bedingungen
+  das haus venport ist aktuell militärisch sehr gut aufgestellt
+  -> woher kommt das geld um die streitkräfte zu unterhalten
+verwerfen die idee in verhandlungen mit dem haus venport zu gehen 
+die gärtner haben die aufgabe bekommen joseph venport zu extrahieren wenn ihm von seinem haus gefahr droht
+  soll aussehen als wenn es die hexen gewesen seien
+glenn hat einen bericht von den gärtner zu gesteck bekommen mit allerhand infos
+  in dem bericht steht unter anderem das lumi gerade gefährdet ist abtrünnig zu werden
+gehen rakhea im dschungel besuchen
+zu butlers djihad haben die rossak hexen seite an seite zusammen gekämpft
+kaya bekommt von rakhea das angebot zur ausbildung
+rakhea demonstriert ihre kräfte mit einem lokalem konzentrierten gewitter
+  bekomme als ich zur waffe greife eine gewischt
+  bekomme von rakhea eine salbe für meine hand
+
+
+
+
+
 ### 2025-04-13
-die Nachricht von Tod des alten Grafen ist bereits auf Rossakt eingetroffen
+die Nachricht von Tod des alten Grafen ist bereits auf Rossak eingetroffen
 der Rat hat das aber noch nicht der breiten Bevölkerung mitgeteilt
 
 Taban hatte familie auf X und weiß nicht was mit ihnen passiert ist

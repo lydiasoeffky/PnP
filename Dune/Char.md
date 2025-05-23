@@ -44,6 +44,7 @@ Mentor und „Arbeitgeber“: Teagan Stratfort
 
 
 - sie ist Lieutnant
+- ist mit Hatrol Zachory vom Haus Atredis zusammen 
 
 ## Thopter
 - von außen sieht er aus wie jeder andere
