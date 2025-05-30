@@ -1,7 +1,7 @@
 # Session Notes
 
 ```
-SchiP: ||
+SchiP: ||(|)
 Kampfpool: ||| 
 Kraftpunkte: ||||| ||
 Muni: 
@@ -16,11 +16,65 @@ habe von Hatrol Zachory eine Einladung bekommen wenn ich mal zu besuch bin einen
 baron abulurd rabban auf Lankival:
 besuch; der koch soll ein ganz hervorragendes borretsch
 
-# offene zusagen:
+# offene zusagen/aufgaben:
 habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich weiß
+bin für die eingewöhnung von marie zuständig
 
 was kann habe ich als angebot für die verhandlungen
 ```
+### 2025-05-30
+....
+letzen 2 wochen von lumi:
+transportflüge 
+nimmt flugunterricht im kindschal:
+  -> die dinger sind schneller und wendiger wie ein thopter
+  -> kann nicht so richtig mit hatrol mithalten
+aufklärungsflüge:
+  -> 4 militärbasen der venports gefunden
+besuch bei ihrer mutter
+entfernen des wappen auf dem thopter + einbau der waffen
+....
+
+glenn hat den hoftag eingeführt
+  nach dem vorbild des haus attreidis
+der koch philipp ist der erste
+  wurde vor kurzem aus den diensten entlassen
+  bittet darum wieder als koch arbeiten zu dürfen - wenn schon nicht im haus dann eine eigene küche
+Freiherr Joshua Buckley ist einer der Leute
+  beschwert sich darüber das er dem pöbel gleich gestellt wird am hoftag
+  bringt ein kleines, stark geschminktes mädchen mit (sie heißt Irene, ist 5 Jahre alt) - seine Tochter
+  das mädchen ist vollkommen eingeschüchtert
+  möchte gerne über die vermählung seiner tochter mit glenn unterhalten
+  Irene ist quasi das pfand für die unterstützung der sternenhöle zu sichern
+  sie wird als hofdame zur ausbildung aufgenommen
+  Joshua verlässt aufgebracht den Raum
+gibt zwischendrin Mittagessen
+Marie Ares (Schülerin)
+  hat die schule abgeschlossen uynd will eine ausbildung in der garde anfangen
+  ihren ziehbruder geht es gut 
+  kenne sie weil ich sie am vortag bei einem versorgungsflug mitgenommen weil sie sonst gelaufen wäre
+  trägt einen rohling als waffe in der hand
+  bin für sie in den ersten tagen zuständig
+  sie will nach ginaz um schwertmeistering zu werden
+führe sie rum, organisiere eine unterkunft
+der elan von ihr erinnert mich an mich 
+die schwertmeisterschüler waren mit ihrer jagd erfolgreich und schleppen den nachtschatten an
+  bitten darum ein kindshal aus den klauen des nachtschatten nach absolvieren der ausbildung zu bekommen
+gehe mit alexander nach dem Hoftag trainieren
+Hatrol beobachtet das ganze, gehe mit ihm nach dem Training etwas essen
+in 5 tagen geht es los nach richese
+Übersteht erfolgreich eine tanzstunde mit hatrol, glenn, kaya und sia
+  die läuft sogar ziemlich gut
+  bekommt danach noch privat unterricht bei und mit hatrol
+
+
+marie:
+lernen befehle von vorgesetzten zu befolgen
+pause machen
+
+
+
+
 ### 2025-05-23
 ....
 haben nen vertrag mit der gilde für transporte
