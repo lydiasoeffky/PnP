@@ -22,6 +22,20 @@ bin für die eingewöhnung von marie zuständig
 
 was kann habe ich als angebot für die verhandlungen
 ```
+
+### 2025-06-06
+der Ballabend findet gerade statt:
+bis nach dem essen ist nicht klar warum glenn und kaya überhaupt eingeladen haben 
+werden nach dem essen noch mal gesammelt von glenn begrüßt + er sagt endlich was der Anlass ist:
+  Verkündet das er und Kaya in einer Beziehung sind und er deswegen keine arrangierte ehe eingehen wird
+  -> stelt kaya damit offiziell als seine gefährtin vor
+ich blamiere mich nicht komplett auf der tanzfläche -> der tanzunterricht bei hatrol hat geholfen
+werde mit Elias (?) und Alexander auf Jagd gehen 
+  wenn die sumpfdrachenjäger mitkommen gehen wir einen Rotrücken jagen
+  wenn die sonne aufgeht
+auf rossak ist die partnerwahl frauensache und idealerweise hat der partner ein enstsprechendes angebot als gegenwert 
+
+
 ### 2025-05-30
 ....
 letzen 2 wochen von lumi:
