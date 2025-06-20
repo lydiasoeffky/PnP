@@ -23,6 +23,80 @@ bin für die eingewöhnung von marie zuständig
 was kann habe ich als angebot für die verhandlungen
 ```
 
+### 2025-06-20
+Rotrücken fressen wann immer sie können -> reagieren gut auf entsprechende Köder
+nehmen Taban spontan mit
+der nächste Rotrücken wurde ca. 1,5h weit weg gesichtet
+das Jagdgebiet ist um den Schlinghau
+Sia erklärt uns eine Reihe an Merkmalen die nützlich sind um zu überleben
+Raubtiere: riechen zu erst - dann hören - dann sehen
+haben noch Spuren von einem grünen Stachelrücken gefunden
+haben erfolgreich den Rotrücken erlegt
+Lumi durfte den letzten Schnitt setzen + mithelfen das Vieh zu zerlegen da sie den ersten Schuss gesetzt hat 
+wurde in die Reihen der Jäger Rossaks aufgenommen und hat eine Kette gefertigt aus den Klauen und den Sehnen von Rotrücken
+besondere Tiere dürfen nur von den Jägern präpariert werden -> man heilt dabei die wunden und sammelt sein kräfte
+es wurde verkündet das Kaya schwanger ist
+der Typ (Dorian) auf der Krankenstation kann laut Sia zu einem guten Verbündeten werden wenn man ihm hilft
+  - ist verschwiegen
+  - hat nicht alle Jobs angenommen die er hätte haben können
+  - hat aktuell keine Verpflichtungen mehr
+machen uns auf den Weg nach Richese
+es fehlt ein Mond 
+man sieht auch aus dem Orbit das es Brände und massive Verwüstung gibt 
+
+Richese hat 3 Kontinente
+Besiedelung war in kleinere Städte aufgeteilt
+einer der Kontinent ist quasi nur noch Trümmerfelder
+es gab diverse Tsunamis
+es gibt große Brände die für eine dicke Asche-Schicht sorgt
+es gibt keine koordinierten Aktionen von den verbliebenen Truppen
+  es ist ein Kampf David gegen Goliath
+der Kontinent auf dem Raschan lag ist nicht betroffen
+Richese City ist vom Mond getroffen -> die Raumhafen Struktur und alles was dazu gehört ist zerstört
+haben keine Landeerlaubnis
+in den Minengebieten besteht Einsturzgefahr - es gibt aber Lebenszeichen
+die Wasseraufbereitungsanlage ist kaputt aber reparierbar - wird durch Feuer bedroht
+Raschan liegt in einer Bergkette und ist nicht von den Tsunamis betroffen - es gibt aber vulkanische Aktivitäten die Raschan bedrohen werden
+es gibt allgemein noch Lebenszeichen
+die Energieversorgung stützte sich auf Gezeitenkraftwerke und Solar-Energie
+Seuchengefahr besteht wegen zusammengebrochener medizinischer Versorgung
+
+Atreidis: Hatrol
+Bludd: Nadon
+Venport: Nadim + Hamza
+Raumgilde: Abbad
+
+die Raumgilde stellt Techniker für die Erstellung eines Brückenkopfes auf Richese
+auf einem (Teil)Lehen auf Poetrin von Bludd kann bis zu 5Mio. Flüchtlinge unterkommen
+
+Hatrol wird für die Errichtung des Brückenkopfes sowie für die entsprechende Logistik verantwortlich
+  hat für den Standort Raschan ausgewählt
+Haus Venport ist für die medizischen Abläufe zuständig
+Raschan ist auf dem Gebiet des alten Lehen von Haus Ayken
+Hamza schlägt vor den Brückenkopf in der Nähe einer Wasseraufbereitungsanlage zuerrichten
+zusätzlich werden Truppen zu der (?) Wasseraufbereitungsanlage und den Mienengebieten geschickt
+im nächsten Schritt wird sich um die Lebensmittelversorgung gekümmert
+Abbad schlägt die Errichtung eines Kommunikationsnetzes vor 
+  Angebot wird zu einem stark reduzierten Preis gemacht
+Kaladan ist bereit bis zu 10Mio Flüchtlinge aufzunehmen
+(Kaladan und Poetrin sind Gartenwelten)
+noch keine Schmuggler oder illegale Bergungsaktionen bei den Überflügen gesehen -> das muss aber nichts heißen
+es gibt Atomwaffen auf dem Planeten - sind wenn es Überlebende von Haus Richese gibt sind sie wieder an das Haus zu übergeben
+  im Zweifel behält sie Haus Ayken
+Herzog Letho lässt ausrichten das wenn es sich bei den Flüchtlingen um Haus Ayken handelt wird Haus Attreidis diese auf eigene Kosten nach Rossak "verschiffen"
+  den Flüchtligen wird angeboten werden Bürger von Kaladan zu werden
+die Mienen sind wertvoll um Teile aus lokal gewonnenem Erz herzustellen
+  es ist unklar was Haus Venport genau davon hat wenn sie sich um die Mienen kümmern
+Herzog Letho hat eine Pergament-Rolle geschickt -> handgeschriebener Brief: gratuliert zur Verlobung
+  schenkt Kaya und Glenn einen Leichter
+  -> müssen einen Abstecher nach Kaladan machen um den Inhalt dort abzusetzen
+die ersten Vortrupps können in ca. 8h losgeschickt werden
+
+Plan: Brückenkopf bauen -> Wasser + Mienen -> wenn wir es finden: Atomwaffen
+wenn Zeit: Grab von Glenns Mutter prüfen, Todesumstände von Glenns Vater
+
+
+
 ### 2025-06-06
 der Ballabend findet gerade statt:
 bis nach dem essen ist nicht klar warum glenn und kaya überhaupt eingeladen haben 
