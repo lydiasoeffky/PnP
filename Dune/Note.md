@@ -8,6 +8,8 @@ Muni:
   Pistole: ||||
   SG: ||
 Schadenspunkte Thopter: /
+auf Richese:
+die Filter werden sich schnell zusetzen -> Regeltechnisch: ein Nachteil
 
 # offene einladungen:
 habe von Hatrol Zachory eine Einladung bekommen wenn ich mal zu besuch bin einen Jäger zu fliegen
@@ -22,6 +24,67 @@ bin für die eingewöhnung von marie zuständig
 
 was kann habe ich als angebot für die verhandlungen
 ```
+### 2025-07-04
+Leutnant Elias Hedia: Hatrols Rechte Hand
+hab den Schlüssel für das Landungs"thopter"
+kriege Anweisungen zur Position und die Kennung für den Thopter
+die Landung auf Richese ist ziemlich holprig weil die Atmosphäre nicht nett ist
+können jetzt das gesamte Ausmaß der Zerstörung sehen - viele der Landmarken sind zerstört
+das Licht der Sonne(n) kommt nicht wirklich durch
+sind etwas außerhalb von Raschan gelandet - ca. 1h zu Fuß
+werden zu einem Wohnungscontainer geführt -> unsere vorübergehende Basis
+haben die Nahrungsmittel dabei
+Leutnant Hedia ist mit auf Richese - Hatrol ist oben geblieben zur Koordination
+die Perimetersicherung ist fast abgeschlossen
+es wurden Scouts losgeschickt - in 1h wird es erste Infos geben
+es wurden insgesamt 19 Raketen abgeschossen - keine Verluste
+haben die Archivarin vom Haus Attreidis kennen gelernt
+  sie wurde von Tufir als Beobachterin eingesetzt
+  ist deutlich intelligenter als sie sich gibt
+helfe mit beim Aufbau
+die Aschebelastung wird ein Problem für meine Flügegelenke
+die Filter werden sich schnell zusetzen -> Regeltechnisch: ein Nachteil
+  muss das passende Werkzeug dabei haben oder eine Vorrichtung bauen die das mildert
+bekomme eine Schlüsselkarte für den militärischen Sicherheitsbereich
+gibt immer wieder kleinere Erdbeben - Ursache unklar
+in der Stadt gibt es diverse Schäden und Überlebende 
+  die Überlebende die sich paramilitärisch organisiert hat
+  ein Zentrum gibt es auf dem alten Ansitz vom Haus Ayken
+weitere Angriffe auf die Spähthopter - einer musste Notlanden weil der Holzmann Schild versagt hat
+die Befestigung deutet auf Leute mit militärischer Erfahrung da
+unklar ob mangelndes Material oder Absicht das die Befestigung so gebaut ist wie sie gebaut ist
+leichte Nahkampfwaffen bis militärisches Equipment
+Kaya kennt 2 Personen:
+  Sarn Kel: vor 15 Jahren Schmuggler gewesen, war mit der Brown Viper Company unterwegs/hat für sie gearbeitet, nicht der Regel getreu, humanitären Aktionen nicht abgeneigt
+  Matthias Stone: ist Bäckers-Sohn, in Kayas Alter, kein Querulant
+Sergent Mevik/Marvik aus dem Haus Attreidis wird mitkommen
+werden ein ungepanzerten Truppentransporter nehmen
+  ich bekomme Zugriff darauf
+  darf über die Bewaffnung entscheiden
+  entweder 2 repetier geschütze oder ein Schild kann angebaut werden
+die Truppen die von Venport die gerade da sind sind freiwillig hier 
+die Stellungen sind unbemannt -> kommen weit in die Stad hinein + ist augenscheinlich leer
+sehen aber das Paramilitär sich mit uns bewegt
+Matthias nimmt uns in empfang und führt uns zu Rhessa Korun die das sagen hat
+Sarn Kel ist quasi ein Warlord
+den ersten Teil des Gespräches hat Glenn geführt; den zweiten führt Alexander
+die Erdbeben treten seit dem Fall des Mondes auf und nehmen zu
+  mögliche Ursache: vulkanische Aktivitäten
+die Flüsterer haben etwas gegen Maschienen aller Art und wüten in den Chemiefarbriken
+  würden sich über die Stadt ausbreiten wenn sie sehen das entsprechendes Zeug geliefert wird
+2500 Überlebende von 500 000
+ca. 30 fähige Bergleute die den Geologen helfen sollen
+die vorübergehende Ordnung besteht seit 6 Monaten
+es gab am Vorabend Bewegung von der alten Feste
+
+
+
+
+
+
+----
+mit Taban sprechen: Filterreinigungsanlage für Schiffe/Thopter
+
 
 ### 2025-06-20
 Rotrücken fressen wann immer sie können -> reagieren gut auf entsprechende Köder
