@@ -1,13 +1,17 @@
 # Session Notes
 
 ```
-SchiP: ||(|)
-Kampfpool: ||| 
+SchiP: 
+Kampfpool: ||||| ||||| | 
 Kraftpunkte: ||||| ||
 Muni: 
   Pistole: ||||
   SG: ||
 Schadenspunkte Thopter: /
+
+Inventar:
+Repetiergeschütz
+
 auf Richese:
 die Filter werden sich schnell zusetzen -> Regeltechnisch: ein Nachteil
 
@@ -20,10 +24,30 @@ besuch; der koch soll ein ganz hervorragendes borretsch
 
 # offene zusagen/aufgaben:
 habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich weiß
-bin für die eingewöhnung von marie zuständig
 
-was kann habe ich als angebot für die verhandlungen
 ```
+### 2025-07-11
+die aktuellen Zerstörungen sind so das man die Stadt innerhalb von ein paar wochen funktional ist
+der Ursprungszustand wird mehr Zeit brauchen
+die thopterteile wurden abgesprengt - wurde von was getroffen
+  kann ihn landen aber nicht schön
+an der absturzstelle ist bewegung
+kassieren einen schuss in den motor
+Venna Lorr: hat die Explosion überlebt
+  hat die Grundausbildung mit mir gemacht und abgebrochen
+  ist Jägerin geworden
+  war recht lebensfroh
+  hat es nicht so mit Befehlstrukturen
+  war Schwanger
+  trägt nichts aus dem alten Ayken Bestand
+ist nach dem wach werden sehr verwirrt
+habe das geschütz vom panzer abgebaut und mitgenommen
+kehren mit einem stark beschädigten fahrzeug wieder zurück
+
+
+
+
+
 ### 2025-07-04
 Leutnant Elias Hedia: Hatrols Rechte Hand
 hab den Schlüssel für das Landungs"thopter"
@@ -77,13 +101,6 @@ ca. 30 fähige Bergleute die den Geologen helfen sollen
 die vorübergehende Ordnung besteht seit 6 Monaten
 es gab am Vorabend Bewegung von der alten Feste
 
-
-
-
-
-
-----
-mit Taban sprechen: Filterreinigungsanlage für Schiffe/Thopter
 
 
 ### 2025-06-20
