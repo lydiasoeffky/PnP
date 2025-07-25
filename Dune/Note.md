@@ -8,6 +8,7 @@ Muni:
   Pistole: ||||
   SG: ||
 Schadenspunkte Thopter: /
+Beschädigungsgrad: Zerstört (-9)
 
 Inventar:
 Repetiergeschütz
@@ -26,6 +27,29 @@ besuch; der koch soll ein ganz hervorragendes borretsch
 habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich weiß
 
 ```
+### 2025-07-25
+die kleine Nervensage befindet sich auf der Krankenstation
+wurde angefahren weil er an einem Training teilgenommen hat das deutlich über seiner Kompetenzstufe lag
+sollen fragen ob er aufs Flagschiff transportiert werden darf damit er dort besser versorgt werden kann
+gehe zum Container um Venna abzuholen - sie darf ihr waffen für den ausflug haben
+der start ist ziemlich holprig
+stürzen ab nachdem wir von einer luftabwehr rakete getroffen wurden
+-> haben nen blackout - werden von leuten aus dem thopter gezogen
+sind im außen bereich von raschan abgestürzt - sind hinter den barrieren runter gekommen
+die flüsterer sind auf der anderen seite der stadt
+drei schwingen sind noch dran, eine sehen wir noch, zwei sind weg
+das diamantglas ist gerissen
+sieht halt so aus als wenn er in eine hauswand gekracht ist
+wird demnächst nicht explodieren
+ist zum glück nicht unrettbar kaputt
+bekomme einen brotkanten vom matthias
+haben von Ressa die erlaubnis bekommen die nervensäge auf ein schiff verlegen zu lassen]
+Ressa sichert uns ein Treffen mit Sarn zu wenn Sarn bereit ist zu reden + sicher ist das ein irrtum vorliegt
+wir sollen von Ressa an Lorren (die Nervensäge) ausrichten: Du bist ein Idiot!
+
+
+
+
 ### 2025-07-11
 die aktuellen Zerstörungen sind so das man die Stadt innerhalb von ein paar wochen funktional ist
 der Ursprungszustand wird mehr Zeit brauchen
@@ -43,8 +67,6 @@ Venna Lorr: hat die Explosion überlebt
 ist nach dem wach werden sehr verwirrt
 habe das geschütz vom panzer abgebaut und mitgenommen
 kehren mit einem stark beschädigten fahrzeug wieder zurück
-
-
 
 
 
