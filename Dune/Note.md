@@ -1,14 +1,14 @@
 # Session Notes
 
 ```
-SchiP: 
-Kampfpool: ||||| ||||| | 
+SchiP: ||(|)
+Kampfpool: ||||| ||||| |
 Kraftpunkte: ||||| ||
 Muni: 
   Pistole: ||||
   SG: ||
 Schadenspunkte Thopter: /
-Beschädigungsgrad: Zerstört (-9)
+Beschädigungsgrad: -  [Zerstört (-9)]
 
 Inventar:
 Repetiergeschütz
@@ -27,6 +27,33 @@ besuch; der koch soll ein ganz hervorragendes borretsch
 habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich weiß
 
 ```
+### 2025-08-08
+Alexander kommt mit Unterstüzungstruppen nach Raschan
+haben eine Nacht bei der Miliz in Raschan übernachten
+Glenn wurde kurz vor Sonnenaufgang von der Funke geweckt als Alexander uns kontaktiert hat
+das Gebäude hat neue Stützstreben bekommen
+sehen von Rosi aus drei Fahrzeuge stehen
+können mit den Materialien Rosi reparieren
+Maddoc hat ein Schimpfwort-Vokabular welches größer ist als meines
+parke Rosi vor dem Rathaus - wird mit Netzen und co abgedeckt
+  unsere Truppen werden auf Rosi aufpassen
+  werde von mir oben die Krankenhäuser anschauen
+der Start + Flug ist holprig
+die Krankenhäuser sind in sich zusammengstürzt
+  man sieht das bereits das Material abgetragen wurde
+haben ein Farhzeug mit Seilwinde welches dafür eingesetzt werden könnte -> werden sich um die Pumpen kümmern
+die Soldaten von Haus Attreidis stellen Teile ihrer Versorgung zur Verfügung
+eine Frau der Flüsterer ist in die Stadt gekommn um zu predien
+  die Frau hat Tattoos im Gesicht und trägt ein einfaches Leinengewand
+Alexander war in der Lage sie zu fangen
+haben sie in ein Haus gebracht um mit ihr zu sprechen
+die Frau scheint ein höheres Tier bei den Flüsterern zu sein
+"Velos Botschaft wird in Richese verbreitet werden und wenn ihr mich nicht tötet wird Gram mich hier raus holen. Wirs sind viele und es ist der Wille Gottest das die Botschaft nicht aufgehalten wird."
+Verlegen sie erst zu der Miliz und dann so schnell wie möglich zum Brückenkopf
+
+
+
+
 ### 2025-07-25
 die kleine Nervensage befindet sich auf der Krankenstation
 wurde angefahren weil er an einem Training teilgenommen hat das deutlich über seiner Kompetenzstufe lag
@@ -43,7 +70,7 @@ sieht halt so aus als wenn er in eine hauswand gekracht ist
 wird demnächst nicht explodieren
 ist zum glück nicht unrettbar kaputt
 bekomme einen brotkanten vom matthias
-haben von Ressa die erlaubnis bekommen die nervensäge auf ein schiff verlegen zu lassen]
+haben von Ressa die erlaubnis bekommen die nervensäge auf ein schiff verlegen zu lassen
 Ressa sichert uns ein Treffen mit Sarn zu wenn Sarn bereit ist zu reden + sicher ist das ein irrtum vorliegt
 wir sollen von Ressa an Lorren (die Nervensäge) ausrichten: Du bist ein Idiot!
 
