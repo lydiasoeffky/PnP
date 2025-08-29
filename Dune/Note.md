@@ -21,12 +21,60 @@ habe von Hatrol Zachory eine Einladung bekommen wenn ich mal zu besuch bin einen
   wenn er meinen Thopter fliegen auf dem Rückweg fliegen darf darf ich seinen Jäger fliegen
 
 baron abulurd rabban auf Lankival:
-besuch; der koch soll ein ganz hervorragendes borretsch
+besuch; der koch soll ein ganz hervorragendes borretsch machen
 
 # offene zusagen/aufgaben:
 habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich weiß
 
 ```
+### 2025-08-29
+kümmern uns in den folge Tagen darum das die Wasseraufbereitung und die Stollen wieder funktional werden
+danach wird das Fahrzeug zum Krankenhaus geschickt
+die ersten Bohrungen haben begonnen
+der Bau vom Raumhafen geht voran
+einige abgelegenere Viertel werden durchkämmt und gesichert
+die Flüsterer veranstalten weitere Kundgebungen - sind dabei deutlich vorsichtiger geworden
+Ressa kennt gefühlt jeden beim Namen und hilft mit wo nötig
+können uns mit Sarn Kell zu einem Gespräch in 2 Tagen treffen
+  war überrascht zu hören das die Füchse und Kaya wieder da ist
+  wird unbewaffnet erscheinen
+  stellt eine bedingung: Sarn will vorher mit Glenn und Kaya(?) sprechen
+gibt bei der Höhle einen Punkt wo man den Höleneingang gut im Blick hat und es gibt einen Punkt wo man ein gutes Schussfeld auf so ziemlich alles hat
+finde oben auf der Höhle verschwischte Spuren von Menschen
+der Sprengstoff kommt aus dem Bestand der für den Bau des Raumhafens gedacht war
+Glenn hatte einen Stiefelabdruck gefunden - Fertigungsweise ist nicht auf Richese heimisch
+Pioniere haben meist ganz gut Ahnung von Sprengstoff
+  werden vom Haus Venport und Attreidis gestellt
+vor 2 tage hat sich eine person von der Höhle weg in richtung raschan bewegt
+  ca. 2m groß, dunkle haut, sehr rudimentäre kleidung - ist wahrscheinlich von den flüsterern
+  wenn es die Flüsterer gewesen sind: wie sind sie an den sprengstoff gekommen?
+    - sie sind eingebrochen (halte ich für unwahrscheinlich)
+    - haben einen Handel mit $Person(en) gemacht
+Maschienenstürmern nutzen durchaus Technik wenn es ihren Zwecken nutzt
+Gespräch läuft gut und Glenn und Kaya machen einen Vorschlag für eine mögliche Lösung
+  Vorschlag: unter Leitung von Haus Ayken werden alle Parteien sich mit den Flüsterer auseinander setzen
+kriegen Thyros als "Funkverbindung" zu Sarn Kell mit
+gehen auf schnellsten Weg zurück zu unserer Base um herauszufingen wo das sprengstoff leck ist
+an dem sprengstoff wurde die ID entfernt
+an den zündern war diese noch vorhanden
+  zu letzt inventarisiert: vor 14, 7 und 5 Tage
+  vor 14 Tagen sind wir gelandet
+Jenta und Valari werden schnellst möglich diesen Umstand untersuchen
+  die beiden scheinen nicht gelogen zu haben
+-> eine geplante Leichter Landung für heute Nachmittag muss abgesagt werden
+bei dem Rosi-Reparatur Trupp waren unsere Leute und Attreidis Soldaten dabei 
+einer der Soldaten hat sich auffällig oft mit dem Attreidis Sargent in Raschan unterhalten
+  Milan vermutet/denkt: das sie Freunde sind
+  könnte Maros gehießen haben
+  ist vetmurlich in der Perimetersicherung zuständig
+Maros ist heute Früh auf Patroullie in den Tod gestürzt
+  Obduktionsergebnis: war auf Drogen die sein Urteilsvermögen beeinträchtigt hat
+die Archivarin war im Sprengstofflager obwohl sie nichts dort zu suchen hat
+Elias schickt einen Truppe mit Lebensmitteln und Wasser
+  die Truppe besteht aus vertrauenswürdigen Leuten
+
+
+
 ### 2025-08-08
 Alexander kommt mit Unterstüzungstruppen nach Raschan
 haben eine Nacht bei der Miliz in Raschan übernachten
@@ -48,7 +96,7 @@ eine Frau der Flüsterer ist in die Stadt gekommn um zu predien
 Alexander war in der Lage sie zu fangen
 haben sie in ein Haus gebracht um mit ihr zu sprechen
 die Frau scheint ein höheres Tier bei den Flüsterern zu sein
-"Velos Botschaft wird in Richese verbreitet werden und wenn ihr mich nicht tötet wird Gram mich hier raus holen. Wirs sind viele und es ist der Wille Gottest das die Botschaft nicht aufgehalten wird."
+"Velos Botschaft wird in Richese verbreitet werden und wenn ihr mich nicht tötet wird Gram mich hier raus holen. Wir sind viele und es ist der Wille Gottest das die Botschaft nicht aufgehalten wird."
 Verlegen sie erst zu der Miliz und dann so schnell wie möglich zum Brückenkopf
 
 
