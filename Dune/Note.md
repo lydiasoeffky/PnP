@@ -8,7 +8,7 @@ Muni:
   Pistole: ||||
   SG: ||
 Schadenspunkte Thopter: /
-Beschädigungsgrad: -  [Zerstört (-9)]
+Beschädigungsgrad: -  Sascha
 
 Inventar:
 Repetiergeschütz
@@ -26,7 +26,71 @@ besuch; der koch soll ein ganz hervorragendes borretsch machen
 # offene zusagen/aufgaben:
 habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich weiß
 
-```
+````
+### 2025-09-12
+schiebe vor den krankenzimmern wache
+fange noah auf dem gang ab und lasse ihn dann zu glenn
+einer der ärzte will glenn etwas zeigen
+  der arzt zeigt ihm taban in einer kühlkammer der das zeichen der mentaten schule auf der stirn hat
+schauen uns die leiche von taban an
+  finden eine Reihe an bekannten Verletzungen
+  außer im linken Nasenloch eine kleine Einstichstelle
+    es wurde etwas in Gehirn getrieben
+finden keine Abwehrspuren von Taban
+Bildgebung zeigt:
+  war nicht direkt tot
+  es steckt nichts mehr im Hirn
+  hat ihn als Mentat unbrauchbar gemacht
+die Schnitte sind gerade tief genug um da zu sein
+d. Arzt breitet die Gegenstände von Taban aus:
+  unteranderem ist ein Attreidis Wimpel dabei
+  die Zutrittskarte ist auch noch da
+im Autopsieraum fehlt nichts
+d. Mörder scheint sich die Schlüsselkarte von Taban genommen und ihn in die Kühlkammer gebracht zu haben  
+  hat die Karte wieder zurück gelegt
+d. Sicherheitschefin soll die Zugänge prüfen
+d. Gift kommt von den Harkonnen namentlich von Piter de Vries (Mentat)
+  arbeitet in Phasen: beißt sich fest wie Krebs und arbeitet auch so
+  -> braucht jeden Tag eine Dosis von dem Gegengift
+  => Mörder steht mit den Harkonnen im Bund oder hat es von dort entwendet
+d. Harkonnen und die Attreidis haben eine Blutfehde
+ein erfolgreicher Anschlag hätte negative Auswirkungen auf die Mission gehabt
+ein ehemaliges Mitglied der Harkonnen war die letzten Tagen auf Richese - Tarkan 
+  hat scheinbar den Planeten verlassen
+haben die Ausrüstung um weitere Analysen zu machen
+  -> der Arzt hat die Kompetenz nicht dafür
+d. Harkonnen könnten ggf. heraus gefunden haben woher wir die Bezahlung für die Raumgilde hatten
+Tarkan hat sich min. 2 - 3 Wochen oder mehr auf Richese befunden 
+d. Schreiberin wurde von Piter de Vries erpresst bevor die Operation begonnen hat
+  Austräge werden per Zettel verteilt
+nutzen die Gelegenheit um Personen vom Planeten zu schaffen wenn wir die Gilde los schicken um der Mentatin von Lampadas (Lorena) eine Nachricht zu schicken
+bekommen von den Attreidis voll unterstützung für die Stellung von Tabans Mörder
+Tarkan arbeitet für die Venports
+d. Mentat vom Haus Richese ist auf dem Weg nach Lankival (ist die Geburtsstätte der Harkonnen)
+Elias ist von d. Nachricht nicht begeistert
+es starten und landen täglich 100 bis 1500 Raumschiffe
+Richese hat an modifizierten Proviant geforscht 
+  Noah hat Sardokar in der Forschungsanlage gefunden 
+  irgendwann kamen noch min. 3 Divisionen dazu 
+  haben vermutlich illegale Spice Vorräte gesucht und nicht gefunden 
+  haben dann auf Corona weiter gesucht und wahrscheinlich auch nichts gefunden
+  -> haben vermutlich dann selbst Spice deponiert und versucht die Anlage zu sprengen
+  das wollten die Forscher verhindern und dann sind Dinge explodiert die nicht hätten explodieren sollen
+die Familienfriedhof d. Aykens ist intakt
+  der alte Graf wurde neben seiner Mutter begraben 
+Glenn bekommt einen Schlüssel zu einem Bunker von Noah
+  dort sind die Atomwaffen vom Haus Richese 
+  zusätzlich ist dort ein Hangar mit einer Fregatte 
+die aktuellen Besitzer der alten Liegenschaft haben die Wasserversorgung wieder in Gang gebracht
+Noah hat einen Eingang ins Haus 
+Rosi ist fertig repariert -> Endabnahme
+  soll Kaya mitbringen
+  hat jetzt ein Baby Care System dazu bekommen
+  hat nen Schnellverschluss um es ein und aus zu bauen
+
+
+
+
 ### 2025-08-29
 kümmern uns in den folge Tagen darum das die Wasseraufbereitung und die Stollen wieder funktional werden
 danach wird das Fahrzeug zum Krankenhaus geschickt
