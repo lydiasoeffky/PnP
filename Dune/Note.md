@@ -1,14 +1,14 @@
 # Session Notes
 
 ```
-SchiP: ||(|)
+SchiP: ||
 Kampfpool: ||||| ||||| |
 Kraftpunkte: ||||| ||
 Muni: 
   Pistole: ||||
   SG: ||
 Schadenspunkte Thopter: /
-Beschädigungsgrad: -  Sascha
+Beschädigungsgrad: -  
 
 Inventar:
 Repetiergeschütz
@@ -27,6 +27,33 @@ besuch; der koch soll ein ganz hervorragendes borretsch machen
 habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich weiß
 
 ````
+### 2025-09-19
+Lorena (die Mentatin) ist angekommen
+flüsterer waren in der geschichte eine radikalere untergruppierung der maschienenstürmer
+  wurde von Manford Torondo gegründet
+  hat dafür gesorgt das der kopf des ersten mentaten gerollt ist
+  Rat von Lorena: wir sollen vorsichtig sein
+    wenn es kein Zufall ist das sie so heißen sind sie sehr gefährlich
+treffe Owen einen alter Kollege der schon an Rosi schrauben durfte im Hangar
+sind dann nach Raschan erfolgreich geflogen
+versuchen immer wieder die wiederaufgbauten Versorgungsstrukturen zu zerstören
+wenn die Anlage funktional ist kann sie 3 bis 4 Häuserblocks erwischen wenn sie explodiert
+aktuell wohnt dort keiner
+Rhessa hat keine Pläne von der Biogas-Anlage 
+  Owen könnte das Wissen haben
+es gibt im Ausenbereich Barrikaden durch die man nicht mit Fahrzeugen ohne weiteres durchkommt
+es wurden Patrollien gesichtet
+werden einen zwei geteilten angriff auf die flüsterer starten 
+  die truppen an dem haupttor sind die ablenkung
+  gibt einen kleinen angriffstrupp der von oben einsteigt und die anlage zu entschärft
+owen kann sich noch an die anlage erinnern
+kann Mad Doc überzeugen für den Einsatz die 2. Pilotin zu sein
+  übernimmt bei dem Drop-Off dann Rosi
+
+
+
+
+
 ### 2025-09-12
 schiebe vor den krankenzimmern wache
 fange noah auf dem gang ab und lasse ihn dann zu glenn
@@ -87,6 +114,8 @@ Rosi ist fertig repariert -> Endabnahme
   soll Kaya mitbringen
   hat jetzt ein Baby Care System dazu bekommen
   hat nen Schnellverschluss um es ein und aus zu bauen
+Flüsterer haben in den letzten Tagen und Wochen immer wieder kleine Kundgebungen gemacht
+
 
 
 
