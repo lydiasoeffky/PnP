@@ -1,7 +1,7 @@
 # Session Notes
 
 ```
-SchiP: ||
+SchiP: |(|)
 Kampfpool: ||||| ||||| |
 Kraftpunkte: ||||| ||
 Muni: 
@@ -27,6 +27,26 @@ besuch; der koch soll ein ganz hervorragendes borretsch machen
 habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich weiß
 
 ````
+### 2025-09-20
+können von oben den vormarsch unseren streitkräften beobachten
+  unsere Leute: ca. 50 Leute
+  Gegner: 60 bis 80 Leute
+kommen von der Ostseite und reißen dort das Dach ein
+großeteile der elektronik sind zerstört 
+  das förderband und das steuerpanel funzt noch
+der dicke der uns entgegen gelaufen kommt hat ein schild
+  hat den schwertmeister gruß verwendet
+  die waffe hat ein harkonnen symbol im knauf
+finde bei fetti eine orange-katholische bibel und heiligen bildchen
+  unter anderen von manjon butler
+  rüstung stammt von den harkonnen
+konnten die anlage erfolgreich sichern
+die gefangenen wurden an glenn übergeben
+Tara Vater ist "Mediziner" an der Feuerspitze
+Noah hat Verbrennung von Strahlung
+Lumi hat sich etwas verplappert und damit Taraxa neugierig gemacht
+
+
 ### 2025-09-19
 Lorena (die Mentatin) ist angekommen
 flüsterer waren in der geschichte eine radikalere untergruppierung der maschienenstürmer
@@ -49,9 +69,6 @@ werden einen zwei geteilten angriff auf die flüsterer starten
 owen kann sich noch an die anlage erinnern
 kann Mad Doc überzeugen für den Einsatz die 2. Pilotin zu sein
   übernimmt bei dem Drop-Off dann Rosi
-
-
-
 
 
 ### 2025-09-12
