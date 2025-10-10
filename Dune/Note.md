@@ -1,7 +1,7 @@
 # Session Notes
 
 ```
-SchiP: |(|)
+SchiP: ||(|)
 Kampfpool: ||||| ||||| |
 Kraftpunkte: ||||| ||
 Muni: 
@@ -27,6 +27,90 @@ besuch; der koch soll ein ganz hervorragendes borretsch machen
 habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich weiß
 
 ````
+### 2025-10-10
+haben einen besseren Zugang zu Raschan
+  teile unserer Truppen sollen dennoch da bleiben
+  die Häuser die mit gekämpft haben werden in der Stadt geduldet
+Handel zwischen unserem alten HQ und Raschan
+die Beben nehmen zu -> wegen ner Instabilität im Kern und daraus resultierenden Seismischen Aktivitäten
+die Gefangenen sind in ein paar Tagen verhör bereit
+  sind auf unserem Flagschiff
+einige Leute aus dem Haus Venport haben sich festsetzen lassen weil Teile von ihnen geflüchtet sind
+  das Hauptschiff der Venports ist zurück im Highliner
+der Junge aus Raschan ist auf dem Weg der Besserung
+Nachricht von Hatrol: nach der Flucht der Venport bilden die Streitkräfte der Attreidis einen Ring um den Highliner um ihn abzuschirmen
+  gibt entsprechend eine formelle Beschwerde drüber
+die vergiftete Mentatin ist stabil
+
+unsere Mentatin kann das Gift nicht replizieren aber dafür ein Gegengift
+  eine anpassung auf die Körper Chemie ist notwendig/besser
+  gibt wahrscheinlich mehrere Varianten des Gifts
+
+brauchen ca. 40 - 50 Experten um die Atomwaffen zu sichern und die Fregatte zu bewegen
+Lorena hat eine Liste mit geeignetem Personal zusammen gestellt und empfiehlt die Truppen auf dem Flaggschiff zusammenzuziehen
+
+es fehlen 5 Personen aus dem 26 köpfigen Leitungskreis vom Haus Venport
+Jenta Kor möchte mit ihren leuten sprechen können und versucht herauszufinden ob es noch leute gibt die vllt. etwas wissen
+
+die verschiffung der einwohner hat begonnen
+es gibt erste erfolgsmeldungen bei der aufnahme von nahrungsproduktion und wellengeneratoren
+haben von elias einen transponder bekommen damit unser schiff nicht gescannt wird
+
+sind zurück zum Flaggschiff
+habe von Hatrol einen Zettel bekommen mit einer groben Uhrzeit wann er wieder in seinem Quartier ist
+dem gefangenen Mann wurden zwei zähne mit Gift, einen Langstrecken Kommunikator und nen Schieckerdraht entfernt
+  ist aktuell leicht sediert und durchgehend gefessel
+Noah von Korren - sein Geburtsplanet
+  war von ihm nur eine Vermutung die Noah bestätigt hat
+  "toter Gärtner"
+
+weitere leute mit denen er zusammen gearbeitet 
+helfer, für wen, warum, 
+
+Name: Kram Resik
+Befehle für den Einsatz von: Mittelsmann von Piter de Vries
+Unterstützung Haus Venport: Ja weil Mittelsmann zum Haus gehört
+Beschreibung Tarkan: Ja war es, wurde reaquriert
+Gibt es weitere aktive Leute auf dem Planeten: weiß er nicht, arbeiten in zellen
+Wie auf den Planten rauf: mit den unterstüzungs truppen von venport ohne deren wissen
+warum der schutz des jungen: psychische konditionierung ausgelöst
+  -> sedativum erhöht
+  die reaktion war in keiner weise menschlich
+Korren ist eine nukleare schlakke hölle
+
+der junge ist seit dem fall des mondes auf dem planeten und hat den mond fallen sehen
+hat den mond fallen sehen beovr er gefallen ist
+weiß das auch x gefallen ist und vermutet einen zusammenhang zischen richese und x
+hat die gabe dinge vorauszusehen und empfindet es als fluch
+hat als erstes die ringelblumen gesehen: symbol von den maschienen stürmern, wird auch mit manjon dem heiligen in verbindung gebracht
+heißt velo
+will nach sietch hamal zurück
+der junge hat fieber behauptet dass das heimweh fieber verursacht
+man hat ihm neue augen gegeben
+kommt von arrakis
+hat kraft obwohl er nicht gut ernährt ist
+spice abhängig
+
+die harkonnen kontrollieren aktuell arrakis
+
+es steigen aus dem gilden raumschiff ca. 20 verhüllte gilden agenten aus die einen mit orangem gas gefüllten würfel mitbringen in dem sich was bewegt
+  positionieren sich um uns
+der navigator demur pilru hat sich mit uns persönlich unterhalten
+  war ein spiel kamarad und freund von taban als er noch auf x war
+  der vater ist exil diplomat(???)
+  die mutter ist gildenangestellte
+wir sollen darauf achten das die nachfahren des orakels der zeit nicht durch einen krieg gefähren
+  die erste unter vielen, die erste unter sehenden
+  die anderen sind: die mit denen wir schon streiten
+  ansonsten kommt es zu einem beben im gewebe 
+[hat der junge velo die voraussetzungen um einen navigator zu werden???]
+
+die attreidis haben eine vereinbarung mit der raumgilde bei der sie x anfliegenkönnen ohne das es andere erfahren
+
+
+
+
+
 ### 2025-09-20
 können von oben den vormarsch unseren streitkräften beobachten
   unsere Leute: ca. 50 Leute
