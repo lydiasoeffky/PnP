@@ -1,7 +1,7 @@
 # Session Notes
 
 ```
-SchiP: ||(|)
+SchiP: ||
 Kampfpool: ||||| ||||| |
 Kraftpunkte: ||||| ||
 Muni: 
@@ -9,6 +9,8 @@ Muni:
   SG: ||
 Schadenspunkte Thopter: /
 Beschädigungsgrad: -  
+
+Erschöpfung: ||||
 
 Inventar:
 Repetiergeschütz
@@ -27,6 +29,58 @@ besuch; der koch soll ein ganz hervorragendes borretsch machen
 habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich weiß
 
 ````
+### 2025-10-17
+der sicherungstrupp hat gerade noch ein paar probleme in den bunker zu kommen - probieren es jetzt mit dem schlüssel von viola
+Lorena (unsere Mentatin) hat Narben quer über den Rücken 
+es wurde eine weitere Person aus dem Haus Venports identifiziert die man verhören sollte
+  wird auf den Leichter gebracht
+gehen den neuen Gefangenen verhören:
+  zwischen 40 und 50
+  hat keine Handwerksarbeiten gemacht zu haben
+  blaue Augen, Halbglatze
+  etwas größer wie ich, hager
+versucht die zähne nicht aufeinander zu beißen -> vermutlich manipulierte zähne mit gift
+  und expolsionen
+  "Ihr seid neben dem attreidis Mentaten der einzige vor dem er Angst hat"
+  hat einen Fehler begangen und hat versucht es zu vertuschen -> hat sich deswegen mit Tarkan (?) eingelassen
+  der Fehler tut ihm wirklich leid
+  ist Logistikberater sollte dafür sorgen das unauffällig Sprengstoff verschwindet und wie wann man da dran kommt
+  sollte bestimmte Rationen einschläusen - weiß nicht was da drin war
+  wurde deswegen nach Kaladan gebracht und wurde da dann angeheuert
+  Name: Paret Kul
+  Aufträge kamen von Tarkan und Piter de Fries -> hat Piter auch mal kennen gelernt
+  von Piter kamen die Rationen - vor ca. 3 Monaten -> zu dem Zeitpunkt haben wir gerade angefangen eine Rettungsmission machen zu wollen => die Infos gab es nur Haus intern
+  Vask Retin und Savet Non - einer von beiden ist tot; alle anderen hat er dazu gebracht dinge zu tun in dem er die abläufe manipuliert hat
+  Vask hatte eine Mission die ihm nicht bekannt ist -> wahrscheinlich eine Mining Operation
+  suchen etwas das mit den Xianern zu tun hat
+  Vermutungen: der Anschlag galt den Attreidis, glaub das Tarkan mit den Harkonnen im Bunde steht
+  wurde aufgefordert Jenta Kor im Dunkeln zu lassen -> hatte sie selbst vorgeschlagen weil sie leicht täuschbar ist
+  Jenta soll ein fähige Frau sein
+laut Lorena soll das Haus Venport und die Raumgilde eine Verbindung haben
+  weil die Symbole der Gilde und das ursprüngliche Symbol vom Haus ähnlich aussehen
+  angeblich wurden die ersten Highline auf Rossak gebaut 
+  würde erklären warum das Haus Venport die Mittel hat die es hat
+werden eine Nachricht an Gale schicken - Hasel wird als Distrans eingesetz
+  der soll dann entscheiden an wen und welche Infos an Joseph Venport weiergeleitet wird
+die Tür war offen obwohl es so nicht schien 
+  haben drei Leute aus dem Vortrupp verloren 
+  haben wahrscheinlich die Verteidigungseinrichtungen ausgelöst
+  bemühen sich um weiteren Zugriff
+sind ca. 6km vom Zugang entfernt 
+  draußen herrscht ein Schnee-Asche Sturm der unangenehm auf der Hülle des Shuttles knirscht
+haben ca. 1m sichtweite
+Sia wil gucken gehen ob sie einen weiteren Zugang findet
+die Strahlung ist in den aktuellen Räumen in einem ungefährlichen Bereich
+Noah reagiert immer wieder mit einem zusammen zucken auf die geräusche des geiger zählers
+bauen eine wärme schleuse um dafür zu sorgen dass das zwischen quartier warm zu bekommen
+aktueller Plan: Sia und Glenn suchen einen alternativen Zugang
+Noah und ich bauen einen gestaffelten Holzmann Schild
+
+
+Richese und X haben eine Fehde
+
+
+
 ### 2025-10-10
 haben einen besseren Zugang zu Raschan
   teile unserer Truppen sollen dennoch da bleiben
