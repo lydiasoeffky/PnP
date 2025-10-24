@@ -28,7 +28,41 @@ besuch; der koch soll ein ganz hervorragendes borretsch machen
 # offene zusagen/aufgaben:
 habe Kaya zugesagt ihr in Punkto Nahkampf/Verteidigung beizubringen was ich weiß
 
+# Dinge die ich mitbekommen habe und noch nicht drauf reagiert habe:
+Lorena (unsere Mentatin) hat Narben quer über den Rücken 
+Noah von Korren - sein Geburtsplanet
+  war von ihm nur eine Vermutung die Noah bestätigt hat
+Noah reagiert immer wieder mit einem zusammen zucken auf die geräusche des geiger zählers
+  hat strahlenverbrennungen
+
+
 ````
+### 2025-10-24
+aktueller Plan: Sia und Glenn suchen einen alternativen Zugang
+Noah und ich bauen einen gestaffelten Holzmann Schild
+
+ein gewisses stück der stromkabel waren aus flussmetall und sind weg geschmolzen
+Luca hat unseren code als authorisiert gesetzt
+  koppelt mit den kanonen und türen
+haben ein treibstofflager und eine inaktive treibstoff raffinerie gefunden
+haben den hangar mit der fregatte gefunden
+  auf dem bug ist das zeichen von haus richese
+haben den kontrollraum gefunden und aktiviert
+  raum ist beheizt
+  haben darüber die generatoren gestartet
+  haben zugriff auf hangartor und die raffinierie + -führung, automatische maschienen (folgen einem algorithmus) für die wartung im hangar
+  haben die temperatur für den gesamten bereich erhöht
+  kein zugriff auf die waffen und die atombomben
+  können die Luke von hier aus schließen
+im hangar besteht ein erhöhter wert - nicht im gefährlichen maß
+gibt integritätswarnungen für die anlage
+dadurch das wir es wärmer gemacht haben fahren die geschütze nicht mehr aus 
+haben unser zwischenlager in den hangar verlegt
+in den trümmern der wand ist flussmetall zu finden
+lorena zeigt uns eine historische aufnahme von einer flussmetall waffe in aktion
+
+
+
 ### 2025-10-17
 der sicherungstrupp hat gerade noch ein paar probleme in den bunker zu kommen - probieren es jetzt mit dem schlüssel von viola
 Lorena (unsere Mentatin) hat Narben quer über den Rücken 
