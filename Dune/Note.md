@@ -1,7 +1,7 @@
 # Session Notes
 
 ```
-SchiP: ||
+SchiP: |
 Kampfpool: ||||| ||||| |
 Kraftpunkte: ||||| ||
 Muni: 
@@ -11,6 +11,7 @@ Schadenspunkte Thopter: /
 Beschädigungsgrad: -  
 
 Erschöpfung: ||||
+
 
 Inventar:
 Repetiergeschütz
@@ -37,6 +38,47 @@ Noah reagiert immer wieder mit einem zusammen zucken auf die geräusche des geig
 
 
 ````
+wir dürfen uns für den nächsten kampf so positionieren wie wir wollen und wir sind nicht überrascht
+
+### 2025-10-31
+glenn ist durch die höhle die wir gefunden haben wieder zu uns gestoßen
+
+gibt frequenzen wenn man die kenn um die rampen runter zu lassen 
+die schiffe werden niemal unbemannt geparkt
+gibt druck schleusen für reparaturen außen
+kann die ggf. aufschweißen
+
+in den logs steht als letztes: fregatte ist voll getankt
+  bis auf die sensorenist alles bereits abgekoppelt
+ist noch an die wassertanks angeschlossen und noch nicht abgekoppelt
+
+haben am heck 2 wartungsluken aufgeschweißt
+  wurden bemerkt -> alarm aus gelöst
+  sind aber drinnen
+
+haben leere quatiere gefunden
+stoßen immer mal wieder auf verschlossene türen 
+innerhalb von 45 min. keine menschen gesehen
+prinzessin chiasa richese ist an bord
+  hat uns aufgefordert das schiff zu sichern
+  3. oder 4. tochter -> ist dispoable und wird meist bietend verschachert
+vemir rory ist der leibwächter
+ trägt hochwertige kleidung - ist verhältnismäßig stark "verschmutzt"
+sind seid der evakuierung auf dem schiff 
+  hat die evakuierung verpasst
+chiasa hat sich ohne wissens ihres vater in den bunker begeben
+weiß das die kommunikation nach außen abgebrochen ist weil corona abgestürtzt ist
+1/3 der waffen befindet sich an bord; 2/3 sind in der anlage gelagert
+gibt einen ausweich-hangar
+
+
+
+glenns mutter hieß willow
+
+
+
+
+
 ### 2025-10-24
 aktueller Plan: Sia und Glenn suchen einen alternativen Zugang
 Noah und ich bauen einen gestaffelten Holzmann Schild
