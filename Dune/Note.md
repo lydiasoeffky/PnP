@@ -1,17 +1,20 @@
 # Session Notes
 
 ```
-SchiP: |
-Kampfpool: ||||| ||||| |
+SchiP: ||(|)
+Kampfpool: ||||| ||||| 
 Kraftpunkte: ||||| ||
 Muni: 
   Pistole: ||||
-  SG: ||
+  SG: 
 Schadenspunkte Thopter: /
 Beschädigungsgrad: -  
 
-Erschöpfung: ||||
+Erschöpfung:
 
+Boni:
+
+Abzüge: -1
 
 Inventar:
 Repetiergeschütz
@@ -38,7 +41,23 @@ Noah reagiert immer wieder mit einem zusammen zucken auf die geräusche des geig
 
 
 ````
-wir dürfen uns für den nächsten kampf so positionieren wie wir wollen und wir sind nicht überrascht
+
+### 2025-11-07
+Flussmetall-Katzen: 
+  das Flussmetall ist im Boden versunken nachdem sie gestorben ist
+haben die atomwaffen gefunden
+noah hat kisten mit unserem zeichen drauf gefunden
+  angeblich in der waffenkammer
+finden einen spannenden raum:
+  am eingang: zwei statuen aus flussmetall - sehen aus als würden sie den ort bewachen
+  finden einen gel schaltkreis
+  haben eine KI gefunden
+covern das mit "eine bombe ist zu instabil"
+gesamt verladezeit: ca. 2 tage
+sprengen den berg mit der KI drin
+  unsere ausrede mit der instabilen atombombe ist glaubwürdig
+
+
 
 ### 2025-10-31
 glenn ist durch die höhle die wir gefunden haben wieder zu uns gestoßen
