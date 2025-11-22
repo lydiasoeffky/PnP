@@ -41,6 +41,43 @@ Noah reagiert immer wieder mit einem zusammen zucken auf die geräusche des geig
 
 
 ````
+### 2025-11-21
+während wir die atombomben geborgen haben:
+es sind Jayden und Fankrat sind wieder aufgetaucht
+  dem grafen wurde eine evakuierung angeboten die er abgelehnt hat 
+  sollten die evakuierung mitmachen
+  deren shuttle ist abgestürzt weil zu spät 
+  haben dann dort mitangepackt
+
+checken die mienen die haus venport untersuchen sollten:
+  dort wurden verschiedenste metalle abgebaut
+  dort war ein verstecktes lager welches jetzt leer ist
+  dort war wahrscheinlich ein lager für richessische spiegel/linsen/...
+  haus richesse konnte richtig gut spiegel und linsen herstellen auch in sehr kleinem format
+  wenn das lager voll war haben sie ein vermögen "erbeutet"
+
+chiasa bekommt zugriff auf die vorliegenden infos und will mit uns bei einem abendessen drüber sprechen
+  sie verspricht uns: das cordus lehan aus dem haus verbannen und für vogelfrei erklären
+  will eine untersuchung anstoßen um herauszufinden ob er von allein aus gehandelt hat oder ob er vom alten grafen geschickt wurde
+  will nicht anerkennen das dies das ende von haus richese sein soll
+  schlägt vor die Atombomben zu teilen
+  wollen ihr anbieten: einen vertrag mit der raumgilde zu schließen und sich unter ihren schutz zu stellen
+
+velo wird mit uns nach rossak kommen
+  der junge kann nicht hinter den schleier schauen um zu gucken was (möglicherweise) mit rossak passieren wird
+
+haben der miliz von raschan und den truppen in unserem alten HQ unterricht bei den schwertmeister schülern zu bekommen
+außerdem bleiben sie zusammen sollten sie nach rossak kommen - werden ggf. in die polizei integriert
+
+jenta kor (Venport) hat das angbot bekommen für das haus ayken zu arbeiten
+
+hatrol wird ins haus ayken wechseln
+
+sind wieder zurück auf rossak
+wurden von glenn und kaya zum abendessen eingeladen
+
+
+
 
 ### 2025-11-07
 Flussmetall-Katzen: 
