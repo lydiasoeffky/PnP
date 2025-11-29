@@ -40,7 +40,38 @@ Noah reagiert immer wieder mit einem zusammen zucken auf die geräusche des geig
   hat strahlenverbrennungen
 
 
+# private offene bauprojekte
+suche eine thopter leiche: 2 erfolge -> sascha sucht sich dann ein hersteller bonus aus 
+  sagt mir dann was für material ich noch brauche
+
+
+in meiner 2-mann unterkunft ist es mit plötzlich 2 personen sehr kuschelig
+
 ````
+### 2025-11-28
+bin mit hatrol auf kaladan gewesen um seinen umzug zu machen
+
+kasandra und rakhea sind wahrscheinlich schwestern 
+kasandra greift sia an weil sie informationen hat
+beide gruppen verstecken sich voreinander
+rakhea hat ca. 2 duzend leute
+kasandra ca. 50 bis 100
+kasandra mag keine konkurenz
+die hexen verursachen angst und schrecken und nutzen diese um hilfe von leuten zu bekommen
+
+termin von der hochzeit: in ca. 5 Monaten
+
+haben eine kleine unterkunft und büros in der feuerspitze bekommen
+
+Mama Braig wünscht sich hilfe wenn sie dem unterfangen annimmt
+  möchte den jungen vorher kennenlernen
+  haben uns zum kochen verabredet
+
+Raquella wird sich angucken wie man in die Städte ungesehen rein und raus kommt
+  empfiehlt das wir die Propektoren Gruppen mischen
+  es gibt einige unter den einheimischen Prospektoren die mit Kasandra zusammenarbeiten
+
+
 ### 2025-11-21
 während wir die atombomben geborgen haben:
 es sind Jayden und Fankrat sind wieder aufgetaucht

@@ -153,6 +153,14 @@ Motivation:
 - kennt Lumis Eltern durch ihren Beruf
 
 
+### Hatrol Zachory
+(Saschas NSC)
+- Freund von Lumi 
+- ehemals aus dem Haus Attreidis 
+- Pilot
+- Hobbies: Stricken, Segelfliegen
+
+
 ## offene Fragen
 wo sind ihre mutter und ihr bruder gerade?
 
