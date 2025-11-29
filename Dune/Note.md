@@ -1,7 +1,7 @@
 # Session Notes
 
 ```
-SchiP: ||(|)
+SchiP: |(|)
 Kampfpool: ||||| ||||| 
 Kraftpunkte: ||||| ||
 Muni: 
@@ -47,7 +47,45 @@ suche eine thopter leiche: 2 erfolge -> sascha sucht sich dann ein hersteller bo
 
 in meiner 2-mann unterkunft ist es mit plötzlich 2 personen sehr kuschelig
 
+
+bsg - beschädigungsgrad
 ````
+### 2025-11-29 (spontan)
+sia hat im dschungel ein wrack gefunden und uns hingeführt
+ist ca. 40m bis 45m lang
+(ist regeltechnisch ein raumschiff -> besteht aus mehreren modulen)
+modul hülle: bsg zerstört
+  struktur -8
+  sollte nicht zusammenbrechen da massiv
+  hat spuren von einem absturz und massive gewalt einwirkung durch kollisionen mit weltraumschrott oder waffen
+  hat ne besondere panzerungsstruktur
+liegt seit langer zeit an dem ort - ist im öko-system "angekommen"
+eine lucke im frachtraum wurde aufgesprengt 
+  da passt rosi rein
+frachtraum: bsg zerstört
+crewquatiere:
+  bsg kaputt
+  von dort geht ein gang wo 5 kojen angeschlossen sind 
+  sehr robust gebaut
+  crewaufenthaltsräume mit aufgerissenen plastik verpackungen
+Maschienenraum:
+  Antrieb: bsg zerstört 
+  sehen einen schriftzug: neryth
+  Lebenserhaltung: bsg vernichtet
+  Hitzemanagement: Litium-Sprühsystem ist beschädigt
+    Militärisches System
+Noah hat an einer Stelle ein beschädigtes altes Logo 
+Cockpit:
+  Pilot, Co-Pilot + 2 weitere plätze
+  stark beschädigt
+  Monitore sind an und zeigen an: Notfalllöschprozedur erfolgreich
+  beim Reboot zu sehen: VE-Δ0 Neryth
+Sensorik: bsg zerstört
+könnte vom orbit aus scans von der oberfläche machen
+boardcomputer: bsg zerstört
+Haus Venport hat kein vergleichbares Schiff
+
+
 ### 2025-11-28
 bin mit hatrol auf kaladan gewesen um seinen umzug zu machen
 
