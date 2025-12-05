@@ -1,7 +1,7 @@
 # Session Notes
 
 ```
-SchiP: |(|)
+SchiP: ||(|)
 Kampfpool: ||||| ||||| 
 Kraftpunkte: ||||| ||
 Muni: 
@@ -50,6 +50,56 @@ in meiner 2-mann unterkunft ist es mit plötzlich 2 personen sehr kuschelig
 
 bsg - beschädigungsgrad
 ````
+### 2025-12-05
+besuchen einen interessanten überraschungsgast im kloster
+kaya spührt etwas nach und wirkt dabei ihre magie
+  steigt in das becken
+  nirima läuft in die situation rein und sieht das kaya klitsch nass ist
+  glenn kann aber kaya trance und magie wirken unter brechen
+Nirima zeigt ihm eine Muschelschale (eine solche wie schwertmeister am ende ihrer ausbildung bekommen, diese schalen haben einen Namen unten drauf beschrieben)
+  Schalen ohne Namen bedeuten das ein neuer Weg beginnt
+  wurde geschickt mit dem Auftrag ihm das zu zeigen
+Nirima erwähnt in ihrem Gespräch eine Großmutter
+  sie hat vor ihr böse Angst und gleichzeitig sehr viel Respekt
+aktuell gibt es überlegungen den Vater von Nirima zu töten
+  wenn die Wahrheit raus kommt würde Haus Venport dran zerbrechen
+  sollte wie ein Unfall aussehen
+  alternativ: Haus Moritani
+das Haus ist zwiegspalten was die Unterstützung von Nirimas Vater angeht
+Nirima weiß nicht welche Verbindungen ihr spionage meister (Tarkan) in der vergangenheit hatte
+  teilen ihr diese Info mit
+ist interessiert an Mathe und der Kunst der Wissenschaften
+  ist nicht glücklich darüber das ihr Vater sich von der Logik/Wissenschaft abgewendet hat
+ihr Vater vertraut Hakim Armad
+Hakim ist bekennender Gläubiger im Buddislam
+  Nirima hat eine Schriftrolle (wahrscheinlich von ihm selbst) mit einem Todesgebet
+können die Großmutter kennenlernen
+  sie hat nicht besonders viel Geduld - lässt uns trotzdem etwas zeit um uns um das problem zu kümmern
+  ihr plan ist es dafür zu sorgen das in den nächsten 1000 jahren kein highliner den planet ansteuert
+  sie kann 4 personen "führen"
+  Nirima glaubt das die person das auch wirklich umsetzen kann
+  sie würde hier her kommen und uns in die Gemächer ihres Vaters führen
+  Tarkan sollte da dann idealerweise auch mit da sein damit wir uns auch um dieses Problem zu kümmern
+Kaya tauscht mit Nirima persönliche Schmuckstücke aus als "Pfand" des Vertrauen
+werden bei der Mission eines der größten Geheimnisse des Hauses kennen
+Nirimas Vater geht normalerweise um 2300 in seine Gemächer
+  schläft normaler weise nicht vor 0200
+  ist nicht ungewöhnlich das er um diese Zeit Tarkan empfängt
+Nirima hat Arbeitsräume am Raumhafen
+richtet an Noah die Bitte ihren Vater so schnell und schmerzlos wie möglich zu töten
+der Raum war mal 
+  - ein Labor
+  - eine Krankenstation für die Patienten der omnius Seuche 
+    hatte eine tödlichkeit von 85%
+    suk ärzteschaft war noch nicht gegründet
+    war am ende vom kriegt gegen die denkmaschienen
+    der virus existiert nicht mehr
+    die leute die das überlebt haben waren hinterher verkrüppelt
+
+
+
+
+
 ### 2025-11-29 (spontan)
 sia hat im dschungel ein wrack gefunden und uns hingeführt
 ist ca. 40m bis 45m lang
