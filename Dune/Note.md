@@ -2,10 +2,10 @@
 
 ```
 SchiP: ||(|)
-Kampfpool: ||||| ||||| 
+Kampfpool: ||||| |||||  
 Kraftpunkte: ||||| ||
 Muni: 
-  Pistole: ||||
+  Pistole: |||
   SG: 
 Schadenspunkte Thopter: /
 Beschädigungsgrad: -  
@@ -41,15 +41,41 @@ Noah reagiert immer wieder mit einem zusammen zucken auf die geräusche des geig
 
 
 # private offene bauprojekte
-suche eine thopter leiche: 2 erfolge -> sascha sucht sich dann ein hersteller bonus aus 
-  sagt mir dann was für material ich noch brauche
+Name: Neryth
+Step: Reinigung
 
 
 in meiner 2-mann unterkunft ist es mit plötzlich 2 personen sehr kuschelig
 
+# bramble
+habe meinen fuchs zu erziehen
+blumen gestecke sind keine nahrung und kein spielzeug
+ein fuchs geschenkt zu bekommen ist eine große ehre und geht mit einer verantwortung einher
+
+der Fuchs hat keine werte und ist ein Fluffgegenstand.  Er ist verspielt und neugierig. Und sieht immer leicht dreckig aus durch seine Fellfarbe  
+projektname: Smoky 
 
 bsg - beschädigungsgrad
 ````
+### 2025-12-19
+habe von Kaya und Glenn einen Fuchs und eine neue Rüstung geschenkt bekommen
+warten im Kloster von Noah in der "Therme"
+  Lumi hört nen Nachhall aus der Vergangenheit wo Teagan sie schelltet "Du sollst doch Wache halten"
+vor uns taucht die Großmutter mit Namen Norma wieder auf
+  zeigt uns zwei ihrer gestalten
+  die eine hat ähnlichkeiten zu Kaya
+  müssen zu erst die Sache mit Haus Venport lösen bevor wir nach X können
+  auf X geht etwas schlechtes vor sich
+  sie will das es ihren Kindern gut geht
+  der Graf von Venport gehört zu Aurelios Familie
+  die bringt uns ins Anwesen der Venports und nach X
+    demonstriert uns wie in dem sie uns in die Familiengruft der Ayken auf Richese teleportiert
+wir sind erfolgreich darin den grafen und die gräfin venport und tarkan zu ermorden
+norma hat uns zu amina teleportiert und sie mit uns zusammen dann nach rossak gebracht
+bekommen nach 3 tagen eine offizielle nachricht das graf venport verstorben ist
+
+
+
 ### 2025-12-05
 besuchen einen interessanten überraschungsgast im kloster
 kaya spührt etwas nach und wirkt dabei ihre magie
