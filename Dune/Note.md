@@ -19,9 +19,6 @@ Abzüge: -1
 Inventar:
 Repetiergeschütz
 
-auf Richese:
-die Filter werden sich schnell zusetzen -> Regeltechnisch: ein Nachteil
-
 # offene einladungen:
 habe von Hatrol Zachory eine Einladung bekommen wenn ich mal zu besuch bin einen Jäger zu fliegen
   wenn er meinen Thopter fliegen auf dem Rückweg fliegen darf darf ich seinen Jäger fliegen
@@ -56,6 +53,8 @@ der Fuchs hat keine werte und ist ein Fluffgegenstand.  Er ist verspielt und neu
 projektname: Smoky 
 
 bsg - beschädigungsgrad
+
+soll mir mal überlegen wie die beziehung zwischen hatrol und lumi aussehen soll
 ````
 ### 2025-12-19
 habe von Kaya und Glenn einen Fuchs und eine neue Rüstung geschenkt bekommen
