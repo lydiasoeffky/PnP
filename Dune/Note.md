@@ -14,7 +14,7 @@ Erschöpfung:
 
 Boni:
 
-Abzüge: -1
+Abzüge:
 
 Inventar:
 Repetiergeschütz
