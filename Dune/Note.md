@@ -42,7 +42,6 @@ Name: Neryth
 Step: Reinigung
 
 
-in meiner 2-mann unterkunft ist es mit plötzlich 2 personen sehr kuschelig
 
 # bramble
 habe meinen fuchs zu erziehen
@@ -52,10 +51,15 @@ ein fuchs geschenkt zu bekommen ist eine große ehre und geht mit einer verantwo
 der Fuchs hat keine werte und ist ein Fluffgegenstand.  Er ist verspielt und neugierig. Und sieht immer leicht dreckig aus durch seine Fellfarbe  
 projektname: Smoky 
 
-bsg - beschädigungsgrad
-
-soll mir mal überlegen wie die beziehung zwischen hatrol und lumi aussehen soll
 ````
+### 2025-12-27
+Gärtner beobachten Hatrol -> findet es nicht so witzig wenn das Schlafzimmerfenster beobachtet wird
+  darf die Freigabe auf das Sicherheitssystem geben 
+
+
+
+
+
 ### 2025-12-19
 habe von Kaya und Glenn einen Fuchs und eine neue Rüstung geschenkt bekommen
 warten im Kloster von Noah in der "Therme"
