@@ -1,7 +1,7 @@
 # Session Notes
 
 ```
-SchiP: ||(|)
+SchiP: ||
 Kampfpool: ||||| |||||  
 Kraftpunkte: ||||| ||
 Muni: 
@@ -51,13 +51,52 @@ ein fuchs geschenkt zu bekommen ist eine große ehre und geht mit einer verantwo
 der Fuchs hat keine werte und ist ein Fluffgegenstand.  Er ist verspielt und neugierig. Und sieht immer leicht dreckig aus durch seine Fellfarbe  
 projektname: Smoky 
 
+
+
 ````
+### 2026-01-09
+fliege sämtliche Personen und Material die an der kleinen Hochzeit beteiligt sind zur Location
+habe Milan versprochen das er Rosi für seinen Heiratsantrag bekommt und das ich ihm eine Route zusammenstelle
+  will die Route Test fliegen
+die kleine hochzeit hat im engen freundeskreis stattgefunden
+das Kind wurde geboren
+die Fraktion rund um die erste Prinzessin Errulan von Haus Corrino besteht nur aus frauen
+  die persönliche Zofe von ihr ist ihre mutter
+  möchte sich gerne selbst auf rossak umsehen
+herzog leto kommt nur mit duncan dabei
+die imperatorin ist nicht erfreut über das gespräch mit amina
+  sie ist wegen amina da
+  wollte sie an die verbindung und loyalität gegen über den benegetherit erinnern
+  hat noch keine weitere aufgaben verteilt/nicht konkret gesagt was sie will
+  amina weiß nicht was ihre absicht ist
+  urspründliche aufgabe: sie sollte ein kind vom grafen bekommen - hat sie abgelehnt
+  scheint wichtig genug das sie eine ehrwürdige mutter schicken
+  ist unbekannt wie sie reagieren wenn amina nicht ihren forderungen nachkommt
+solange das haus corrino anwesend ist ist gewn mein schützling
+die imperatorin stutzt über sia und hat nicht damit gerechnet -> interessiert, überrascht, neugierig
+  scheint neu zu sein
+Haus Venport erkennt noch einmal die Herrschaft von Haus Ayken über Rossak an
+  sind an einer guten gemeinsamen Zukunft von Rossak interessiert
+Nirima Venport will den Direktoratsposten
+  ihr Bruder ist Schwertmeister und Oberbefehlshaber
+  ihre Schwester Gesandte im Landsrat
+Prinzessin Errulan
+  ist davon überrascht
+  tauscht Handzeichen mit ihrer Mutter aus
+das Haus Corrino ist eines der ersten Häuser welches abreist
+bekommen eine Lieferung in einem kühlcontainer
+  steht in der garage
+  fische, kräuter, ...
+  vorräte für 3 bis 6 monate
+spielen sturmwacht miteinander
+
+
+
+
+
 ### 2025-12-27
 Gärtner beobachten Hatrol -> findet es nicht so witzig wenn das Schlafzimmerfenster beobachtet wird
   darf die Freigabe auf das Sicherheitssystem geben 
-
-
-
 
 
 ### 2025-12-19
