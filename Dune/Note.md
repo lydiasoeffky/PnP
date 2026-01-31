@@ -39,7 +39,8 @@ Noah reagiert immer wieder mit einem zusammen zucken auf die geräusche des geig
 
 # private offene bauprojekte
 Name: Neryth
-Step: Reinigung
+Step: Reparieren
+Reinigung (abgeschlossen)
 
 
 
@@ -54,6 +55,41 @@ projektname: Smoky
 
 
 ````
+### 2026-01-30
+gibt ein gemeinsames abendessen um sensible themen zu besprechen
+Teilnehmer:
+Leto, Thufir, Gale, Sia, Hatrol, Lorena, Felicia
+Themen:
+Weiterverfahren mit der Archivarin aus Haus Attreidis
+  wird als Tufirs rechte Hand eingesetzt und soll zusätzlich die wöchentlichen Treffen auf Burg Kaladan zu organisieren
+Operation auf X
+  ja wir helfen
+  haben ortskundige die einsatz fähig sind 
+  ohne militär -> ist eine aufklärungsmission
+  in kleineren teams aufgeteilt
+  werden einen besuch auf kaladan machen um einen alten freund von leto kennenzulernen
+    die person darf den platenen nicht wegen seinem namen verlassen
+  der imperiale gewürz minister (Hasimir Fenring) war in den letzten jahren mehrfach auf X
+  die tleilaxu können die technischen geräte nicht vernünftig warten und sie sinnvoll nutzen
+  C'Tair pilru ist auf X und leitet + leistet widerstandsarbeit 
+    verweigert die evakuierung
+  unser "ich-verschwinde-illusions"-schiff ist ein hochgeheimes projekt der harkonnen
+    gab nur einen prototypen der angeblich auf der heimatwelt der bene geserit abgestürzt
+Raquella ist terminlich überfällig
+machen nen ausflug in den dschungel damit kaya raquella kontaktieren kann an einen ort wo sie manchmal ist
+  sie befindet sich in der nähe uns liegt im sterben
+  ist mit draht an einem baum gebunden, sie blutet, hat gebrochene knochen
+  die luft um sie herum ist elektrisch aufgeladen -> tut weh wenn man sich dem nähert
+  auffällig abwesende tierwelt, keine weiteren menschen
+  die verletzungen sind bewusst gesetzt -> weitere worte rein geschnitten
+  fliegen sie gerade an die feuerspitze für eine medizinische behandlung - sie ist so weit stabil
+  verfrachten sie in einer transport einheit um kein aufsehen zu erregen
+  william hetara ist der heiler in der feuerspitze 
+  bin mit kaya zu meiner mutter damit sie sich die haare färben kann
+  haben raquella zu den kinder ins gewächshaus gebraucht 
+    sie haben dort eine heilquelle die ihr helfen könnte 
+  
+
 ### 2026-01-09
 fliege sämtliche Personen und Material die an der kleinen Hochzeit beteiligt sind zur Location
 habe Milan versprochen das er Rosi für seinen Heiratsantrag bekommt und das ich ihm eine Route zusammenstelle
