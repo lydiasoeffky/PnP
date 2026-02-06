@@ -1,7 +1,7 @@
 # Session Notes
 
 ```
-SchiP: ||
+SchiP: |(|)
 Kampfpool: ||||| |||||  
 Kraftpunkte: ||||| ||
 Muni: 
@@ -55,6 +55,50 @@ projektname: Smoky
 
 
 ````
+### 2026-02-06
+kaya hat abad gefragt wie seine sicht auf die geschehenisse sind 
+  seine antwort: man sollte die perspektive eines kindes sein [durch die augen eines kindes???] ja, das wäre dann ein besonderes kind
+  abad scheint den jungen mit der situation/gewürzkrieg in verbindung zu bringen da der junge von arakis kommt 
+der direktor der mafea war vermutlich direkt nach unserem gespräch im raumhafen und hat mit abad gesprochen -> erhöhung der transportkapa
+die einweihung des musuemsplaneten wurde auf unbestimmte zeit verschoben
+  wurde per kurier an uns zu gestellt
+  aufgrund unvorhergesehener zustände
+  abads vermutung: terrorismus/liga der edlen
+demur pliru ist der letzte steuermann ist der letzte den die gilde auf x rekrutiert 
+  hat den erste neuen großen highliner von x geflogen 
+  diese neuen highliner sollten demnächst in die serien prduktion gehen
+sollen den jungen fragen zu welchem siedge er gehört 
+  wenn das bekannt ist wird abad sich darum kümmern das der junge wieder nach arrakis zurück kommt
+  preis: abad will teil der operation rund umm x sein
+  abad wollte bewusst mit noah darüber verhandel da er sich bewusst ist das er von noah umgbracht wird wenn er glaubt der abad uns einen dolch in den rücken zu rammen
+  ist nicht seine erste verdeckte mission
+  hält unsere mission für viel versprechend 
+  ist sowohl selber als auch als representant der raumgilde neugierig 
+  x hieß mal xuttah
+der junge hat sich eine überdosis angewürz gegeben
+  lumi mutter ist komplett durch den wind - sie hatte das spice eigentlich weggeschlossen
+  ist mittlerweile stabil
+  schainoch ist nicht das was andere denken das es ist
+  sie sind keine wasserdiebe
+  will nach hause nachdem er den mond hat fallen sehen
+  "warum kann ich nicht dahin blicken wohin sie gehen?"
+  gewürzneutralisiert die meisten medikament -> wird deswegen gerne als prävention gegen gifte eingesetzt
+habe meinen bruder jasper bei seinem job aufgesucht und ihn darum gebeten bei unserer mutter zu bleiben
+  er hat aktuell eine erhliche arbeit wenn er am nächsten tag fehlt und kein ersatz da ist dann ist er gekündigt
+  er wird die nächsten tage bei mama bleiben 
+abad/die gilde hat handel in/mit jakurutu etabliert
+  abad gibt das versprechen das die entsprehende gespräche statt finden wenn der junge alt genug ist bzw selber weiß was er möchte
+der junge muss wasser mitbringen mind. 1 litajon
+  legt einen mehreckigen ring vor glenss füße als zeichen der wasser schuld 
+  schicken frettchen und rosa mit auf den tranport von dem jungen
+
+
+  
+  
+
+
+
+
 ### 2026-01-30
 gibt ein gemeinsames abendessen um sensible themen zu besprechen
 Teilnehmer:
