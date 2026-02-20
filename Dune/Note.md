@@ -55,11 +55,60 @@ projektname: Smoky
 
 
 ````
+### 2026-02-20
+die gräfin von richese hat ein herrschaftsgebiet auf einem der mode in dem system 
+  sie wird alle aufnehmen die wollen sofern wir das erlauben
+  -> den flüchtling wird eine weitere option angeboten
+unsere botschafterin hat gesagt das sie einen termin beim imperator gehabt hat
+  hat eine verbale schelle von ihm erhalten
+  das haus darf sich so einen faux pas erlauben 
+bekommen ein schreiben das adhet adu (von der mafea) das er uns einen kurz besuch abstatten wird
+  halboffizieller besuch: offiziell -> gilde kurier; halb -> man macht keinen tamtam darum
+habe von Lonrena eine Anleitung bekommen zur Fuchs-Erziehung
+Benetklailax
+  beten den buddislam an
+  es treten immer nur männer auf - keiner hat mit einer frau gesprochen
+  jeder verachtet diese
+  Export-Schlager: 
+    - Ersatzkörperteile - ist nicht bekannt wie sie diese züchten
+    - Stuhlhunde: Hunde die aussehen wie ein Stuhl, werden genutz wie ein Stuhl
+    - ???-Fleisch
+    - sie können aus einer Gen-Probe einen perfekten Klon erstellen und ggf. betimmte Dinge ändern
+  Bandalock ist ihr Hauptplanet; keiner bekommt eine Landeerlaubnis - man kann höchstens den Raumhafen sehen
+  Ruf: niemand spricht sich positiv zu ihnen aus 
+  sie sind ein notwendiges Übel
+  können gestaltwandler erschaffen
+habe von Lorena eine List mit noch erlaubten Verhütungsmitteln bekommen
+  ist ein Eingriff gegen die Menschheit und damit nicht gewollt
+Adhet hat Der Gräfin von Richese seine Hilfe angeboten 
+  er hat mitgeteilt das sich ein Waren Vakuum gebildet hat da die beiden großen Technischen Häuser am Boden liegen
+  hat gefragt ob Rombur Vernius noch lebt
+  hat eine Info für uns ide Rombur nicht wissen darf - darf uns nicht sagen warum
+  der Imperator sucht an der falschen Stellen nach Dominik Vernius (Graf, Vater vom Rombur); dieser befindet sich auf Arrakis
+  Gräfin Richese tritt ihren Direktorats Posten in der Mafea ab; ist von ihr bereits unterschrieben 
+    braucht noch die Unterschrieft vom Imperator oder von der Familie Adu
+    wir entsenden einen Vertreter in die Sitzungen; wir erhalten anteilig unseres Stimmenanteil überschüssige gewinne
+    es geht um eine der Spiegeltechnologien bei der die produktionsfertigung aktuell nicht existiert und einige andere fertigungstechnologien (und Mineralien)
+    die primären Fertigungskapazitäten werden mit Haus Richese wieder aufgebaut werden
+Haus Attreidis beherbergt Kalea Vernius
+die Mutter von Adhet pflegt die Beziehungen zu den Harkonnen und Adhet die zu den Attreidis
+  die Vermutung besteht das sie unglücklich sind das Haus Vernius mit X und Haus Richese mit Richese stark beschädigt sind/wurden
+gehen auf die Suche nach den anderen Hexen um Raquella
+  finden Kapfspuren die auf einen Kampf hindeuten die schon 1 oder 2 Tage alt sind
+  es sind keine Leiche vorhanden
+  wir finden im Atrium/Aufenthaltsraum an jeder Säule Personen mit "Beschriftungen" wie bei Raquella festgebunden
+  die meisten sind tot aber nicht alle
+"wenn du zu sinnen kommst, komm doch zur vogelhöhle"
+
+
+
+
+
 ### 2026-02-06
 kaya hat abad gefragt wie seine sicht auf die geschehenisse sind 
   seine antwort: man sollte die perspektive eines kindes sein [durch die augen eines kindes???] ja, das wäre dann ein besonderes kind
   abad scheint den jungen mit der situation/gewürzkrieg in verbindung zu bringen da der junge von arakis kommt 
-der direktor der mafea war vermutlich direkt nach unserem gespräch im raumhafen und hat mit abad gesprochen -> erhöhung der transportkapa
+der direktor des raumhafen war vermutlich direkt nach unserem gespräch im raumhafen und hat mit abad gesprochen -> erhöhung der transportkapa
 die einweihung des musuemsplaneten wurde auf unbestimmte zeit verschoben
   wurde per kurier an uns zu gestellt
   aufgrund unvorhergesehener zustände
