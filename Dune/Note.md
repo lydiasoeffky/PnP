@@ -1,9 +1,9 @@
 # Session Notes
 
 ```
-SchiP: |(|)
-Kampfpool: ||||| |||||  
-Kraftpunkte: ||||| ||
+SchiP: ||(|)
+Kampfpool: ||||| |||  
+Kraftpunkte: ||||| 
 Muni: 
   Pistole: |||
   SG: 
@@ -55,6 +55,22 @@ projektname: Smoky
 
 
 ````
+### 2026-02-27
+in tarkans unterlagen steht für die vogelhöle auch genfer refugium drin
+in schwarzen basalt geschmolzen, die gänge sind schmal und labyrint artig
+  ca. 1 tagesreise von dem nassen loch wurden ihr die augen verbunden
+brauchen prospektoren für einen ort -> vogelhöhle umschreiben
+die höhle umgibt ein sporennebel der ein neurotoxin enthält
+cassandra hat zwei schwestern: raquella und helena
+  unterirdisch geht das gestein filtern
+  bekommen von ihr eine wegbeschreibung
+  soll ein archiv geben 
+  es sind immer 300 frauen vorort
+  erstreckt sich über 1km^2
+habe von Noah ein kästchen bekommen der mich einmal vor einem Angriff schützt (+3 auf verteidigung gegen eine hexen kraft)
+
+
+
 ### 2026-02-20
 die gräfin von richese hat ein herrschaftsgebiet auf einem der mode in dem system 
   sie wird alle aufnehmen die wollen sofern wir das erlauben
