@@ -1,7 +1,7 @@
 # Session Notes
 
 ```
-SchiP: ||(|)
+SchiP: |
 Kampfpool: ||||| |||  
 Kraftpunkte: ||||| 
 Muni: 
@@ -41,6 +41,7 @@ Noah reagiert immer wieder mit einem zusammen zucken auf die geräusche des geig
 Name: Neryth
 Step: Reparieren
 Reinigung (abgeschlossen)
+Modul Reparatur: Hülle (abgeschossen)
 
 
 
@@ -55,6 +56,20 @@ projektname: Smoky
 
 
 ````
+### 2026-03-13
+die hexen kinder von Raquella sind auf der krankenstation und wach
+sind in den hideout von Cassandra und haben uns in der bib umgesehen
+  finden dort einige berichte aus den (anfangs)zeiten des djihad
+  die hexen von rossak und die benegetherit haben gemeinsame wurzeln -> deutet darauf hin das die benegetherit von hier stammen
+  norma genfa ist die tochter von einer der autorinnen
+  aurelian venport ist einer der partner von einer der autorinnen
+  es tauchen berichte auf das aurelian ein unternehmen mit schiffen mit faltraum technologie hat
+haben raquella den vorschlag unterbreitet das die hexen im kloster wohnen können 
+
+
+
+
+
 ### 2026-02-27
 in tarkans unterlagen steht für die vogelhöle auch genfer refugium drin
 in schwarzen basalt geschmolzen, die gänge sind schmal und labyrint artig
