@@ -1,7 +1,7 @@
 # Session Notes
 
 ```
-SchiP: |
+SchiP: ||(|)
 Kampfpool: ||||| |||  
 Kraftpunkte: ||||| 
 Muni: 
@@ -56,6 +56,54 @@ projektname: Smoky
 
 
 ````
+### 2026-03-04 Tischrunde
+sind aktuell auf kaladan
+wurden im westflügel einquartiert
+aktuell finden festlichkeiten statt
+herbstzeit: können beobachten wie wintervorbereitungen getroffen
+leto war die ersten paar tage nicht da - wurde durch seine offiziere vertreten
+dunkan hat die aufgabe auf gwen aufzupassen
+haben eine einladung von leto zu einer mission an der küste entlang zu begleiten
+  -> routine Kontrolle
+bin mit hatrol gleiter fliegen
+  schaffe auch das ding auch zu landen
+  darf mitschleppen 2,5h auf den hügel rauf, 5 min runter
+das personal kann kailea nicht ausstehen
+  weiß geschenke nicht zu würdigen
+  beschäftigt sich viel mit dem zeug auf kaetan
+rombur hat viel besuch von tesia
+  ist zusammen mit jessika nach kaladan gekommen
+  hat die ausbildung zur benegetherit gamcht
+  rombur und tesia sind beide begeistert von geologie
+  sind verheiratet
+  haben gefragt was mit atisia passiert ist - dort sollte eine person sterben die auf kaetan ist 
+  die person ein ein bastardsohn und verwand mit dem Imperator
+  jessika und tesia verstehen sich ganz gut - sollte kailea nicht erfahren
+hatrol ist mit nem bekannt raus gefahren und noch nicht wieder da
+lumi soll das schiff steuern -> ist der käpten
+das boot hat min. 2m tiefgang
+  heißt seefalke
+  ist ein katamaran
+  nicht mehr wie 50 knoten
+  hat zwei schrauben mit entsprechenden motoren
+  maschinist heißt johann
+  glenn kommt nicht gut damit klar unterdeck zu sein
+  noah hingegen schon sehr - wirkt fast entspannt
+  lumi bekommt die kapitäns kajüte
+steuern auf einen electranssturm zu weil in dem sturm ist ein schiff gefangenen
+  der sturm verursacht magnetische störungen
+  die blitze sind irgendwelche wesenheiten die die blitze dann formen
+  die umgebung wird erleuchtet durch die entladungn
+  glenn nutzt sein pulsschwert um da ein starkes energiefeld auf zu bauen 
+  nutzen die electrans, kayas magie und den strom von unseren motoren
+  -> der gewittersturm verzieht sich entgegen des windes von uns weg
+  das schiff was in not war: seekuh
+  haben 22/25 leuten gerettet
+  die verletzten werden mit thoptern an land geflogen (auch johann)
+  bekommen gurney als ersatz
+  
+  
+  
 ### 2026-03-13
 die hexen kinder von Raquella sind auf der krankenstation und wach
 sind in den hideout von Cassandra und haben uns in der bib umgesehen
@@ -65,9 +113,6 @@ sind in den hideout von Cassandra und haben uns in der bib umgesehen
   aurelian venport ist einer der partner von einer der autorinnen
   es tauchen berichte auf das aurelian ein unternehmen mit schiffen mit faltraum technologie hat
 haben raquella den vorschlag unterbreitet das die hexen im kloster wohnen können 
-
-
-
 
 
 ### 2026-02-27
