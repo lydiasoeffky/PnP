@@ -70,7 +70,7 @@ hat ein paar wenige anhaltspunkte
 
 ## polizeiliches
 Position: Kiriminalbeamter
-Zuständigkeitsbereich: ??? außerhalb der city **ODER** wiederaufbaugebiet
+Zuständigkeitsbereich: Watson
 Korruption: Bereit, alle Regeln zu beugen, um die Schurken zu kriegen.
 wer hat es auf uns abgesehen: organisiertes verbrechen 
 hauptziel unserer gruppe: organisiertes verbrechen 
