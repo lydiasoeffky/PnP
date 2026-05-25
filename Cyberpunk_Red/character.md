@@ -30,6 +30,7 @@ ehrlich (vielleicht nicht unbedingt immer)
 gnadenlos
 grob
 
+---
 
 ## freunde
 insgesamt: 2
@@ -46,22 +47,43 @@ teilt mit ihm das interesse für mode
 haben sich auf der polizei akademie kennen gelernt
 -2y
 
+---
 
 ## feinde
 insgesamt: 0
 
+---
 
 ## tragische liebschaften
 insgesamt: 2
 
-### nr. 1 Maple Nowak
-was ist passiert: ein rivale hat dich ausgebootet
+### Maple Nowak (Captain Crunch)
+was ist passiert: ein rivale hat dich ausgebotet
+
 mit 22
 war einfach noch zu jung und naiv und zu selbstsicher
 der rivale war einfach besser darin sie zu umgarnen
 +3y
 
-### nr. 2 Darius Lee
+Künstlername: Captain Crunch
+hegt seit ihrer frühen Kindheit den Wunsch Musikerin zu werden
+hat in ihren Teenie Jahren angefangen ihre Karriere aufzubauen 
+
+-> rockerboy
+**cultural region**: South East Asian
+**language**: Filipino
+**personality**: Moody, rash and headstrong
+**clothing style**: asia pop
+**hair style**: wild colors
+**Thing never seen without**: Earring
+**valued most**: Money
+**wie cool sind menschen**: people are obstacles to be destroyed if they cross me
+**most valued person**: A pet
+**most valued possesion**: a piece of clothing
+
+
+
+### Darius Lee
 was ist passiert: die liebschaft ist auf mysteriöse weise verschwunden
 mit 38
 keine ahnung wo er hinverschwunden ist 
@@ -75,6 +97,8 @@ Korruption: Bereit, alle Regeln zu beugen, um die Schurken zu kriegen.
 wer hat es auf uns abgesehen: organisiertes verbrechen 
 hauptziel unserer gruppe: organisiertes verbrechen 
 
+---
+
 ## geschichte
 
 ist einem relativ behüteten umfeld aufgewachsen
@@ -84,9 +108,19 @@ gab keine großartigen spuren die darauf hindeuten könnten was passiert ist
 wurde von einer polizeistreife aufgesammelt und von der chefin der trupe aufgenommen
 ist wegen dem verlust seiner familie und wegen Mia polizist geworden
 er macht jagt auf das organisierte verbrechen weil er als einzige erklärung für die verschwunden personen in seinem leben das organisierte verbrechen hat
-nachdem darius auch einfach so verschwunden ist setzt will er ihn und ggf. seine familie aufspüren 
+nachdem darius auch einfach so verschwunden ist, will er ihn und ggf. seine familie aufspüren 
   bei seiner familie macht er sich mittlerweile nur noch wenig hoffnung
   hat ihn darin bestätigt den richtigen job zu haben
+
+Nox hat Maple ein paar wochen vor seinem 21 Geburtstag kennengelernt 
+war mit Charles feiern und hat sie in einem Club kennen gelernt
+die zwei haben sich von anfang an sehr gut verstanden und haben sich sehr schnell regelmäßig getroffen
+ein paar wochen nach seinem 22 geburtstag hat sich die stimmung zwischen den beiden verändert
+da sie ihm nicht sagen wollte was los ist, hat er angefangen ihr hinterher zu schnüffeln und hat so erfahren das sie mit einem anderen noch etwas am laufen hat
+kurz darauf gab es einen heftigen streit zwischen den beiden wo sie sich von ihm getrennt hat
+
+
+
 
 hat sein interesse für mode und schmuck von seiner mutter geerbt
 
