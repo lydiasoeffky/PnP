@@ -1,15 +1,15 @@
 # nox latva
 
 ## allgemein
-**geschlecht**: männlich \\
-**alter**: 42 \\
+**geschlecht**: männlich \
+**alter**: 42 \
 **sexuelle orientierung**: pan 
 
-**kulturelle herkunft**: osteuropäisch \\
+**kulturelle herkunft**: osteuropäisch \
 **muttersprache**: finnisch \
 
-**kleidungsstil**: topmodisch \\
-**frisur**: sauber und kurz \\
+**kleidungsstil**: topmodisch \
+**frisur**: sauber und kurz \
 **vorlieben ohne die man mich niemals ohne sieht**: schlanke silberkette mit anhänger (verschwindet gerne mal unter den klamotten) (ein tattoo?) 
 
 **was schätze ich am meisten**: dein wort\
