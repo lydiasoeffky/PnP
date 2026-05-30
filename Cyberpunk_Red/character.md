@@ -6,7 +6,7 @@
 **sexuelle orientierung**: pan 
 
 **kulturelle herkunft**: osteuropäisch \
-**muttersprache**: finnisch \
+**muttersprache**: finnisch 
 
 **kleidungsstil**: topmodisch \
 **frisur**: sauber und kurz \
@@ -40,12 +40,39 @@ insgesamt: 2
 chefin der polizeitruppe die ihn mit 12 aufgesammelt haben\
 +15y
 
+-> lawman
+**cultural region**: South East Asian\
+**language**: Filipino\
+**personality**: Moody, rash and headstrong\
+**clothing style**: asia pop\
+**hair style**: wild colors\
+**Thing never seen without**: Earrings -> ein paar mit ihrem künstlernamen, auf einer seite Captain auf der anderen crunch\
+**valued most**: Money\
+**wie cool sind menschen**: people are obstacles to be destroyed if they cross me\
+**most valued person**: A pet\
+**most valued possesion**:
+
 ### Charles Pfister
 (jemand mit gemeinsamen interessen oder zielen)\
 bester freund \
 teilt mit ihm das interesse für mode\
 haben sich auf der polizei akademie kennen gelernt\
 -2y
+
+-> media
+**cultural region**: western europe\
+**language**: german\
+**personality**: fröhlich, aufgedreht, \
+**clothing style**: modisch selbstbewusst\
+**hair style**: long and straight\
+**Thing never seen without**: fingerless gloves\
+**valued most**: love\
+**wie cool sind menschen**: people are wonderful\
+**most valued person**: a lover\
+**most valued possesion**: ein foto
+
+charles stammt aus einer recht wohlhabenden familie
+seine eltern sind im mittleren management einer corp
 
 ---
 
@@ -105,13 +132,14 @@ hat ein paar wenige anhaltspunkte\
 **valued most**: honesty\
 **wie cool sind menschen**: I like almost everyone\
 **most valued person**: sein vater\
-**most valued possesion**: a letter -> der letzte Brief von seinem Vater bevor er wegen einer krankheit verstorben ist
+**most valued possesion**: a letter -> der letzte Brief von seinem Vater bevor er wegen einer erkrankung verstorben ist
 
 seine familie ist seit generationen schon nomaden \
 er hat sich schon immer gerne mit leuten unterhalten und hat früh angefangen sich ein netzwerk aufzubauen\
 hat sich entgegen den wünschen seiner eltern gegen ein leben als nomade entschieden und ist stattdessen fixer geworden\
 nach einer besonders hässligen trennung hat er mit 33 für ihn unerwartet seine große liebe kennengelernt\
 in Briefen an seine Familie hat er immer wieder über nox geschrieben gehabt und hat ihn dann nach drei jahren seiner familie vorgestellt
+
 
 
 
