@@ -14,7 +14,7 @@
 
 **was schätze ich am meisten**: dein wort\
 **was hälts du von den meisten leuten**: disdain -> lösch sie alle aus - sollen die kakerlaken die welt übernehmen; ohne uns wäre die welt besser dran\
-**welche menschen sind am wertvollsten**: ein lehrer oder mentor\
+**welche menschen sind am wertvollsten**: Mia Evans\
 **was dein wertvollster besitz**: ein schmuckstück
 
 **ursprüngliche herkunft**: konzerntechniker\
@@ -40,17 +40,31 @@ insgesamt: 2
 chefin der polizeitruppe die ihn mit 12 aufgesammelt haben\
 +15y
 
--> lawman
-**cultural region**: South East Asian\
-**language**: Filipino\
-**personality**: Moody, rash and headstrong\
-**clothing style**: asia pop\
-**hair style**: wild colors\
-**Thing never seen without**: Earrings -> ein paar mit ihrem künstlernamen, auf einer seite Captain auf der anderen crunch\
-**valued most**: Money\
-**wie cool sind menschen**: people are obstacles to be destroyed if they cross me\
-**most valued person**: A pet\
-**most valued possesion**:
+-> lawman\
+**cultural region**: north america\
+**language**: englisch\
+**personality**: ernst, fair, dominant\
+**clothing style**: generic chic\
+**hair style**: neat and short\
+**Thing never seen without**: ritual scars \
+**valued most**: knowledge\
+**wie cool sind menschen**: I stay neutral\
+**most valued person**: Nox\
+**most valued possesion**: Ein Bild welches nox mal gezeichnet hat
+
+arbeitet in einer anderen abteilung/team wie nox\
+hat sich damals gefreut als er sagte das er auch polizist werden möchte\
+hat ihn immer unterstütz in den dingen die er machen wollte\
+hatte sich insgeheim immer eigene kinder gewünscht hatte aber nie welche selber bekommen\
+hatte sich nox erbarmt als dieser verwirrt und erschüttert am späten abend vor die füße lief
+
+Mia ist ein einer Siedlung von Pionieren und Menschen die ihren Stadtteil (?) wieder aufbauen wollten aufgewachsen\
+ihre Narben hat sie aus der Zeit da es unter den Bewohnern abergläubische Menschen die es für nötig gehalten haben regelmäßige rituale abzuhalten \
+sie hat mit 20 eine stelle bei der ncpd erhalten und sich dann relativ zügig hoch gearbeitet \
+kontakt zu ihren eltern bzw. der gemeinschaft in der sie aufgewachsen ist hat sich nicht mehr
+
+
+
 
 ### Charles Pfister
 (jemand mit gemeinsamen interessen oder zielen)\
@@ -59,10 +73,10 @@ teilt mit ihm das interesse für mode\
 haben sich auf der polizei akademie kennen gelernt\
 -2y
 
--> media
+-> media\
 **cultural region**: western europe\
 **language**: german\
-**personality**: fröhlich, aufgedreht, \
+**personality**: fröhlich, offen, redelustig\
 **clothing style**: modisch selbstbewusst\
 **hair style**: long and straight\
 **Thing never seen without**: fingerless gloves\
@@ -71,9 +85,21 @@ haben sich auf der polizei akademie kennen gelernt\
 **most valued person**: a lover\
 **most valued possesion**: ein foto
 
-charles stammt aus einer recht wohlhabenden familie
-seine eltern sind im mittleren management einer corp
-er hat in seiner jugend die welt der mode für sich entdeckt
+charles stammt aus einer recht wohlhabenden familie\
+seine eltern sind im mittleren management einer corp\
+er hat in seiner jugend die welt der mode für sich entdeckt nachdem er sich in seiner jugend eher schwer getan hat freunde zu finden \
+  hat es lange als ausflucht genutzt bis er in der mode welt langsam anschluss gefunden hat\
+  hat irgendwann angefangen einen blog zu schreiben und wollte das irgendwann auch mal beruflich machen\
+  seine eltern waren davon nicht begeistert und wollten stattdessen das er auch ins management geht \
+  nach harten verhandlungen durfte er dann die polizei akademie besuchen\
+auf der akademie hat er weiter seinen blog geschrieben und nebenbei angfangen sich eine Karriere als author/journalist aufzubauen\
+  nachdem er erste erfolge verzeichnen konnte und unabhägig von seinen eltern war hat er seine ausbildung zum polizisten abgebrochen\
+auf nox ist er aufmerksam geworden als dieser mit einem mode magazin in der hand in der mensa saß\
+  er hat sich ungefragt zu ihm gesetzt und seine initial abweisende haltung ignoriert \
+  irgendwann ist nox dann aufgetaut\
+  nox hat ihm ab und an mal bei einem artikel für seinen blog geholfen bzw. die hausaufgaben für ihn gemacht damit er nicht all zu viel ärger wegen schlechter noten bekommt\
+die freundschaft besteht bis heute \
+die beiden treffen sich ein bis zwei mal im monat und "telefonieren" bzw schreiben sich regelmäßig 
 
 ---
 
@@ -162,7 +188,7 @@ ist einem relativ behüteten umfeld aufgewachsen\
 seine eltern waren büro angestellte in einem konzern\
 als er mit 12 an einem sommertag vom spielen wieder nach hause kam war seine familie spurlos verschwunden\
 gab keine großartigen spuren die darauf hindeuten könnten was passiert ist\
-wurde von einer polizeistreife aufgesammelt und von der chefin der trupe aufgenommen\
+wurde von einer polizeistreife aufgesammelt und von der chefin der truppe aufgenommen\
 ist wegen dem verlust seiner familie und wegen Mia polizist geworden\
 er macht jagt auf das organisierte verbrechen weil er als einzige erklärung für die verschwunden personen in seinem leben das organisierte verbrechen hat\
 nachdem darius auch einfach so verschwunden ist, will er ihn und ggf. seine familie aufspüren \
