@@ -73,6 +73,7 @@ haben sich auf der polizei akademie kennen gelernt\
 
 charles stammt aus einer recht wohlhabenden familie
 seine eltern sind im mittleren management einer corp
+er hat in seiner jugend die welt der mode für sich entdeckt
 
 ---
 
