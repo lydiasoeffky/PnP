@@ -3,6 +3,37 @@ man muss den schwierigkeitsgran um 1 übertreffen
 
 # misc
 habe leif versprochen das ich ihn mit auf eine modenschau nehme
+habe liv auf infos zu darius angesetzt -> verlangt ein honorar wenn sie etwas zu ihm findet
+  => will sich geld für ihr honorar zurück legen
+
+
+# 2026-06-14
+war auf nen einsatz den ich nicht ignorieren konnte -> verdacht auf cyberpsycho
+es häufen sich die flaschmeldungen wegen cyberspycos
+
+tavik hat ne copy von vikis agend gemacht -> wusste daher was wie und wo im club
+elias ist der doc der die hardware in tavik eigbaut hat
+
+terminanfrage 
+ncpd besprechung 3a 
+fur den folgenden morgen 0930
+wegen cyberpsychos
+
+kriegen von viktor 1000eb für jede info zu vicki, 5000eb für die info zum aufenthaltsort von vicki, 7000eb wenn wir sie lebend zurück bringen
+
+presinct 3 ist am besten ausgestattet aber nicht das größte
+
+chrome howl ist ein laufender cyberpsychosis fall
+  es ertönt ein wolfsähnliches geheul wenner in der nähe ist
+  zieht sich schnell wieder zurück, scheint kliug zu sein 
+gibt noch weitere vermissten fälle
+
+vicki hat den agend von tavik angerufen
+tracie, blue wisp arcade 
+folgt den netrunnern
+
+das blue wisp wird von einem mode influencer (tork) geführt
+
 
 # 2026-06-07
 stehen vor einem zerstörten club von viktor (der wo wir den job gemacht haben)
@@ -34,7 +65,7 @@ die suche läuft anfangs nicht gut
   mit dem namen jakemartinez läuft schon besser
   -> ist unvollständig
   neigt zu gewaltausbrüchen die auf cyberpsychosen hindeuten -> hat eine möglichkeit das zu kontrollieren sei es das auszuleben oder extrem willensstark
-bis auf flancer gibt es nur ein pauschales kopfgeld von 100eb
+bis auf flenser gibt es nur ein pauschales kopfgeld von 100eb
 der bar besitzer kann vicky seit gestern nicht erreichen
 -> vicky hat sich in letzter zeit immer wieder über ihren bruder beschwert
   sie musste ihn immer wieder aus scheiße rausziehen
