@@ -1,10 +1,56 @@
 # regeln
-man muss den schwierigkeitsgran um 1 übertreffen
+- man muss den schwierigkeitsgran um 1 übertreffen
+EN Regelwerk Seite 176:
+- Martial Arts Attacks are made at 2 ROF.
+    BODY 4 or Under 5 to 6 7 to 10 11 or Higher
+    Damage 1d6 2d6 3d6 4d6
+- Martial Arts Attacks /Special
+    Move Resolutions are made
+    using:
+      DEX + That Form's Skill + 1d10
+    vs.
+      Defender's DEX + Evasion + 1d10 or DV*
+      *for some Special Moves
+- ▶ Shared Special Moves ◀
+  ▶ Recovery
+    No Requirement: All Martial Arts Forms may use this Move.
+    Whenever you use the Get Up Action, you can attempt to beat a DV13 with the Martial Arts Special Move Resolution. If you succeed, that Get Up Action didn't cost an Action.
+
 
 # misc
 habe leif versprochen das ich ihn mit auf eine modenschau nehme
 habe liv auf infos zu darius angesetzt -> verlangt ein honorar wenn sie etwas zu ihm findet
   => will sich geld für ihr honorar zurück legen
+werde als Model für Tork im nächsten Monat dabei sein
+
+
+# 2026-06-16
+mode influencer (tork), kenne ihn flüchtig
+extrem flashy, setzt stark auf kontraste
+  kann willkürlich wirken
+stark gegen vercyberung
+niedrig 5-stellige follower zahl
+hat mit den energy drinks schon zu tun gehabt
+  nova colours - mit blue glas versetzt
+  leute sehen bis 4h stunden nach einnahme farben sehen
+
+tracy arbeitet mit maelstrom zusammen
+maelstrom hat einen erhaltenen access opint zum old net gefunden -> versuchen data darauß zu extrahieren
+wenn man dem tunnelsystem folgt und weiß wo man suchen muss findet man den access point 
+  maelstrom haben den wächter gefunden ohne zu wissen was er bewacht hat
+an der linken seite gibt ein verborges panel -> muss mit der hand suchen
+sollten vorsichtig sein
+
+alle runner die mit dem old net connected sind werden exekutiert
+
+dtective leud:
+hat spuren zu vicki gefunden
+verschiedene verschwunde netrunner - alle innerhalb der letzen wochen
+einzige gemeinsamkeit netrunner
+Ash Renko, Cyra Valez, Jax Virelli, Milo Strix, Rina Cross, Talia Skorn
+
+
+
 
 
 # 2026-06-14
