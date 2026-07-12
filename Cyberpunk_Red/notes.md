@@ -17,11 +17,33 @@ EN Regelwerk Seite 176:
     Whenever you use the Get Up Action, you can attempt to beat a DV13 with the Martial Arts Special Move Resolution. If you succeed, that Get Up Action didn't cost an Action.
 
 
+presinct 3
+
 # misc
-habe leif versprochen das ich ihn mit auf eine modenschau nehme
-habe liv auf infos zu darius angesetzt -> verlangt ein honorar wenn sie etwas zu ihm findet
+- habe leif versprochen das ich ihn mit auf eine modenschau nehme
+- habe liv auf infos zu darius angesetzt -> verlangt ein honorar wenn sie etwas zu ihm findet
   => will sich geld für ihr honorar zurück legen
-werde als Model für Tork im nächsten Monat dabei sein
+- werde als Model für Tork im nächsten Monat dabei sein
+- habe von katinka eine einladung zu einer cosplay convention bekommen 
+  => ich soll beweisen das ich kleidung nähen kann 
+
+2 - 200
+4 - 100
+4 - 100
+1 - 100
+4 - 100
+
+# 2026-07-12
+wurden auf eine schießerei beordert
+an dem ort ist nichts zu hören
+lagerhaus subdepo 52b - ist mit baugerüsten verstärkt 
+  -> wird nichts drin gelagert
+sylvian hat hinweise auf die tiger claws gefunden
+haben nen toten gefunden
+finden nen burner agent und 100eb bündel vom ncpd
+kriegen besuch von detective miller und kate 
+  haben mit ihnen einen deal ausgehandelt das wir für sie undercover ermitteln und nur ihnen die informationen liefern
+  ggf. helfen wir bei einem zugriff
 
 
 # 2026-06-16
