@@ -27,11 +27,24 @@ presinct 3
 - habe von katinka eine einladung zu einer cosplay convention bekommen 
   => ich soll beweisen das ich kleidung nähen kann 
 
+DT Hustle:
 2 - 200
 4 - 100
 4 - 100
 1 - 100
 4 - 100
+5 - 200
+6 - 200
+
+# 2026-07-14
+haben von evans das teehaus jasmin drangon
+kimengumi
+selbstverwaltung + eigene polizei
+nicht geht ohne die tigerclaws
+sei ruhig und freundlich und mach was der mensch mit der oni maske dir sagt
+
+
+
 
 # 2026-07-12
 wurden auf eine schießerei beordert
