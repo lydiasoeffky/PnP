@@ -36,8 +36,61 @@ DT Hustle:
 5 - 200
 6 - 200
 
+# 2026-08-18
+bin aus $gründen zum presinkt zurück
+habe da die bereits erhaltenen spuren
+  ballistischen abdruck der zu einem anderen mord an nem cop von vor einem jahr passt
+  untypisch sauber -> waffe wird regelmäig gewartet -> hat grundlegend ahnung
+habe was in ner db: ehemaliger cop jin parker
+  akte ist quasi zu - habe die akte aufgemacht 
+wurde daraufhin zu einem gespräch gebeten
+  kollegen von der internal affairs
+
+....
+
+werde in einen verhörraum gebeten und muss warten
+  mache in der zeit papierkram
+smith und yokota
+es gibt zu dem mord außerdem keine spuren -> sind verschwunden
+  erschossen auf dem weg heim in den rücken und hinterkopf
+  hier in watson kurz vor seinem wohnhub
+
+könnten laufende ermittlungen stören
+  es gibt wahrscheinlich ein sicherheitsleck in den eigenen reihen 
+  es verschwinden regelmäßig dinge 
+  robert reyes ist verschwunden - verwalter der aservaten kammer
+  sein auto wurde gefunden -> in der nähe des hafen
+
+der tote hatte unterlagen zu jin parker
+  jin arbeitet wohl weiterhin mit dem ncpd zusammen
+  die beiden polizisten die uns den auftrag gegeben haben könnten das leck sein
+  die beiden sind nach dem sie die info des teehauses bekommen haben, dort aufgeschlagen 
+  verhalten sich beide auffällig -> kriegen von uns keine infos mehr
+
+jin hat bestätigt das er kontakt zum ncpd hat
+  hat raus gefunden das der tot mit dem ncpd arbeitet "auf einer anderen seite"
+  marko hatte eine gegenseitige geschäftsbeziehung
+  hat den mord an dem polizisten in auftrag gegeben
+  hat hardware aus polizei beständen an die gang verteilt
+  jin hat den polizisten ermordet -> das beschäftig ihn
+
+das auto von rays steht in der nähe einer müll verbrennungsanlage
+  dunkler sportster coupee
+  abseits einer laterne 
+  magazin + 1 kugel drin 
+  die marke scheint soweit normal 
+  beides riecht chlorig und sind blank poliert
+  habe einen datachip gefunden
+
+die müllanlage hat überwachungskameras
+  da ist kantika aber nicht weit reingekommen
+  haben eine box mit einem P und einem D drauf zusammengepresst gefunden
+  
+
+
+
 # 2026-07-14
-haben von evans das teehaus jasmin drangon
+haben von evans das teehaus jasmin/jade dragon
 kimengumi
 selbstverwaltung + eigene polizei
 nicht geht ohne die tigerclaws
