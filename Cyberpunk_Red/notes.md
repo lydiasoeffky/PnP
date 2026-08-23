@@ -36,6 +36,11 @@ DT Hustle:
 5 - 200
 6 - 200
 
+# 2026-08-23
+haben mit den kollegen von internal affairs einen vertrag geschlossen und ihnen unsere infos gegeben
+
+
+
 # 2026-08-18
 bin aus $gründen zum presinkt zurück
 habe da die bereits erhaltenen spuren
