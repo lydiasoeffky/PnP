@@ -28,13 +28,38 @@ presinct 3
   => ich soll beweisen das ich kleidung nähen kann 
 
 DT Hustle:
-2 - 200
-4 - 100
-4 - 100
 1 - 100
+2 - 200
+3 - 0
 4 - 100
 5 - 200
-6 - 200
+6 - 200 3
+7 - 200
+
+# 2026-09-04
+haben vi zugesagt einige aufträge für sie zu erledigen
+- die gang des redline als tür steher bekommen
+- eine band dazu bewegen zu spielen
+- strom ranschaffen
+
+redline: ich werde dort als knuklebuster bei den kämpfen antreten
+habe von den anderen ein superhelden kostüm bekommen
+werde gegen rocky antreten
+der barkeeper kann rocky nicht leiden - weiß gerade nicht ob das stimmt oder nicht
+  kommt mir seltsam vor das ein gangmitglied ein anderes schlecht redet.
+rockys linke seite ist ihre schwache seite
+ist schnell
+kann machen was ich will solange ich keine waffe ziehen
+kann ggf. auch schmutzige tricks verwenden
+habe den kampf gegen rocky gewonnen
+
+tomas flare ist der barkeeper - hat vermutlich die bombe platziert
+  hat seine frau wohnt mit ihr zusammen, heißt anna
+  wohnt max. ne halbe stunde vom redline weg
+  anna kann ins redline kommen wenn sie hilfe braucht
+wurden von jenny beauftragt den barkeeper einzusammeln und dafür nimmt sie unseren auftrag für 15k an 
+
+
 
 # 2026-08-23
 haben mit den kollegen von internal affairs einen vertrag geschlossen und ihnen unsere infos gegeben
