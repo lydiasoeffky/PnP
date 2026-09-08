@@ -36,6 +36,29 @@ DT Hustle:
 6 - 200 3
 7 - 200
 
+# 2026-09-08
+waren in der wohnung von tomas und anna
+sind gerade angekommen als er seine frau verprügelt hat
+liam hat ihn mit einem schlafpfeil schlafen geschickt
+haben anna überzeugen können mit zu kommen da jenny ihr hilfe angeboten hat
+haben tomas und anna bei jenny "abgegeben"
+anna hat das angebot von jenny angenommen
+
+die band hat wahrscheinlich eine netrunnerin dabei 
+  - wollten zugriff auf die netarchitecture
+die band sucht sich spezifisch orte aus die nicht mit dem establishment (corpo, regierung, maelestrom, ...) zusammenhängen
+
+die leadsängerin: hat großes interesse an fashionwaer, sollte nicht the fork erwähnen
+drummer: hat syntetische drums, könnten was besonderses draus machen, hat ebenfalls interessan an fashionwear
+der dritte hat interesse daran ein guten eindruck zu vermitteln
+aya/mirror: kapert werbung und designed diese um
+
+waren noch beim chromes home dem ripper doc um für die band nen freundschaftspreis auszuhandeln
+  im gegenzug wird sein service bewerben
+  
+
+
+
 # 2026-09-04
 haben vi zugesagt einige aufträge für sie zu erledigen
 - die gang des redline als tür steher bekommen
