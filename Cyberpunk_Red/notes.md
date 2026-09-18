@@ -36,6 +36,23 @@ DT Hustle:
 6 - 200 3
 7 - 200
 
+# 2026-09-18
+durchkämme das forum/die foren und finde diverse infos zu orichdeen
+  finde außerdem alte foren einträge nach einer schießerei 
+katinka und liam haben erfolgreich ein neue drum maschine für den drummer gebaut 
+sylvian hat noch weitere infos über den drummer gefunden und hat diese katinka und liam zu gespielt 
+
+
+sind im blackstrapp neon zu besuch für das konzert von der band die wir für den night market haben wollen
+habe von  leif zwei weitere drinks drinks spendiertbekomme
+  habe einen davon an leif geschenkt
+
+soll mich mal bei mia melden
+haben kein label bei dem sie unter vertrag sind 
+
+haben die band schwer beeindruck und konnten sie engagieren
+
+
 # 2026-09-08
 waren in der wohnung von tomas und anna
 sind gerade angekommen als er seine frau verprügelt hat
