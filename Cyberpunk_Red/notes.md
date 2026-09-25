@@ -36,6 +36,41 @@ DT Hustle:
 6 - 200 3
 7 - 200
 
+# 2026-09-25
+am schrottplatz: händler - zwei generatoren für 500ebbys
+  sollen sie abolen und dann in die l  lagerhalle in der nähevom nightmarket oder im auto
+  dann am abend voher am niht market abliefern
+  vi kauft dort sachen für liam
+
+george scheint irgendwas von vi zu wollen 
+
+paolo yaris hat keine ahnung von mechanik und nimmt einfach den material preis - sortiert auch alles nach materialien
+die generatoren sind alt und nicht saubergemacht
+  sind keine schrott, es sollten vllt. ein paar kabel ersetzt werden
+  es muss ein zerschnittenes kabel und eine magnetspuhle ersetzt werden
+  nehmen die generatoren einmal auseinander und prüfen alles
+  es wurden stellen genommen die auf dem ersten blick nicht offensichtlich sind
+    könnte eine streich oder bescheißen gewesensein
+  rafael guckt immer mal wieder nach uns -> man kann sich ein wenig beobachtet fühlen
+katinka hat ein kockpit gefunden welches sie erfolgreich hochfahren kann
+  und erweckt damit ein metallgiganten und mehrere drohnen
+  katinka deaktiviert die dinger mit einem virus
+  der gigant teil ein wenig schaden aus
+
+werden noch bei einer händlerin vorbei geschickt
+  ihr agent ist kaputt und ihr ist eine lieferung abhanden gekommen
+  sie handelt mit waffen
+  die kisten sind gechipt 
+  der convoy wurde überfallen
+  gab keine offensichtliche erkennungszeichen -> 1 person dabei verstorben, 2 personen verletzt
+  ware ist in einem warenhaus am rand von watson
+  biete 100ebs pro kopf und gute verhandlungen
+  die sonderware war nicht dabei - ist nur die standardware 
+  es sind 4 große transport kisten in denen sich die waffen befinden
+
+
+
+
 # 2026-09-18
 durchkämme das forum/die foren und finde diverse infos zu orichdeen
   finde außerdem alte foren einträge nach einer schießerei 
