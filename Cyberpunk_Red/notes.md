@@ -36,6 +36,27 @@ DT Hustle:
 6 - 200 3
 7 - 200
 
+# 2026-10-06
+sammeln leif ein
+  der ist sehr stinkig darüber das wir sein auto demoliert haben
+in der gegend ist unter anderem maelstrom unterwegs
+  sehen eine gang mit nem funken sprühenden kabel - ist noch nichts im web zu finden
+  ggf. noch zu neu bzw. zu klein
+
+klick ist der chef
+hat zwei gruselige menschen angeschlepp
+  typ hat mehr vercyberung wie eigentlich normal
+  gang räumt normal häuser aus .. macht kleineres zeug
+  hat sich wegen perspektivlosigkeit der gang angeschlossen
+  der anführer hat nen gruseliges mädel dabei - hat wohl gut kraft bzw. muskeln
+  haben nen netrunner in den reihen
+  können mit pistolen rumfuchteln
+
+
+
+
+
+
 # 2026-09-25
 am schrottplatz: händler - zwei generatoren für 500ebbys
   sollen sie abolen und dann in die l  lagerhalle in der nähevom nightmarket oder im auto
