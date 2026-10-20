@@ -36,6 +36,22 @@ DT Hustle:
 6 - 200 3
 7 - 200
 
+# 2026-10-20
+habe nach dem kampf meine kollegen begleite die ware die nicht zu unserem auftrag gehört zur verwarung gebracht
+mein gebrochenes bein wurde versorgt
+  wurde mir von leif gebrochen
+
+katinka hat heute geburtstag - hat sylvian zu mindest so beschlossen
+
+greg will auf dem night market zeug anbieten und hat nicht genug getränke
+  sollen für ihn am black room pub zeug abholen
+  - min. 3 kästen bier
+  - so viele sorten wie möglich
+
+
+
+
+
 # 2026-10-06
 sammeln leif ein
   der ist sehr stinkig darüber das wir sein auto demoliert haben
@@ -54,12 +70,9 @@ hat zwei gruselige menschen angeschlepp
 
 
 
-
-
-
 # 2026-09-25
 am schrottplatz: händler - zwei generatoren für 500ebbys
-  sollen sie abolen und dann in die l  lagerhalle in der nähevom nightmarket oder im auto
+  sollen sie abolen und dann in die lagerhalle in der nähe vom nightmarket oder im auto
   dann am abend voher am niht market abliefern
   vi kauft dort sachen für liam
 
