@@ -36,6 +36,19 @@ DT Hustle:
 6 - 200 3
 7 - 200
 
+
+# 2026-10-23
+wir haben die zusätzlichen getränke für greg nicht bekommen
+
+ethan war der veranstalter des night markets der so furchbar eskaliert ist und bei dem black orchid hochgenommen wurde
+
+der nightmarket  wurde wie erwartet angegriffen unteranderem auch mit einem netrunner
+raphael de botega hat mit ethan geredet - er mag ihn nicht und  macht ihn fürden eskalierten nightmarket verantwortlich
+
+
+
+
+
 # 2026-10-20
 habe nach dem kampf meine kollegen begleite die ware die nicht zu unserem auftrag gehört zur verwarung gebracht
 mein gebrochenes bein wurde versorgt
