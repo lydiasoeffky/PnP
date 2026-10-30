@@ -34,7 +34,15 @@ DT Hustle:
 4 - 100
 5 - 200
 6 - 200 3
-7 - 200
+7 - 200 
+
+# 2026-10-30
+bin bei stitch einkaufen - hat unique klamotten die alle eine geschichte erzählen
+sakko + hemd= 450
+mantel = 200
+pulli für katinka = 100
+
+
 
 
 # 2026-10-23
@@ -44,9 +52,6 @@ ethan war der veranstalter des night markets der so furchbar eskaliert ist und b
 
 der nightmarket  wurde wie erwartet angegriffen unteranderem auch mit einem netrunner
 raphael de botega hat mit ethan geredet - er mag ihn nicht und  macht ihn fürden eskalierten nightmarket verantwortlich
-
-
-
 
 
 # 2026-10-20
@@ -60,8 +65,6 @@ greg will auf dem night market zeug anbieten und hat nicht genug getränke
   sollen für ihn am black room pub zeug abholen
   - min. 3 kästen bier
   - so viele sorten wie möglich
-
-
 
 
 
