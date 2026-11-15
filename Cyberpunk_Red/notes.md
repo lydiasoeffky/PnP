@@ -28,13 +28,26 @@ presinct 3
   => ich soll beweisen das ich kleidung nähen kann 
 
 DT Hustle:
-1 - 100
-2 - 200
-3 - 0
-4 - 100
-5 - 200
-6 - 200 3
-7 - 200 
+DT: 6
+
+
+# 2026-11-15
+wir sollen uns aus little europe fern halten
+  Tante Fire (Firebird bzw Firecracker) ist teil der "Familie" von Vi
+sollen uns am nächsten morgen um 1000 im observationtreffen
+der auftraggeber der silvia monroe betreibt gerade datensicherung
+  räumt auf nach dem nuke unfall in central
+  -> sollen daten sichern und ggf eine person festsetzen
+  es wurden schon drei team reingeschickt
+  1.1 daten sichern: lokation eines gebäudes-> 3000eb
+  1.2. ggf. survey team auffinden -> bonus
+  2. daten aus dem gebäude extrahieren -> ???eb
+  gesamt 7000eb plus boni
+auf arbeit nachfragen ob uns leute als backup zur verfügung stehen
+  vorwand: rettungsmission für verschollene
+
+
+
 
 # 2026-10-30
 bin bei stitch einkaufen - hat unique klamotten die alle eine geschichte erzählen
