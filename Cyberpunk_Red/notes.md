@@ -30,6 +30,20 @@ presinct 3
 DT Hustle:
 DT: 6
 
+# 2026-11-21
+malestrom clubocation hq totentanz in der nördlichen hotzone
+urban legend: skunk, man weiß nicht ober real ist und ob der zu malestrom gehört
+gibt av patrouillie 
+
+bekomme eine einladung zum zur umschulung zum enforcer in der hotzone in zwei wochen
+
+die meiste ausrüstung ist von biotechnica
+wir sollen uns aus haywire raus halten 
+
+sind gerade in/an der hotzone angekommen
+
+
+
 
 # 2026-11-15
 wir sollen uns aus little europe fern halten
